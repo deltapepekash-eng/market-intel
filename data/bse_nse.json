@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T13:36:37.924368+00:00",
+  "updated": "2026-03-28T14:03:34.612567+00:00",
   "count": 165,
   "log": [
     "BSE announcements: OK (pages 1-2)",
@@ -10,10 +10,10 @@
     "LiveMint: 35 items (7d window)",
     "Moneycontrol: FAILED — 403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/corporateannouncements.xml",
     "Business Standard: FAILED — 403 Client Error: Forbidden for url: https://www.business-standard.com/rss/markets-106.rss",
-    "Exchange News: 50 items (7d window)",
-    "BSE/NSE Results: 11 items (7d window)",
-    "Corp Actions: 20 items (7d window)",
-    "Board Meetings: 29 items (7d window)",
+    "Exchange News: 46 items (7d window)",
+    "BSE/NSE Results: 22 items (7d window)",
+    "Corp Actions: 19 items (7d window)",
+    "Board Meetings: 31 items (7d window)",
     "Bulk/Block Deals: 40 items (7d window)"
   ],
   "items": [
@@ -627,6 +627,62 @@
       "type": "board"
     },
     {
+      "title": "Pursuant to the Regulation 30 of the SEBI (LODR) Regulation, 2015 read with sub clause 16(g) of Clause A of PART A if the Schedule III of the LODR Regulation, 2015, we hereby inform you ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a81565fc-df67-4808-9e6e-fe401536fff3.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Closure of Trading Window",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bb9aeb88-e60b-4a25-949e-7ae49e1cf86c.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "The Trading Window for dealing in security of Company shall remain closed with effect from Wednesday, 1st April, 2026 till the completion of 48 hours after the declaration of Financial ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b2cb2eb2-ec07-437e-8194-264fdce195b0.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "We would like to inform all our stakeholders that the Company has today given a Corporate Guarantee in favour of Axis Finance Limited, to secure the rupee term loan facility availed/to ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/20c7b966-25e5-42d5-ac3e-e01e657eff1b.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "Pursuant to the provisions of the Code on Prohibition of Insider Trading of Gaudium IVF and Women Health Limited (\"Company\") and the SEBI PIT Regulations, 2015, as amended from time to ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c4855113-b1e6-4e2b-8266-a5463dbbbdc7.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "Closure of Trading window for the quarter and year ending on March, 31, 2026.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7acaf8c3-e323-4592-b2cd-5289a0aaed9c.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "Order passed by Assessment Unit, National Faceless Assessment Centre, Income Tax Department for AY 2023-24",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cb8d55e5-512f-4238-a308-5b0b4fc0a4c8.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "With reference to the above cited subject, we hereby submit the copies of the Public Notice by way of Advertisement in Newspapers, published today i.e. on Saturday, March 28, 2026, in connection ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a6f11d64-089f-4680-b108-be7ad728dabd.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
       "title": "Pursuant to Regulation 30 read with Schedule III of the Listing Regulations, please find attached disclosure regarding the Order passed by the Additional Commissioner, CGST & Central Excise, ....",
       "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e863a158-a09a-442a-b7ef-34db6fe5143c.pdf",
       "source": "BSE",
@@ -636,13 +692,6 @@
     {
       "title": "The Company has intimated the BSE for closure of trading window",
       "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/394aab36-56b5-496e-9e6e-497064401a42.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "insider"
-    },
-    {
-      "title": "Closure of Trading Window for the quarter and year ending on March 31, 2026.",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a6e40951-d51c-4ca1-bc95-9feac466ec9f.pdf",
       "source": "BSE",
       "ts": 0,
       "type": "insider"
@@ -886,13 +935,6 @@
       "type": "filing"
     },
     {
-      "title": "Closure of Trading window",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bf9126be-30ff-4a0f-a3de-8e5ea1240145.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "insider"
-    },
-    {
       "title": "BBB- (Stable) credit rating assigned by ICRA",
       "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/89523747-52c4-4372-b6c6-1b5fe8c97c80.pdf",
       "source": "BSE",
@@ -1129,48 +1171,6 @@
       "source": "BSE",
       "ts": 0,
       "type": "filing"
-    },
-    {
-      "title": "Please find the enclosed Scrutinizer''s Report for the EGM Held on 28th March 2026",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f7b21571-93f8-40c5-845e-02a55b172116.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "board"
-    },
-    {
-      "title": "As attached.",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5d52437a-d489-4ede-acdf-580b383f2ed6.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Intimation of Allotment of Equity Shares on Conversion of Warrants",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c9a4a19b-2632-4550-8af1-c4145cd67af0.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Intimation under Regulation 30 of the SEBI(LODR) Regulations,2015 regarding postal ballot result and Scrutinizer  report",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/551f8c91-4c39-4f4b-a25e-2205b20ce970.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "board"
-    },
-    {
-      "title": "Newspaper Advertisement published in Business Standard (National Daily) and Arthik Lipi (Regional Daily) on 28th March, 2026, pertaining to opening of Special Window for Re-lodgement of ....",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/25f0d980-b516-44c0-8344-55d09460ae99.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Please find the enclosed Proceedings of the EGM",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8a8662b6-cf37-4786-8439-e41ad8ecff42.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "board"
     }
   ]
 }
