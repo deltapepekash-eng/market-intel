@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T13:16:47.120884+00:00",
+  "updated": "2026-03-28T13:22:37.645600+00:00",
   "count": 163,
   "log": [
     "BSE announcements: OK (pages 1-2)",
@@ -12,9 +12,9 @@
     "Business Standard: FAILED — 403 Client Error: Forbidden for url: https://www.business-standard.com/rss/markets-106.rss",
     "Exchange News: 50 items (7d window)",
     "BSE/NSE Results: 22 items (7d window)",
-    "Corp Actions: 19 items (7d window)",
+    "Corp Actions: 20 items (7d window)",
     "Board Meetings: 28 items (7d window)",
-    "Bulk/Block Deals: 40 items (7d window)"
+    "Bulk/Block Deals: 39 items (7d window)"
   ],
   "items": [
     {
@@ -39,6 +39,13 @@
       "type": "filing"
     },
     {
+      "title": "Google sued by Epstein survivors for refusing to remove AI Mode results exposing their identities",
+      "link": "https://www.livemint.com/companies/news/google-doj-sued-by-jeffrey-epstein-survivors-for-refusing-to-remove-ai-mode-results-exposing-their-identities-11774679364898.html",
+      "source": "LiveMint",
+      "ts": 1774704115000,
+      "type": "results"
+    },
+    {
       "title": "Goldman Sachs’ India bets slide in FY26; 5 stocks crash over 50% but one turns multibagger",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-slide-in-fy26-5-stocks-crash-over-50-but-one-turns-multibagger/slideshow/129860800.cms",
       "source": "ET Markets",
@@ -60,10 +67,24 @@
       "type": "filing"
     },
     {
+      "title": "Google nears massive financing agreement for Anthropic's 500-megawatt data center project: Report",
+      "link": "https://www.livemint.com/companies/news/google-nears-massive-financing-agreement-for-anthropics-500-megawatt-data-center-project-report-11774672878301.html",
+      "source": "LiveMint",
+      "ts": 1774696327000,
+      "type": "filing"
+    },
+    {
       "title": "Concurrent Losers: 13 small-cap stocks decline for 5 consecutive sessions",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-13-small-cap-stocks-decline-for-5-consecutive-sessions/slideshow/129859504.cms",
       "source": "ET Markets",
       "ts": 1774695172000,
+      "type": "filing"
+    },
+    {
+      "title": "KPMG plans to lay off hundreds of workers — who is likely to be impacted? Everything we know so far",
+      "link": "https://www.livemint.com/companies/news/kpmg-plans-to-lay-off-hundreds-of-workers-who-is-likely-to-be-impacted-everything-we-know-so-far-11774667641106.html",
+      "source": "LiveMint",
+      "ts": 1774691059000,
       "type": "filing"
     },
     {
@@ -123,10 +144,38 @@
       "type": "filing"
     },
     {
+      "title": "Workers strike at one of the largest US meatpacking plants will continue for a 3rd week",
+      "link": "https://www.livemint.com/companies/workers-strike-at-one-of-the-largest-us-meatpacking-plants-will-continue-for-a-3rd-week-11774640438518.html",
+      "source": "LiveMint",
+      "ts": 1774660238000,
+      "type": "filing"
+    },
+    {
       "title": "Qatar's Doha Bank to bid India 'goodbye'",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/qatars-doha-bank-to-bid-india-goodbye/articleshow/129857300.cms",
       "source": "ET Markets",
       "ts": 1774659514000,
+      "type": "filing"
+    },
+    {
+      "title": "Exclusive-US sends subpoenas in Warner-Paramount antitrust review as probe picks up steam",
+      "link": "https://www.livemint.com/companies/exclusiveus-sends-subpoenas-in-warner-paramount-antitrust-review-as-probe-picks-up-steam-11774638086163.html",
+      "source": "LiveMint",
+      "ts": 1774657885000,
+      "type": "filing"
+    },
+    {
+      "title": "Codelco Expects to Churn Out Slightly More Copper This Year",
+      "link": "https://www.livemint.com/companies/codelco-expects-to-churn-out-slightly-more-copper-this-year-11774636345809.html",
+      "source": "LiveMint",
+      "ts": 1774656145000,
+      "type": "filing"
+    },
+    {
+      "title": "Judge wont block meeting that could exempt Gulf drilling from Endangered Species Act",
+      "link": "https://www.livemint.com/companies/judge-wont-block-meeting-that-could-exempt-gulf-drilling-from-endangered-species-act-11774629873629.html",
+      "source": "LiveMint",
+      "ts": 1774649673000,
       "type": "filing"
     },
     {
@@ -141,6 +190,13 @@
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/deposits-continues-to-lag-credit-growth-credit-deposit-ratio-at-record-high/articleshow/129857310.cms",
       "source": "ET Markets",
       "ts": 1774640837000,
+      "type": "filing"
+    },
+    {
+      "title": "Indian exporters look abroad to manage payment risks",
+      "link": "https://www.livemint.com/companies/indian-exporters-overseas-payment-entities-geopolitical-risks-business-continuity-11774516362098.html",
+      "source": "LiveMint",
+      "ts": 1774637436000,
       "type": "filing"
     },
     {
@@ -162,6 +218,13 @@
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-nse-bse-to-remain-shut-on-these-2-days-next-week-check-full-calendar/articleshow/129845637.cms",
       "source": "ET Markets",
       "ts": 1774629407000,
+      "type": "filing"
+    },
+    {
+      "title": "Growel Formulations forays into poultry sector with strategic investment in Provet Pharma — details here",
+      "link": "https://www.livemint.com/companies/news/growel-formulations-forays-into-poultry-sector-with-strategic-investment-in-provet-pharma-details-here-11774602705373.html",
+      "source": "LiveMint",
+      "ts": 1774629134000,
       "type": "filing"
     },
     {
@@ -211,6 +274,13 @@
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-march-2026-rejig-bharti-airtel-sees-weight-increase-reliance-hdfc-bank-to-witness-outflows/articleshow/129842250.cms",
       "source": "ET Markets",
       "ts": 1774619319000,
+      "type": "filing"
+    },
+    {
+      "title": "Mark Zuckerberg accelerates Meta's 'AI-native' overhaul with strict AI coding targets for engineers: Report",
+      "link": "https://www.livemint.com/companies/news/mark-zuckerberg-accelerates-metas-ai-native-overhaul-with-strict-ai-coding-targets-for-engineers-report-11774591169815.html",
+      "source": "LiveMint",
+      "ts": 1774618111000,
       "type": "filing"
     },
     {
@@ -284,6 +354,20 @@
       "type": "filing"
     },
     {
+      "title": "After oil and gas, West Asia war now threatens condom shortage in India",
+      "link": "https://www.livemint.com/companies/india-condom-production-shortage-prices-rise-west-asia-war-impact-11774508645153.html",
+      "source": "LiveMint",
+      "ts": 1774609207000,
+      "type": "filing"
+    },
+    {
+      "title": "Air India Express raises borrowing limit to  ₹17,500 crore amid losses, turbulence",
+      "link": "https://www.livemint.com/companies/air-india-express-raises-borrowing-limit-rs17500-crore-losses-widen-11774580755785.html",
+      "source": "LiveMint",
+      "ts": 1774608948000,
+      "type": "filing"
+    },
+    {
       "title": "Jefferies' Chris Wood sells HDFC Bank after Chairman's puzzling exit, cuts India weightage",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-chris-wood-sells-hdfc-bank-after-chairmans-puzzling-exit-cuts-india-weightage/articleshow/129839242.cms",
       "source": "ET Markets",
@@ -326,6 +410,13 @@
       "type": "dividend"
     },
     {
+      "title": "SpaceX IPO: Musk may offer 30% stake to retail investors as company plans April briefings",
+      "link": "https://www.livemint.com/companies/news/spacex-ipo-musk-may-offer-30-stake-to-retail-investors-as-company-plans-april-briefings-11774577885027.html",
+      "source": "LiveMint",
+      "ts": 1774606706000,
+      "type": "insider"
+    },
+    {
       "title": "UBS picks: Reliance Industries, Adani Ports, among 10 largecap stocks that can rally up to 42%",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-picks-reliance-industries-adani-ports-among-10-largecap-stocks-that-can-rally-up-to-42/slideshow/129838891.cms",
       "source": "ET Markets",
@@ -337,6 +428,13 @@
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-live-updates-27-mar-2026/liveblog/129838768.cms",
       "source": "ET Markets",
       "ts": 1774606024000,
+      "type": "filing"
+    },
+    {
+      "title": "Who is Lindsay-Rae McIntyre? Microsoft's diversity head quits as HR team undergoes major AI-first restructuring",
+      "link": "https://www.livemint.com/companies/people/who-is-lindsay-rae-mcintyre-microsofts-diversity-head-quits-as-hr-team-undergoes-major-ai-first-restructuring-11774581156954.html",
+      "source": "LiveMint",
+      "ts": 1774605959000,
       "type": "filing"
     },
     {
@@ -375,11 +473,165 @@
       "type": "filing"
     },
     {
+      "title": "Investing in IPL a proxy for India consumption story: RCB co-owner Aryaman Birla",
+      "link": "https://www.livemint.com/companies/news/investing-in-ipl-a-proxy-for-india-consumption-story-rcb-co-owner-aryaman-birla-11774537397960.html",
+      "source": "LiveMint",
+      "ts": 1774591263000,
+      "type": "filing"
+    },
+    {
+      "title": "JSW benchmarks itself against global leaders, says Parth Jindal",
+      "link": "https://www.livemint.com/companies/news/jsw-benchmarks-itself-against-global-leaders-says-parth-jindal-11774533933191.html",
+      "source": "LiveMint",
+      "ts": 1774591222000,
+      "type": "filing"
+    },
+    {
+      "title": "upGrad eyes Unacademy deal at 90% markdown over 2021 valuation",
+      "link": "https://www.livemint.com/companies/upgrad-to-pay-2-055-crore-for-unacademy-11774522629699.html",
+      "source": "LiveMint",
+      "ts": 1774589462000,
+      "type": "filing"
+    },
+    {
+      "title": "Renewable energy firms plug into broader play for scale, growth",
+      "link": "https://www.livemint.com/companies/renewable-energy-diversification-value-chain-solar-wind-11774501913072.html",
+      "source": "LiveMint",
+      "ts": 1774589442000,
+      "type": "filing"
+    },
+    {
+      "title": "Anthropic vs Pentagon: Court grants injunction, questions govt’s move to ‘cripple’ AI firm",
+      "link": "https://www.livemint.com/companies/news/anthropic-wins-preliminary-injunction-against-pentagon-in-landmark-ai-blacklisting-case-11774567078903.html",
+      "source": "LiveMint",
+      "ts": 1774587640000,
+      "type": "filing"
+    },
+    {
+      "title": "From beer to cosmetics, Asia feels full force of war-fuelled energy crisis",
+      "link": "https://www.livemint.com/companies/from-beer-to-cosmetics-asia-feels-full-force-of-war-fuelled-energy-crisis-11774566121226.html",
+      "source": "LiveMint",
+      "ts": 1774585920000,
+      "type": "filing"
+    },
+    {
+      "title": "Millennium and Engineers Gate Wind Down Hedge Fund Partnership",
+      "link": "https://www.livemint.com/companies/millennium-and-engineers-gate-wind-down-hedge-fund-partnership-11774550698779.html",
+      "source": "LiveMint",
+      "ts": 1774570498000,
+      "type": "filing"
+    },
+    {
+      "title": "Sonia Rawal to head Allianz Jio Reinsurance as JV commences operations",
+      "link": "https://www.livemint.com/companies/news/allianz-jio-reinsurance-ceo-sonia-rawal-bajaj-allianz-11774521931744.html",
+      "source": "LiveMint",
+      "ts": 1774547541000,
+      "type": "filing"
+    },
+    {
+      "title": "Meta’s new pay plan could hand top executives billions — but there’s a catch",
+      "link": "https://www.livemint.com/companies/news/metas-new-pay-plan-could-hand-top-executives-billions-but-there-s-a-catch-11774513368689.html",
+      "source": "LiveMint",
+      "ts": 1774537044000,
+      "type": "filing"
+    },
+    {
+      "title": "Nayara Energy raises petrol, diesel prices as West Asia war squeezes supply",
+      "link": "https://www.livemint.com/companies/news/nayara-energy-raises-petrol-diesel-prices-as-west-asia-war-squeezes-supply-11774511959196.html",
+      "source": "LiveMint",
+      "ts": 1774535411000,
+      "type": "filing"
+    },
+    {
+      "title": "L&amp;T Tech to sell smart world portfolio to AM Group-backed AMI Paradigm Solutions",
+      "link": "https://www.livemint.com/companies/news/lt-tech-sells-smart-world-communication-business-india-ami-paradigm-11774504863808.html",
+      "source": "LiveMint",
+      "ts": 1774529419000,
+      "type": "filing"
+    },
+    {
+      "title": "Why Palantir CEO believes people with ADHD, autism and neurodivergence will thrive in AI boom",
+      "link": "https://www.livemint.com/companies/people/palantir-ceo-alex-karp-thinks-people-with-adhd-autism-other-neudivergence-disorders-have-a-unique-edge-in-the-ai-era-11774497154873.html",
+      "source": "LiveMint",
+      "ts": 1774526636000,
+      "type": "filing"
+    },
+    {
+      "title": "Everstone-backed Subway set to plan India IPO to raise up to $150 million",
+      "link": "https://www.livemint.com/companies/subway-india-ipo-everstone-qsr-food-services-market-eversub-restaurants-11774496006128.html",
+      "source": "LiveMint",
+      "ts": 1774525858000,
+      "type": "filing"
+    },
+    {
+      "title": "Indian luxury set for strong sales as West Asia war keeps affluent at home",
+      "link": "https://www.livemint.com/companies/news/west-asia-war-could-spur-domestic-luxury-consumption-11774498031448.html",
+      "source": "LiveMint",
+      "ts": 1774524718000,
+      "type": "filing"
+    },
+    {
+      "title": "Fashion retailer OVS bets big on India, plans to make it its largest market outside Italy",
+      "link": "https://www.livemint.com/companies/ovs-india-family-fashion-clothing-apparel-retail-expansion-11774445732395.html",
+      "source": "LiveMint",
+      "ts": 1774518752000,
+      "type": "filing"
+    },
+    {
+      "title": "Infosys’ $560 million bet on two US tech firms is its all-time highest M&amp;A spend in a year",
+      "link": "https://www.livemint.com/companies/news/infosys-560-million-bet-on-two-tech-firms-takes-its-acquisition-spend-to-all-time-high-11774491866716.html",
+      "source": "LiveMint",
+      "ts": 1774514419000,
+      "type": "filing"
+    },
+    {
+      "title": "Plum Insurance raises $20 million, offers partial exit to Incubate Fund Asia",
+      "link": "https://www.livemint.com/companies/start-ups/plum-insurance-raises-money-early-investor-exit-valuation-doubles-healthcare-expansion-plans-11774435729326.html",
+      "source": "LiveMint",
+      "ts": 1774504863000,
+      "type": "filing"
+    },
+    {
+      "title": "Binance Tightens Market Making Rules In Wake of Crash Criticism",
+      "link": "https://www.livemint.com/companies/binance-tightens-market-making-rules-in-wake-of-crash-criticism-11774465279940.html",
+      "source": "LiveMint",
+      "ts": 1774485079000,
+      "type": "filing"
+    },
+    {
+      "title": "Jury finds Instagram and YouTube liable in a landmark social media addiction trial",
+      "link": "https://www.livemint.com/companies/jury-finds-instagram-and-youtube-liable-in-a-landmark-social-media-addiction-trial-11774465277450.html",
+      "source": "LiveMint",
+      "ts": 1774485077000,
+      "type": "filing"
+    },
+    {
+      "title": "SC upholds states’ right to change industrial policy in a 25-year-old dispute",
+      "link": "https://www.livemint.com/companies/supreme-court-electricity-duty-exemption-captive-power-plants-maharashtra-industries-11774441204815.html",
+      "source": "LiveMint",
+      "ts": 1774473064000,
+      "type": "filing"
+    },
+    {
+      "title": "Rocketlane raises $60mn Series C round, led by US-based PE firm Insight Partners",
+      "link": "https://www.livemint.com/companies/news/rocketlane-raises-60mn-series-c-ai-artificial-intelligence-pe-firm-insight-partners-professional-services-automation-11774442341411.html",
+      "source": "LiveMint",
+      "ts": 1774468469000,
+      "type": "filing"
+    },
+    {
       "title": "Globe Textiles (India) Share Price Today, Globe Textiles (India) Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTBSMTZmR0M5aWhYQVA5RUVLd1dNQUFzSldHdGI2eDVBRzA4anYyWE1JMnlJUWtzcU16TDVad0lVSGFoVXRtUDJNLU54UEpvcUpGOFdCUFZsWGdwdmdTQ2pmVGctZHJRZEVvZ1BVVGRMZ0YwUXpJNXpMYkZmMlZtSTg2V1I1V1RoSkRfMUtHQ01qNEJIR1E?oc=5",
       "source": "Board Meetings",
       "ts": 1774398060000,
       "type": "board"
+    },
+    {
+      "title": "Please find the Intimation regarding Allotment of Equity Shares on Preferential Basis Dated: 28th March, 2026.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/50d0444e-e1d9-4284-ae0c-8d0d9c9b368e.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
     },
     {
       "title": "Dislosure under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended Septmeber 2025",
@@ -903,258 +1155,6 @@
       "title": "Update under Regulation 30 read with Para A Part A of Schedule III of SEBI (Listing Obligations and Discloure Requirements) Regulations, 2015",
       "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/dcae7be4-76b8-451a-8f23-bfd3827697a3.pdf",
       "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Outcome of Securities Committee Meeting",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ff92ec46-7d13-44fe-b191-aba97d9b1528.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Google sued by Epstein survivors for refusing to remove AI Mode results exposing their identities",
-      "link": "https://www.livemint.com/companies/news/google-doj-sued-by-jeffrey-epstein-survivors-for-refusing-to-remove-ai-mode-results-exposing-their-identities-11774679364898.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "results"
-    },
-    {
-      "title": "Google nears massive financing agreement for Anthropic's 500-megawatt data center project: Report",
-      "link": "https://www.livemint.com/companies/news/google-nears-massive-financing-agreement-for-anthropics-500-megawatt-data-center-project-report-11774672878301.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "KPMG plans to lay off hundreds of workers — who is likely to be impacted? Everything we know so far",
-      "link": "https://www.livemint.com/companies/news/kpmg-plans-to-lay-off-hundreds-of-workers-who-is-likely-to-be-impacted-everything-we-know-so-far-11774667641106.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Workers strike at one of the largest US meatpacking plants will continue for a 3rd week",
-      "link": "https://www.livemint.com/companies/workers-strike-at-one-of-the-largest-us-meatpacking-plants-will-continue-for-a-3rd-week-11774640438518.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Exclusive-US sends subpoenas in Warner-Paramount antitrust review as probe picks up steam",
-      "link": "https://www.livemint.com/companies/exclusiveus-sends-subpoenas-in-warner-paramount-antitrust-review-as-probe-picks-up-steam-11774638086163.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Codelco Expects to Churn Out Slightly More Copper This Year",
-      "link": "https://www.livemint.com/companies/codelco-expects-to-churn-out-slightly-more-copper-this-year-11774636345809.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Judge wont block meeting that could exempt Gulf drilling from Endangered Species Act",
-      "link": "https://www.livemint.com/companies/judge-wont-block-meeting-that-could-exempt-gulf-drilling-from-endangered-species-act-11774629873629.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Indian exporters look abroad to manage payment risks",
-      "link": "https://www.livemint.com/companies/indian-exporters-overseas-payment-entities-geopolitical-risks-business-continuity-11774516362098.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Growel Formulations forays into poultry sector with strategic investment in Provet Pharma — details here",
-      "link": "https://www.livemint.com/companies/news/growel-formulations-forays-into-poultry-sector-with-strategic-investment-in-provet-pharma-details-here-11774602705373.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Mark Zuckerberg accelerates Meta's 'AI-native' overhaul with strict AI coding targets for engineers: Report",
-      "link": "https://www.livemint.com/companies/news/mark-zuckerberg-accelerates-metas-ai-native-overhaul-with-strict-ai-coding-targets-for-engineers-report-11774591169815.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "After oil and gas, West Asia war now threatens condom shortage in India",
-      "link": "https://www.livemint.com/companies/india-condom-production-shortage-prices-rise-west-asia-war-impact-11774508645153.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Air India Express raises borrowing limit to  ₹17,500 crore amid losses, turbulence",
-      "link": "https://www.livemint.com/companies/air-india-express-raises-borrowing-limit-rs17500-crore-losses-widen-11774580755785.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "SpaceX IPO: Musk may offer 30% stake to retail investors as company plans April briefings",
-      "link": "https://www.livemint.com/companies/news/spacex-ipo-musk-may-offer-30-stake-to-retail-investors-as-company-plans-april-briefings-11774577885027.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "insider"
-    },
-    {
-      "title": "Who is Lindsay-Rae McIntyre? Microsoft's diversity head quits as HR team undergoes major AI-first restructuring",
-      "link": "https://www.livemint.com/companies/people/who-is-lindsay-rae-mcintyre-microsofts-diversity-head-quits-as-hr-team-undergoes-major-ai-first-restructuring-11774581156954.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Investing in IPL a proxy for India consumption story: RCB co-owner Aryaman Birla",
-      "link": "https://www.livemint.com/companies/news/investing-in-ipl-a-proxy-for-india-consumption-story-rcb-co-owner-aryaman-birla-11774537397960.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "JSW benchmarks itself against global leaders, says Parth Jindal",
-      "link": "https://www.livemint.com/companies/news/jsw-benchmarks-itself-against-global-leaders-says-parth-jindal-11774533933191.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "upGrad eyes Unacademy deal at 90% markdown over 2021 valuation",
-      "link": "https://www.livemint.com/companies/upgrad-to-pay-2-055-crore-for-unacademy-11774522629699.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Renewable energy firms plug into broader play for scale, growth",
-      "link": "https://www.livemint.com/companies/renewable-energy-diversification-value-chain-solar-wind-11774501913072.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Anthropic vs Pentagon: Court grants injunction, questions govt’s move to ‘cripple’ AI firm",
-      "link": "https://www.livemint.com/companies/news/anthropic-wins-preliminary-injunction-against-pentagon-in-landmark-ai-blacklisting-case-11774567078903.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "From beer to cosmetics, Asia feels full force of war-fuelled energy crisis",
-      "link": "https://www.livemint.com/companies/from-beer-to-cosmetics-asia-feels-full-force-of-war-fuelled-energy-crisis-11774566121226.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Millennium and Engineers Gate Wind Down Hedge Fund Partnership",
-      "link": "https://www.livemint.com/companies/millennium-and-engineers-gate-wind-down-hedge-fund-partnership-11774550698779.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Sonia Rawal to head Allianz Jio Reinsurance as JV commences operations",
-      "link": "https://www.livemint.com/companies/news/allianz-jio-reinsurance-ceo-sonia-rawal-bajaj-allianz-11774521931744.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Meta’s new pay plan could hand top executives billions — but there’s a catch",
-      "link": "https://www.livemint.com/companies/news/metas-new-pay-plan-could-hand-top-executives-billions-but-there-s-a-catch-11774513368689.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Nayara Energy raises petrol, diesel prices as West Asia war squeezes supply",
-      "link": "https://www.livemint.com/companies/news/nayara-energy-raises-petrol-diesel-prices-as-west-asia-war-squeezes-supply-11774511959196.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "L&amp;T Tech to sell smart world portfolio to AM Group-backed AMI Paradigm Solutions",
-      "link": "https://www.livemint.com/companies/news/lt-tech-sells-smart-world-communication-business-india-ami-paradigm-11774504863808.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Why Palantir CEO believes people with ADHD, autism and neurodivergence will thrive in AI boom",
-      "link": "https://www.livemint.com/companies/people/palantir-ceo-alex-karp-thinks-people-with-adhd-autism-other-neudivergence-disorders-have-a-unique-edge-in-the-ai-era-11774497154873.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Everstone-backed Subway set to plan India IPO to raise up to $150 million",
-      "link": "https://www.livemint.com/companies/subway-india-ipo-everstone-qsr-food-services-market-eversub-restaurants-11774496006128.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Indian luxury set for strong sales as West Asia war keeps affluent at home",
-      "link": "https://www.livemint.com/companies/news/west-asia-war-could-spur-domestic-luxury-consumption-11774498031448.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Fashion retailer OVS bets big on India, plans to make it its largest market outside Italy",
-      "link": "https://www.livemint.com/companies/ovs-india-family-fashion-clothing-apparel-retail-expansion-11774445732395.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Infosys’ $560 million bet on two US tech firms is its all-time highest M&amp;A spend in a year",
-      "link": "https://www.livemint.com/companies/news/infosys-560-million-bet-on-two-tech-firms-takes-its-acquisition-spend-to-all-time-high-11774491866716.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Plum Insurance raises $20 million, offers partial exit to Incubate Fund Asia",
-      "link": "https://www.livemint.com/companies/start-ups/plum-insurance-raises-money-early-investor-exit-valuation-doubles-healthcare-expansion-plans-11774435729326.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Binance Tightens Market Making Rules In Wake of Crash Criticism",
-      "link": "https://www.livemint.com/companies/binance-tightens-market-making-rules-in-wake-of-crash-criticism-11774465279940.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Jury finds Instagram and YouTube liable in a landmark social media addiction trial",
-      "link": "https://www.livemint.com/companies/jury-finds-instagram-and-youtube-liable-in-a-landmark-social-media-addiction-trial-11774465277450.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "SC upholds states’ right to change industrial policy in a 25-year-old dispute",
-      "link": "https://www.livemint.com/companies/supreme-court-electricity-duty-exemption-captive-power-plants-maharashtra-industries-11774441204815.html",
-      "source": "LiveMint",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Rocketlane raises $60mn Series C round, led by US-based PE firm Insight Partners",
-      "link": "https://www.livemint.com/companies/news/rocketlane-raises-60mn-series-c-ai-artificial-intelligence-pe-firm-insight-partners-professional-services-automation-11774442341411.html",
-      "source": "LiveMint",
       "ts": 0,
       "type": "filing"
     }
