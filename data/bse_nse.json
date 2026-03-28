@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-28T13:22:37.645600+00:00",
-  "count": 163,
+  "updated": "2026-03-28T13:36:37.924368+00:00",
+  "count": 165,
   "log": [
     "BSE announcements: OK (pages 1-2)",
     "BSE actions: 23 items",
@@ -11,10 +11,10 @@
     "Moneycontrol: FAILED — 403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/corporateannouncements.xml",
     "Business Standard: FAILED — 403 Client Error: Forbidden for url: https://www.business-standard.com/rss/markets-106.rss",
     "Exchange News: 50 items (7d window)",
-    "BSE/NSE Results: 22 items (7d window)",
+    "BSE/NSE Results: 11 items (7d window)",
     "Corp Actions: 20 items (7d window)",
-    "Board Meetings: 28 items (7d window)",
-    "Bulk/Block Deals: 39 items (7d window)"
+    "Board Meetings: 29 items (7d window)",
+    "Bulk/Block Deals: 40 items (7d window)"
   ],
   "items": [
     {
@@ -627,6 +627,34 @@
       "type": "board"
     },
     {
+      "title": "Pursuant to Regulation 30 read with Schedule III of the Listing Regulations, please find attached disclosure regarding the Order passed by the Additional Commissioner, CGST & Central Excise, ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e863a158-a09a-442a-b7ef-34db6fe5143c.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "The Company has intimated the BSE for closure of trading window",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/394aab36-56b5-496e-9e6e-497064401a42.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "Closure of Trading Window for the quarter and year ending on March 31, 2026.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a6e40951-d51c-4ca1-bc95-9feac466ec9f.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "Submission of disclosure under Regulation 30 of LODR Regulations, 2015",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/25ccd1e7-6ec0-4cf6-9f18-43a168ba4d2e.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
       "title": "Please find the Intimation regarding Allotment of Equity Shares on Preferential Basis Dated: 28th March, 2026.",
       "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/50d0444e-e1d9-4284-ae0c-8d0d9c9b368e.pdf",
       "source": "BSE",
@@ -1143,20 +1171,6 @@
       "source": "BSE",
       "ts": 0,
       "type": "board"
-    },
-    {
-      "title": "Intimation of Trading Window Closure for the half year and year ending on March 31, 2026",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c843d15-0b51-4f80-bd3a-5db2ae022208.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "insider"
-    },
-    {
-      "title": "Update under Regulation 30 read with Para A Part A of Schedule III of SEBI (Listing Obligations and Discloure Requirements) Regulations, 2015",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/dcae7be4-76b8-451a-8f23-bfd3827697a3.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
     }
   ]
 }
