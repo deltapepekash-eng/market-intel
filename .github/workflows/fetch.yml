@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch RSS
         run: |
-          curl -s "https://api.allorigins.win/raw?url=https://news.google.com/rss/search?q=NSE+India&hl=en-IN&gl=IN&ceid=IN:en" > rss.xml
+          curl -L "https://news.google.com/rss/search?q=NSE+India&hl=en-IN&gl=IN&ceid=IN:en" -o rss.xml
 
       - name: Convert to JSON
         run: |
@@ -46,8 +46,8 @@ EOF
 
       - name: Commit
         run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add data.json
           git commit -m "update data" || echo "no changes"
           git push
