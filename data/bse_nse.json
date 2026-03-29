@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T04:50:32.329318+00:00",
+  "updated": "2026-03-29T05:02:08.881248+00:00",
   "count": 88,
   "log": [
     "BSE NEWS_DT sample: '2026-03-29T09:10:15.627' | keys: ['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
@@ -14,9 +14,9 @@
     "Business Standard: FAILED — 403 Client Error: Forbidden for url: https://www.business-standard.com/rss/markets-106.rss",
     "Exchange News: 38 items (7d window)",
     "BSE/NSE Results: 20 items (7d window)",
-    "Corp Actions: 18 items (7d window)",
+    "Corp Actions: 17 items (7d window)",
     "Board Meetings: 26 items (7d window)",
-    "Bulk/Block Deals: 39 items (7d window)"
+    "Bulk/Block Deals: 21 items (7d window)"
   ],
   "items": [
     {
