@@ -1,21 +1,83 @@
 {
-  "updated": "2026-03-29T14:04:37.495199+00:00",
-  "bse_count": 41,
-  "news_count": 10,
+  "updated": "2026-03-29T15:23:13.236016+00:00",
+  "bse_count": 49,
+  "news_count": 25,
   "log": [
-    "BSE NEWS_DT='2026-03-29T19:25:51.4' keys=['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
-    "BSE page 1: 0/44 with timestamps",
-    "BSE page 2: 0/0 with timestamps",
+    "BSE NEWS_DT='2026-03-29T20:51:48.6' keys=['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
+    "BSE p1: 0/50 with ts",
+    "BSE p2: 0/3 with ts",
     "BSE actions: 21",
     "BSE calendar: 4",
     "NSE: no data",
+    "Moneycontrol Corp: 403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/corporateannouncements.xml",
     "Exchange News: 30 items",
     "BSE/NSE Results: 30 items",
     "Corp Actions: 30 items",
     "Board Meetings: 24 items",
-    "Bulk/Block Deals: 30 items"
+    "Bulk/Block Deals: 30 items",
+    "Trading Window: 30 items",
+    "Share Allotment: 30 items",
+    "M&A: 30 items",
+    "Ratings: 30 items",
+    "Orders Won: 30 items"
   ],
   "bse_items": [
+    {
+      "title": "Intimation of store opening",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ab6c4519-ebb1-4d69-aad0-cf86a9634ae2.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Disclosure under Regulation 30 of SEBI (LODR) Regulations",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/178b9c66-6372-4bbd-b8a6-41684bb9a346.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Please find enclosed herewith Disclosure under Regulation 30 of  SEBI (Listing Obligations and Disclosure) Regulations, 2015",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7e783b06-b306-4029-8ff1-71eb642364a0.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Press Release",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f5028b58-bc8f-4787-8ef3-29836b9d31b2.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Announcement regarding Grant of Stock Options under ESOP 2018 Plan.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7e9d679a-f9d8-4d81-9915-f675d83d5804.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Intimation about allotment of equity shares on exercise of stock options under ESOP 2018 Plan and Grant of stock options to eligible employee under the said Plan of the Company.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8aa224ce-276f-4503-8b5b-80b870665455.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Pursuant to SEBI (PIT) Regulations, 2015 as amended from time to time and as per BSE circular, we hereby would like to inform that trading window shall remain close from Wednesday 1st April, ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5f83271c-ca71-4611-97ff-3e38477bbbfc.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "Please find attached an update.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6959d826-fb20-4bb9-8b13-4707e0114516.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
     {
       "title": "Intimation of receipt of Award from NTPC Limited",
       "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c06f7ebf-81f6-4353-a3a4-0f88c484173d.pdf",
@@ -306,11 +368,25 @@
   ],
   "news_items": [
     {
-      "title": "IDFC First Bank Q4 Results 2026 date and time: Quarterly earnings announcement next month - Board meeting schedule out! - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRjg5U2FfenRyWGdrMHZBV04yV2FocFlCUGZZRGtmSnRDSlJOdXdqRUs4U1prWlhDY2IxVTdYeU50T1p2eDVHRkJ1ZGJPa1ZVb1YzdUotamFWTEs2eERtb0RleFVWNTJxeXotUWtZUWhfVmNiOHRIZXFCOHJybTk2SnJJMnVRN3NwR0ppV0JCU3pXMENTVngyU0NMSXg3MVFxWDdfa2c5NHNDTDA2Rmw5cHo1TDNnY05EdW0zWWswVG1hSlg0WFhWYmxTMS05UWRUcERxX2JBSFVuT0kyaTNYWS1FZ09HUm9kenR4c3RoWEdKdGFWVGfSAfsBQVVfeXFMUDhla3Y2UDhpV3lRQkF0X3VaVlJTUWJlNzcxd3RtRXlERzdwcWRrSXU4NGRfcXo4cjBnS1VWYmNFYzdzYS1nYnZDbnN0b3g2T0pNdzlKLUE3ZlBJTVN3ZGFsMFdCR3FkbnlKVU1NU0dTYks3WXVWcFVXa2xBdXJKRFhWUl9PaW14YzZlckU3SEhhcHBJVW1UQk9NQjVkS0ZaaXBUVFRGSnVEWjdZRUJCMzJWbDYxY1pNRnRtam5DOUtOMVpBU3JIaVdWVEozbkVoMmhKczR3V3o1U0dUenN4TFYyMzQwWkpKckxseVpUQk4zNEx1OExVWGhIMVE?oc=5",
-      "source": "BSE/NSE Results",
-      "ts": 1774671958000,
-      "type": "results"
+      "title": "Torrent Pharma Schedules NCLT Shareholder Meeting for J.B. Chemicals Amalgamation - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWTE0eTU1eXRoYnJUSzcxaFFnMjNZZFpSWjN0QWVCencxSm1CYzJZVVA2eEZwS1dEeDJ4MzdQczBBYk5lSkR2OGFQdVBndlBnYW93S1J2RG1heWpsWFAxN2x1eXFLelUwSThna00xMXIzMGVTN0V6VlpMV2pQMUVNcUhFekp4RUd5am5CRVdRek9YMXpzU01GNkoxSVhydkdfb0JYWk5BZ2RTeHh5RlZxWHpqWGFDdS1Mc2hTek4zcllJal9aWjZLYmpXdw?oc=5",
+      "source": "M&A",
+      "ts": 1774779604000,
+      "type": "filing"
+    },
+    {
+      "title": "B.A.G. Films and Media Allots 98 Lakh Equity Shares Through Warrant Conversion - India IPO",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1lEOEhZQjN1aWQ4MENwbkZEMjJvWmM0MHZYUTJmYUNYQXpyMnFWcnhVaHBuR2Q5a3RGLVJIRG94WVJBRWVlWVFCRGlsaEFjZHZWZ25MSllaUTV6aVhyc3VUYzFkZzdFT1J1WThZNFNNZTRtRDB5U0ZTVmhjdjI4UzlFX3ZCaDF4WjlBMVBoaTFNSWlfUnRfcFE0UGhfQ2RRZU85ZjJQWlJwYUhqQnNGNA?oc=5",
+      "source": "Share Allotment",
+      "ts": 1774759156000,
+      "type": "filing"
+    },
+    {
+      "title": "Senores Pharmaceuticals Completes Warrant Allotment Worth ₹95.00 Crore - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZlNHYnoydHptZVFOQ2ZVR21uSTkteGNaN3lVNW5UZ2tBT3BmSFdwcHh5c2k4TlZxcHhhdjJuQlBSVUtvTHpfZ3h6VGp0eGRCZXlHUzhpVnVkWmJyY0hYU1gxQ1drdEFHbGNFOElNczVEd3JLaTMwc2piZTZReTY3RFZVY28wenE4akdtSFVnV2paYnJhcXhkNkp1SDdDSFF0NXc3NmZFRFhYZ3hvYUdEWWxMMS1lWlJHTU10N29rcGpEMFB5emdkSHFFX2VLUEx0Mjlj?oc=5",
+      "source": "Share Allotment",
+      "ts": 1774698176000,
+      "type": "filing"
     },
     {
       "title": "Procter & Gamble Health Limited Schedules Board Meeting for May 26, 2026 to Review FY26 Financial Results and Final Dividend - scanx.trade",
@@ -320,8 +396,22 @@
       "type": "dividend"
     },
     {
+      "title": "Shree Rama Multi-Tech Limited Announces Trading Window Closure from April 1, 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWREcGVVc0ZtcG5pelpnT2dGYkU1LWlPbjBsdWhqMGp2UGpEdzEzUzctSVNDUTJIdlZmc1p2Q216bVhMOWpWTFlzSlJJZ0FoYWdJZWdtb3NITHRsUVpQYy01bk4zQldlcm9aT0o2c1JoZnpuRUtGUnNUN19lNmk2b0lpMXk0enRBRHhPMFcwcmt3Y1h0blNwbFU0dVlyX05HRnlORUNCUFhZUkR3aUJLU1FycnJNVXBWXzZ3S09MamRpLS1rblp3Zzh2YS16R3RHY0dj?oc=5",
+      "source": "Trading Window",
+      "ts": 1774622240000,
+      "type": "insider"
+    },
+    {
       "title": "Remedium Lifecare Share Price Today, Remedium Lifecare Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0E0bjhxdV9ERjZaaEwtb0h5MGRRLWpna0p0MFc4ejdQRFVfelVqMzRGTDM4TXNvMENwbzQtMmxfWGdhT1oxVTFjY0lXYm1BajdsYkJ3dmVtN2VqZ0p4Uzg5NmpfRnB2WjJPNHVtaTZSOGd2R05PQnA5dFlscVppLU5sazVTNEJ0M2pn?oc=5",
+      "source": "Board Meetings",
+      "ts": 1774594800000,
+      "type": "board"
+    },
+    {
+      "title": "India Steel Work Share Price Today, India Steel Work Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnlvVk1wbk4wZU0zZlIyQ29WaC1wR016T3lfT0R4OTZsbVhWck1XZnlWZkpkc0pPOTRmRkJLZnZIY1VmeUZQOEpIT0ZnUDlrbU1PM1hYSEhod1RsVHFxcTJXNHZqQ3VBZ01aRmVCMUQ3NXlwbi1feWFEUnpSYXdhLVFHSzlCQQ?oc=5",
       "source": "Board Meetings",
       "ts": 1774594800000,
       "type": "board"
@@ -341,6 +431,20 @@
       "type": "board"
     },
     {
+      "title": "Marathon Nextgen Realty Receives BSE No-Objection for Complex Merger and Demerger Scheme - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdl9kUXJfdENkZkpyV2I3eEhMTC13eWxzbjd4NzJFLVIyMEg2YlBfc1ZXWTZkTkVPN3pRUEdQdU42MWljZWlMSXlIY3BtN2xaM2FVOTBoOVlYT0o2LWFjWGZCR3RDbGk0Sl9iSVBON0ZlWThSNXNiNHR0cWZ2bS1uSFp1UWNUTnpvYllsWFYyRDdwM3pLdFpJWGdFSk9VOTY5YmhPTDhKb0VpN3AxTWFsanBPYnNRV2xlb3BXQ2FOSnN2TFhsRy1SYjNkYlBfZjhyMVhTRVJuRlhhTDBlVEE?oc=5",
+      "source": "M&A",
+      "ts": 1774586073000,
+      "type": "filing"
+    },
+    {
+      "title": "Studds Accessories Limited Voluntarily Withdraws Credit Rating from CARE Ratings - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX24xakhKRHQ3c2hkUmRVZzJLRE16WXVSM2FDOGdxTUpOWEpLTEZqc3RYV2x5Y3QyZ2wxSVBjNktMcUFieHdtZE5VZzYxR0NOVmdzS1lkVkh6XzdILWx4OC02WTc0aUVQSmFXbVpFMTNCTnJRUThFRXFEQ0VBVllNa3hEQV9qXzdoV0l3X2hyYTFxX016bURrQnROZU9CWVotczNUbnpkejBIQldOMXcwOFAxdkJyVGhqYjdPd1psZXNOdmxFU2dsdUQ2U2E1ckdhX1lJ?oc=5",
+      "source": "Ratings",
+      "ts": 1774549020000,
+      "type": "filing"
+    },
+    {
       "title": "Viji Finance Limited Announces Extra-Ordinary General Meeting on April 23, 2026 via Video Conferencing - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOa2RfaXVHYXBiVXo2RVd3Tnh0eHFLSS1kMHJrc0g1S3dxZE9vT1BaaktpamN4RTctTTlNYmI5THg3dnU0UHZKeWxubFJOcElSUDUxVUUxRGlFMGNvM2ljV1E0VVFpUlVwTzV6Mmx0UWhlZmVhTGYyU3dXWlJJNkJfMERDSHA1eFRCTnRpTE4zSFZaZF9mM3JSSXFOUnFhdTlESjZyN2ZJUUhuQV9GN09MLUhtWksxWUhDYzZiMkxUM29aMGt5X29RQ01nbjUxOUJtYUttZWlfS0NkYkl1ekl1dmQ1ODB5QmdzQjhSTElXNA?oc=5",
       "source": "Board Meetings",
@@ -355,10 +459,24 @@
       "type": "dividend"
     },
     {
-      "title": "TCS Q4 results FY26: IT major releases earnings date, final dividend in focus; check financials, other details - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTktrdV9kQk9xajhlVXhFLVQ4STBrRURqYXdycUtqeC1uZFZBcEI4UkdzYmc0V1FXSW1fUGpDS2xDekZpd1czTUF1dktLbnBXMk54WEYtV0lvbTNkbkxLbHprMEdSSVViX1Rjb194V1FEVUphQy1qNFpfWWRRYWF4ZW56aVotYTVURlR3NldlXzFnSC00eU9uckJGV1lqQUtjcWI0Q0RUWEpLaGpUbFFsaTd5a0NUTW9ibncyM0l4VDlsc2N2VkdJdkp4Z3VBUGpLek1SdnpuRWtDeHZQREFlYkF6bW5fZ29Tdlg2V2FLMlJXNVRCNy0wWTJ0QkFpU2VDSVp5WkVn?oc=5",
+      "title": "Coal India Limited Announces Trading Window Closure from April 1, 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY01KM3VrSUl1UHJpYkRKdUpvU2pYNDlZcERvbnFyZEJwWlFpaHZ6ZGhWU2JsdHVTTUh5ZlJyQ2F4cjNXLUFmbTN3WHk0VHVQSEQyRElFNG5zY25PU0tiR2JMeDZrTnFpRUNEOUJFQlNiZDNqSkNxbzltT2pncUxQRWJ2OHhCdExhME4yeE8tV255SmFvLUtwRGQtancxbndMT3lBVjhEb2E4aXRHNHZuanR3YnVzSXRwTHh6NEZZcHZmS0kx?oc=5",
+      "source": "Trading Window",
+      "ts": 1774461220000,
+      "type": "insider"
+    },
+    {
+      "title": "Emirates NBD gets UAE central bank nod for majority stake in RBL Bank - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdFZZcUh6MXpmb2c1dW9UM3h6ai1pQVJRUWtCTnd5dW9lQTVuT0ZDSWt1N29NQk5EcTFUWUQwakQ0TVBmbVdPald2Q2V3UVl3dDhYNEdJUTJCUnA0VW0taTZrR09hbHNCWjRPREwtWm5DRUxCMk9fTHM5cUgzc09paktrWVpJZ19hMnpSZXAzOThrdkhoUE1CQXFoZ1kweEFZMnd2UTBkTUotUmlpVTQ4cFlhVW5CclFrTDVEMXBqRXRWU2FiNzJrRWlUbHXSAdIBQVVfeXFMT2R5QmVTcU5aOW9rWEZzYWVIcU5jdTVWZmZOM3NfclczSk5qSjdCeElCdm13UDdkZmRRRmdPWmhFNGJUV3VKNDFnbENfM212Y3BXdnZRLXlKOGNuN3FRbENjeGVxblNGSjNvem50cW5NakhyalJFTjhndjZ0Q0VZLXFRdWxZdERaRmIwMUpRNHBiNWFmaFJnZF9GT0drVWdUZnFjMGVobkhROFkxTEtPS1Q0cDNQNGlHVktNcnZYR1FkNEU5Q2xaWEZDMU9yS1ptYUp3?oc=5",
+      "source": "M&A",
+      "ts": 1774457896000,
+      "type": "filing"
+    },
+    {
+      "title": "ICICI Lombard Schedules Board Meeting on April 15, 2026 for Q4FY26 Results and Final Dividend Recommendation - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa1NZN185UVdOcUNMSXp5Z1oteTBYcmFJUWV2V21qay03RnRVcGFESVhJajdoeG9qdzBTdXkyaE14OXpNZ1BaZmtVX3daMEtBTFhZWWFITHh4eW0wUzI0MURUMHFEakxxWUtNY3EwV00ySVVxa1BXSE5LeksxN1lmV0hDa0VMZlNZdlRnUnBtMVlsMF9iWUxHYUFaZ1Q0dlJGemtiX0NENmY5dFZydm9wblVvNFFOamdwVGw1UVB2QTZ1TU84QThvNjhxdHVvT21ReWlnNWVXQlllc3RrTGJaa0hYYThSQ1lRNDJzVnFqOEhyZFJtcjhB?oc=5",
       "source": "Exchange News",
-      "ts": 1774424941000,
+      "ts": 1774454104000,
       "type": "dividend"
     },
     {
@@ -369,11 +487,60 @@
       "type": "results"
     },
     {
-      "title": "TCS Q4 Results 2026 date: Final dividend announcement in quarterly earnings – Check board meeting schedule - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUGxwTTQ3Q1VKYktrM3pQU1NsNC1QQ05sc3hZVUJWLTdMVVZDY3hsdE5hSnI5T2RJSWNXY294WjRfZkVXdG5NTWJJSGNjdUtJSnVGeEZhNDBoeDYxYWUzR0RCemVwOTNoVmYwdmZuckwyS0g0ZmJ0LXg4bTBoSzBnV2pwVFpFeE9QQko3YjVXM3l4aHpGWUl6UkVtdXRQLW04THlOTzRvUEVZUkFscEhsbllMYlpTNV80VXRTejV5b0tFQ0VPTzNjalVHazRFeEdJdlhjOXVRNzdFLTd1OFVPekgwTmZ6ZThsU3pz0gHwAUFVX3lxTE1feTV3aDAtNmx6czBCQUc2dGhMS3FIWXF6WjU2T2tNb04yWDA1bXdvemlqWXRRQ01OSjNfOHAzYVhsQlZIcGlKOHU5RnNjR3FmQjNtcGk0ODZTbHBwdS1lZUszMnJLOFlTdFlmZFowZUZFZkNjem4yMmRUa0pkdUxscUFxNm51Wl8yOTlBTS1EQlpITExWc1FVc2JmdHUwSDNYSGcycnZWcDhLNk9MWkswcWxHUnlsbEwzaVg3b2RVSWpSSFRfc0Rnc01ndXpoMzdTZVlYWG96ZnFFMzFTUlRaaEtHZGx0cFpfZ2VGdXpraQ?oc=5",
-      "source": "BSE/NSE Results",
-      "ts": 1774366626000,
-      "type": "results"
+      "title": "IRFC Closes Trading Window for FY26 Financial Results - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcWlqb2ktaHFISFRZa0hodlZOU25qcXVrOTViYm83RmJUZ3pzT29wZTduNVpocnBkcm03MFVzSVBfSXR0TWFvdVRudXM5SG90eDZqeHA5M3lrZm9Oal9hS2M0YVdZOHZnSXRTZ3N1TDY1NlZzVmdYOEVJcDJoT1NGeWNrNnliTzkzQXF2LTlQbVp0c1R1cEtFb1FLV1BPcVBqR2FkdHNKYU5kZGJrZEFkdTV1LVRWMS01b2c4XzEyTWJXd1Q0Nll1NzJ4M3FMZ3dZdEVuTjVDWVpyQlk?oc=5",
+      "source": "Trading Window",
+      "ts": 1774347682000,
+      "type": "insider"
+    },
+    {
+      "title": "NHPC Announces Trading Window Closure from April 1, 2026 Ahead of FY 2025-26 Results - PSU Connect",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2FJMGUyVlJRc2I2SHBTVklfY2V6ZGJpaXVmQjNwNXpybzhNRmpRV0RhSzFWNFozMWN3UGRkQUE2T1ZyZ1N4NFVqUE1JeVBaVUFpMnZJRkFpdkZOaEZRbzZXY2NFa0lrT2tTbG1SeVpXbTczUEdEZHlHU2tWTkt4TnMydUxqcnNLUzVRUTBGYWo3MjVYdjlQVmpBX3FadHJBV25VUkttZElHRTVVZGNUUHVnWXZtUjB5cFJZ?oc=5",
+      "source": "Trading Window",
+      "ts": 1774343160000,
+      "type": "insider"
+    },
+    {
+      "title": "Emkay Global Financial Services Receives Trading Approval for 2.78 Lakh Shares - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNnMyU205anJ0Rmk4X2dqaHFoVjRSalhlZzNkb0QzNU9UYmV2bkdtVVpGckpvRjZjR3RHY0xqQVZoTDB6T0YwZFo3aGtFSlZ1elB2WUtQd1Bad0lGMDJYM29NeG9kOUpBNWpuaXdoRUR1UDF0ZEFGNmcxNU1BT3hSdUtnYW5Yc3l6a1RnQS1EcVdDT01RbTg4bVNFN3BXMjZST1V4N0dKMkdYRWtJUVUtQnVlQnAxY3d6MGZIdFVtUzNkUUY5UzRjNW9HVzY4QV8xZEhNajVacmRrZzA4OHBuRFJmTGNiWE52WjhoRnNsSUowbFpFVWRDSF9B?oc=5",
+      "source": "Share Allotment",
+      "ts": 1774335600000,
+      "type": "filing"
+    },
+    {
+      "title": "Nitco Limited Clarifies Recent Share Price and Volume Movement to Stock Exchanges - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSDJRczVXZFJvVzZSY1IzM1owUEp4akNrUGszYXNLRWVlZ25xcnBteG5tb2lzelotQ01CMjdIdTNkaXNmSnNYZWw2Ti1UQzI0NkdiYm5LcnB0QWMyQmJOMFpmXzVfRE5QWndPdzh4cWQ0R3hqeGdXbWVEU2dmTmpFS1phUlBFVWJVS1Y5RGE1cnB0OEc4cEZwS1ZNNko0eXlpODVKTFZDZUpEUWVYUG55MTRoR0Jaa1owX3RkZVNPN21qc1BUb0JRZVhPN0ljLXlCSUZVWg?oc=5",
+      "source": "Share Allotment",
+      "ts": 1774331182000,
+      "type": "filing"
+    },
+    {
+      "title": "Moody's Upgrades Piramal Finance Outlook to Positive, Affirms Ba3 Rating - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNTFpbFFXZWR6RTZVZ3NrR1pWVUhBZ2lPSVhtTzhJSkplTHRvSjRQNEU2S1JLS01OcjdKd2t3MWtTV1JsMlpKVHRGc0FhRHdUOWhQajVUaHB2YXZOZUhfYUl0aVFkekN5SFNFZ2J2RHdBUlk1OGQ5aENhbHo0VC1hSjh4SFBpbE90dVZHTV8tV1U0aXpwYncyVW4zQ2Q1cE85d1U2X1lEbUFYQ29pUmdIeU1TaElyTDZSQ2FZbUZ2V0RwUQ?oc=5",
+      "source": "Ratings",
+      "ts": 1774297248000,
+      "type": "filing"
+    },
+    {
+      "title": "POWERGRID Trading Window Closed from March 31: After Stellar Q3 Results, All Eyes on Q4 & Final Dividend - PSU Connect",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGdfZG9yTjhNUDJjOGtIZDZhVnM3eDRrajFuWjIyaWxZYnc3dFhEYkViLXhweDlHQ2FPYzZhWDllNjYwWUpJSGtQRl8ydF84cDY4cWRyWTZmMEE0UWtKT2xCb3F2R1FnZFlPZTZJd2ZFQzFhcWc3NUJ3dHRPVm5pcUl0TFVEMm1pNUZ2cUxPTXd2OHNOcnFXUm96bXVUakJ2ZjQtT21BNHZQa2I0NU5YMGRvZG94M05QV1J0a3IzdTJJNTh5QVp5ZDFuS0xNU0VBcUE?oc=5",
+      "source": "Trading Window",
+      "ts": 1774262460000,
+      "type": "insider"
+    },
+    {
+      "title": "NTPC Closes Trading Window from April 1, 2026 Ahead of Q4 & FY26 Results | Q3 PAT Up 5.85% to ₹4,987 Cr - PSU Connect",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1pVanJkRHZUQm9RSXpqY0xwR09lbDMwclFnUzdRamFxcjBkNUY4MmdOWm81dWNqSVZiVEY0czNZUThGTXkyc0NqOHJtUl9kNFlZTTg3X0dCeVdIWURhZTZ2RWNaZnhOb25tSXlFU3pWaDJacS1qNFkyZk9UVGFyVks5dGVqOTZTUnZLN0pUTGpTZi04NnFiSTI3aG1zel9NbWZMLVRJRQ?oc=5",
+      "source": "Trading Window",
+      "ts": 1774251900000,
+      "type": "insider"
+    },
+    {
+      "title": "Setco Automotive Board Approves Merger Scheme with Wholly-Owned Subsidiary LCPL - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNmJXZWxMbzgxS09TRjFhcWVCcjBkMnpPcEJkUnQ1dzdGOXJCZVZPZWVXY1U5ZVJZNktHMW1hblFjNTRFS1BrSUhSVXl6d204UDNoZnNWVEVwcTZ6RV9CbHVpX1FiU2lLVkxuWnZqOHhSMkJ4R3QzSzRlbGJDdkpaMmlWSm5FTXBvMmtXX2d4TUZPSlh1cnlEUkZBWV9YdmM2cUtZelJMZEpmMHRZbVRyQ1RONXdrRVk5UDBWZFdrQnRvcHhGMjRudTRDVzZJVURlU0dTSFJFNTBEQmIyQWNTTGF5WDJhTzRPQmMtV2Fn?oc=5",
+      "source": "M&A",
+      "ts": 1774249200000,
+      "type": "filing"
     }
   ]
 }
