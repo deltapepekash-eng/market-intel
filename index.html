@@ -2130,16 +2130,12 @@ function init() {
 
 
 
-
-
-
-
-
-
-
-
-
-
+// 🔄 Auto refresh every 180 sec (3 minutes)
+setInterval(() => {
+  if (!loading) {
+    doRefresh();
+  }
+}, 180000);
 
 
 
