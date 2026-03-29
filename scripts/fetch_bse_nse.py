@@ -2,12 +2,9 @@
 """
 BSE/NSE data fetcher for GitHub Pages.
 
-OUTPUT STRUCTURE:
-  bse_items  — official BSE filings, actions, calendar (authoritative, never cut)
-  news_items — targeted Google News queries about NSE/BSE (supplementary)
-
-ET Markets general RSS and LiveMint general RSS are intentionally excluded:
-they return market news (FII flows, analyst notes) not corporate filings.
+OUTPUT STRUCTURE (two separate arrays — BSE never cut by news cap):
+  bse_items  — official BSE filings, actions, calendar (authoritative, no cap)
+  news_items — targeted Google News queries about NSE/BSE (supplementary, cap 150)
 """
 
 import json, re, xml.etree.ElementTree as ET
@@ -17,17 +14,14 @@ from pathlib import Path
 OUT     = Path(__file__).parent.parent / "data" / "bse_nse.json"
 OUT.parent.mkdir(exist_ok=True)
 NOW_UTC = datetime.now(timezone.utc)
-# Stale cutoff for NEWS items (7 days). BSE official items ignore this.
 NEWS_CUTOFF_MS = int((NOW_UTC - timedelta(days=7)).timestamp() * 1000)
 
-bse_items:  list[dict] = []   # authoritative BSE filings — never cut
-news_items: list[dict] = []   # targeted news queries — supplementary
+bse_items:  list[dict] = []
+news_items: list[dict] = []
 bse_seen:   set[str]   = set()
 news_seen:  set[str]   = set()
 log:        list[str]  = []
 
-
-# ── helpers ──────────────────────────────────────────────────────────────────
 
 def slug(s: str) -> str:
     return re.sub(r'[^a-z0-9]', '', (s or '').lower())[:60]
@@ -44,12 +38,12 @@ def parse_dt(s: str):
         '%m/%d/%Y %I:%M %p',
         '%m/%d/%Y %H:%M:%S',
         '%m/%d/%Y',
-        '%d %b %Y %I:%M:%S %p',   # "28 Mar 2026 2:05:11 PM"
+        '%d %b %Y %I:%M:%S %p',
         '%d %b %Y %I:%M %p',
         '%d %b %Y %H:%M:%S',
         '%Y-%m-%dT%H:%M:%S',
         '%Y-%m-%d %H:%M:%S',
-        '%a, %d %b %Y %H:%M:%S',  # RSS pubDate
+        '%a, %d %b %Y %H:%M:%S',
         '%d/%m/%Y %H:%M:%S',
         '%d/%m/%Y',
         '%d %b %Y',
@@ -90,9 +84,9 @@ def strip_html(s: str) -> str:
 
 
 def add_bse(title: str, link: str, source: str, dt, ann_type=None):
-    """Add to the authoritative BSE section. No stale filter, no size cap."""
+    """Add to BSE section. No stale filter, no cap. Min title 5 chars."""
     title = (title or '').strip()
-    if not title or len(title) < 8:
+    if not title or len(title) < 5:
         return
     k = slug(title)
     if k in bse_seen:
@@ -109,16 +103,16 @@ def add_bse(title: str, link: str, source: str, dt, ann_type=None):
 
 
 def add_news(title: str, link: str, source: str, dt, ann_type=None):
-    """Add to supplementary news. Drops items older than 7 days."""
+    """Add to news section. Drops items older than 7 days. Deduplicates vs BSE."""
     title = (title or '').strip()
     if not title or len(title) < 8:
         return
     k = slug(title)
-    if k in news_seen or k in bse_seen:  # deduplicate across both lists
+    if k in news_seen or k in bse_seen:
         return
     ts = to_ms(dt)
     if ts > 0 and ts < NEWS_CUTOFF_MS:
-        return  # stale
+        return
     news_seen.add(k)
     news_items.append({
         "title":  title,
@@ -136,49 +130,52 @@ def fetch_bse_official():
         print("BSE: initialising...")
         with BSE(download_folder='/tmp/bse_dl') as bse:
 
-            # Pages 1 and 2 of today's announcements
-            for page in [1, 2]:
-                data = bse.announcements(page_no=page)
-                rows = data.get('Table') or []
-                print(f"  BSE page {page}: {len(rows)} rows")
+            # Fetch pages 1–4 for maximum coverage
+            for page in [1, 2, 3, 4]:
+                try:
+                    data = bse.announcements(page_no=page)
+                    rows = data.get('Table') or []
+                    print(f"  BSE page {page}: {len(rows)} rows")
 
-                # Log first row field names + sample date for diagnostics
-                if rows and page == 1:
-                    first = rows[0]
-                    keys  = list(first.keys())
-                    dt_sample = (first.get('NEWS_DT') or first.get('DissemDT') or 'MISSING')
-                    print(f"  Keys: {keys[:10]}")
-                    print(f"  NEWS_DT sample: '{dt_sample}'")
-                    log.append(f"BSE NEWS_DT='{dt_sample}' keys={keys[:8]}")
+                    if rows and page == 1:
+                        first     = rows[0]
+                        keys      = list(first.keys())
+                        dt_sample = (first.get('NEWS_DT') or first.get('DissemDT') or 'MISSING')
+                        print(f"  NEWS_DT sample: '{dt_sample}'")
+                        log.append(f"BSE NEWS_DT='{dt_sample}' keys={keys[:8]}")
 
-                ts_ok = 0
-                for row in rows:
-                    title  = (row.get('HEADLINE') or '').strip()
-                    scrip  = (row.get('SCRIP_NAME') or row.get('ShortName') or '').strip()
-                    dt_raw = (row.get('NEWS_DT') or row.get('DissemDT') or '').strip()
-                    cat    = (row.get('CATEGORYNAME') or '').lower()
-                    attch  = row.get('ATTACHMENTNAME') or ''
-                    code   = str(row.get('SCRIP_CD') or '')
-                    link   = (
-                        f'https://www.bseindia.com/xml-data/corpfiling/AttachLive/{attch}'
-                        if attch else
-                        f'https://www.bseindia.com/corporates/ann.html?scripcode={code}'
-                    )
-                    tp = ('dividend' if re.search(r'corp.*action|dividend|buyback|bonus|rights|split', cat)
-                          else 'results'  if re.search(r'result|financial', cat)
-                          else 'board'    if re.search(r'board|agm|egm', cat)
-                          else 'insider'  if 'insider' in cat
-                          else classify(title))
-                    full   = f"{scrip}: {title}" if scrip and scrip.lower() not in title.lower() else title
-                    parsed = parse_dt(dt_raw)
-                    if to_ms(parsed) > 0:
-                        ts_ok += 1
-                    add_bse(full, link, 'BSE', parsed, tp)
+                    ts_ok = 0
+                    for row in rows:
+                        title  = (row.get('HEADLINE') or '').strip()
+                        scrip  = (row.get('SCRIP_NAME') or row.get('ShortName') or '').strip()
+                        dt_raw = (row.get('NEWS_DT') or row.get('DissemDT') or '').strip()
+                        cat    = (row.get('CATEGORYNAME') or '').lower()
+                        attch  = row.get('ATTACHMENTNAME') or ''
+                        code   = str(row.get('SCRIP_CD') or '')
+                        link   = (
+                            f'https://www.bseindia.com/xml-data/corpfiling/AttachLive/{attch}'
+                            if attch else
+                            f'https://www.bseindia.com/corporates/ann.html?scripcode={code}'
+                        )
+                        tp = ('dividend' if re.search(r'corp.*action|dividend|buyback|bonus|rights|split', cat)
+                              else 'results'  if re.search(r'result|financial', cat)
+                              else 'board'    if re.search(r'board|agm|egm', cat)
+                              else 'insider'  if 'insider' in cat
+                              else classify(title))
+                        full   = f"{scrip}: {title}" if scrip and scrip.lower() not in title.lower() else title
+                        parsed = parse_dt(dt_raw)
+                        if to_ms(parsed) > 0:
+                            ts_ok += 1
+                        add_bse(full, link, 'BSE', parsed, tp)
 
-                log.append(f"BSE page {page}: {ts_ok}/{len(rows)} with timestamps")
-                print(f"  → {ts_ok}/{len(rows)} items have valid timestamps")
+                    log.append(f"BSE p{page}: {ts_ok}/{len(rows)} with ts")
+                    if len(rows) < 10:
+                        break  # no more pages
+                except Exception as e:
+                    log.append(f"BSE page {page}: {e}")
+                    break
 
-            # Forthcoming corporate actions (next 14 days)
+            # Corporate actions ±14 days
             try:
                 actions = bse.actions(
                     from_date=NOW_UTC - timedelta(days=1),
@@ -200,7 +197,7 @@ def fetch_bse_official():
             except Exception as e:
                 log.append(f"BSE actions error: {e}")
 
-            # Result calendar (next 14 days)
+            # Result calendar next 14 days
             try:
                 results = bse.resultCalendar(
                     from_date=NOW_UTC,
@@ -240,7 +237,6 @@ def fetch_nse_official():
                     break
             except Exception:
                 pass
-
         if isinstance(data, list) and data:
             added = 0
             for item in data[:100]:
@@ -263,25 +259,46 @@ def fetch_nse_official():
         log.append(f"NSE ERROR: {e}")
 
 
-# ── SOURCE 3: Targeted Google News RSS for NSE/BSE filings ───────────────────
-def fetch_gnews_targeted():
-    """
-    Only queries specifically about exchange filings and corporate actions.
-    NOT general market news.
-    """
+# ── SOURCE 3: Moneycontrol corporate announcements RSS ───────────────────────
+def fetch_rss_corp(url: str, source: str, default_type=None):
     import requests
+    try:
+        r = requests.get(url, timeout=14, headers={
+            'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
+        })
+        r.raise_for_status()
+        root = ET.fromstring(r.content)
+        count = 0
+        for item in list(root.iter('item'))[:50]:
+            title = strip_html((item.findtext('title') or '').strip())
+            link  = (item.findtext('link') or '').strip()
+            dt_s  = item.findtext('pubDate') or ''
+            if title:
+                add_news(title, link, source, parse_dt(dt_s), default_type)
+                count += 1
+        log.append(f"{source}: {count} items")
+        print(f"{source}: {count} items")
+    except Exception as e:
+        log.append(f"{source}: {e}")
+        print(f"{source} FAILED: {e}")
 
+
+# ── SOURCE 4: Targeted Google News RSS ───────────────────────────────────────
+def fetch_gnews_targeted():
+    import requests
     queries = [
-        ("NSE+BSE+board+meeting+dividend+results+India+corporate+filing+2026",
-         "Exchange News", None),
-        ("BSE+NSE+quarterly+results+earnings+India+Q4+FY26",
-         "BSE/NSE Results", "results"),
-        ("NSE+BSE+dividend+declared+record+date+bonus+buyback+India+2026",
-         "Corp Actions", "dividend"),
-        ("NSE+BSE+board+meeting+AGM+EGM+India+April+May+2026",
-         "Board Meetings", "board"),
-        ("NSE+bulk+deal+block+deal+promoter+buying+selling+India+2026",
-         "Bulk/Block Deals", "insider"),
+        # Corporate filings & actions
+        ("NSE+BSE+board+meeting+dividend+results+India+corporate+filing+2026", "Exchange News", None),
+        ("BSE+NSE+quarterly+results+earnings+India+Q4+FY26+FY2026", "BSE/NSE Results", "results"),
+        ("NSE+BSE+dividend+declared+record+date+bonus+buyback+India+2026", "Corp Actions", "dividend"),
+        ("NSE+BSE+board+meeting+AGM+EGM+India+April+May+2026", "Board Meetings", "board"),
+        ("NSE+bulk+deal+block+deal+promoter+buying+selling+India+2026", "Bulk/Block Deals", "insider"),
+        # Additional targeted queries for more coverage
+        ("BSE+NSE+trading+window+closure+India+2026", "Trading Window", "insider"),
+        ("BSE+NSE+allotment+shares+warrants+India+2026", "Share Allotment", "filing"),
+        ("NSE+BSE+merger+acquisition+amalgamation+India+2026", "M&A", "filing"),
+        ("NSE+BSE+credit+rating+ICRA+CRISIL+India+2026", "Ratings", "filing"),
+        ("BSE+NSE+order+win+contract+awarded+India+2026", "Orders Won", "filing"),
     ]
 
     for query, source, default_type in queries:
@@ -292,12 +309,12 @@ def fetch_gnews_targeted():
                 'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
             })
             r.raise_for_status()
-            root = ET.fromstring(r.content)
+            root  = ET.fromstring(r.content)
             count = 0
             for item in list(root.iter('item'))[:30]:
                 title = strip_html((item.findtext('title') or '').strip())
                 link  = (item.findtext('link') or '').strip()
-                dt_s  = (item.findtext('pubDate') or '')
+                dt_s  = item.findtext('pubDate') or ''
                 if title:
                     add_news(title, link, source, parse_dt(dt_s), default_type)
                     count += 1
@@ -315,43 +332,39 @@ print("=" * 60)
 
 fetch_bse_official()
 fetch_nse_official()
+fetch_rss_corp("https://www.moneycontrol.com/rss/corporateannouncements.xml",
+               "Moneycontrol Corp")
 fetch_gnews_targeted()
 
-# Sort each section: items with real ts newest first, ts=0 items after (still included)
-def sort_key(x):
-    ts = x.get('ts', 0)
-    return ts if ts > 0 else 1  # ts=0 → sort as 1 (after real timestamps but present)
-
-bse_items.sort(key=sort_key, reverse=True)
+# Sort BSE: real timestamps newest first, ts=0 after (still present)
+bse_items.sort(key=lambda x: x['ts'] if x['ts'] > 0 else 1, reverse=True)
+# Sort news: newest first, no cap increase (up to 150)
 news_items.sort(key=lambda x: x.get('ts', 0), reverse=True)
-
-# News: cap at 80 items (supplementary only)
-news_items_out = news_items[:80]
+news_items_out = news_items[:150]
 
 output = {
     "updated":    NOW_UTC.isoformat(),
     "bse_count":  len(bse_items),
     "news_count": len(news_items_out),
     "log":        log,
-    "bse_items":  bse_items,        # ALL BSE official items — no cap
-    "news_items": news_items_out,   # targeted news — capped at 80
+    "bse_items":  bse_items,
+    "news_items": news_items_out,
 }
 
 OUT.write_text(json.dumps(output, ensure_ascii=False, indent=2))
 
 print("=" * 60)
-print(f"BSE items:  {len(bse_items)}")
-print(f"News items: {len(news_items_out)}")
-bse_ts = [i['ts'] for i in bse_items if i['ts'] > 0]
+print(f"TOTAL: {len(bse_items)} BSE items + {len(news_items_out)} news items"
+      f" = {len(bse_items) + len(news_items_out)}")
+bse_ts  = [i['ts'] for i in bse_items if i['ts'] > 0]
+bse_zero = sum(1 for i in bse_items if i['ts'] == 0)
 if bse_ts:
     newest = datetime.fromtimestamp(max(bse_ts)/1000, tz=timezone.utc)
-    print(f"BSE newest with ts: {newest:%Y-%m-%d %H:%M} UTC")
-bse_zero = sum(1 for i in bse_items if i['ts'] == 0)
-print(f"BSE items with ts=0: {bse_zero} (shown as 'Today' in UI)")
+    print(f"BSE newest ts: {newest:%Y-%m-%d %H:%M} UTC | ts=0 count: {bse_zero}")
 src_counts = {}
-for i in bse_items:
+for i in bse_items + news_items_out:
     src_counts[i['source']] = src_counts.get(i['source'], 0) + 1
 for src, cnt in sorted(src_counts.items(), key=lambda x: -x[1]):
-    print(f"  BSE/{src:20s} {cnt}")
+    print(f"  {src:30s} {cnt}")
 print(f"Log: {log}")
 print("=" * 60)
