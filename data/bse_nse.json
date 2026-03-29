@@ -1,9 +1,9 @@
 {
-  "updated": "2026-03-29T05:02:08.881248+00:00",
-  "count": 88,
+  "updated": "2026-03-29T05:55:02.983858+00:00",
+  "count": 89,
   "log": [
-    "BSE NEWS_DT sample: '2026-03-29T09:10:15.627' | keys: ['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
-    "BSE page 1: 0/1 items with valid timestamps",
+    "BSE NEWS_DT sample: '2026-03-29T11:07:42.59' | keys: ['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
+    "BSE page 1: 0/2 items with valid timestamps",
     "BSE page 2: 0/0 items with valid timestamps",
     "BSE actions: 21 items",
     "BSE result calendar: 4 items",
@@ -12,13 +12,27 @@
     "LiveMint: 35 items (7d window)",
     "Moneycontrol: FAILED — 403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/corporateannouncements.xml",
     "Business Standard: FAILED — 403 Client Error: Forbidden for url: https://www.business-standard.com/rss/markets-106.rss",
-    "Exchange News: 38 items (7d window)",
-    "BSE/NSE Results: 20 items (7d window)",
-    "Corp Actions: 17 items (7d window)",
+    "Exchange News: 44 items (7d window)",
+    "BSE/NSE Results: 21 items (7d window)",
+    "Corp Actions: 18 items (7d window)",
     "Board Meetings: 26 items (7d window)",
-    "Bulk/Block Deals: 21 items (7d window)"
+    "Bulk/Block Deals: 39 items (7d window)"
   ],
   "items": [
+    {
+      "title": "Market trading guide: Buy ACME Solar and Dalmia Bharat on Monday for short-term gains up to 16%. Here’s why",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-acme-solar-and-dalmia-bharat-on-monday-for-short-term-gains-up-to-16-heres-why/articleshow/129876087.cms",
+      "source": "ET Markets",
+      "ts": 1774781894000,
+      "type": "filing"
+    },
+    {
+      "title": "13 penny stocks plunge up to 90% in FY26. Are you affected?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/13-penny-stocks-plunge-up-to-90-in-fy26-are-you-affected/slideshow/129875876.cms",
+      "source": "ET Markets",
+      "ts": 1774779289000,
+      "type": "filing"
+    },
     {
       "title": "Elon Musk's xAI has lost all 8 of its original co-founders since January- Ross Nordeen is the last to go",
       "link": "https://www.livemint.com/companies/news/elon-musks-xai-has-lost-all-8-of-its-original-co-founders-since-january-ross-nordeen-is-the-last-to-go-11774757797365.html",
@@ -482,20 +496,6 @@
       "type": "filing"
     },
     {
-      "title": "Coal India Share Price Live Updates: Coal India  Sees Positive Movement",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-27-mar-2026/liveblog/129838327.cms",
-      "source": "ET Markets",
-      "ts": 1774604150000,
-      "type": "filing"
-    },
-    {
-      "title": "​BPCL, IDBI Bank, among 10 stocks that crashed up to 54% since Iran-US war began",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bpcl-idbi-bank-among-10-stocks-that-crashed-up-to-54-since-iran-us-war-began/slideshow/129838431.cms",
-      "source": "ET Markets",
-      "ts": 1774604076000,
-      "type": "filing"
-    },
-    {
       "title": "Remedium Lifecare Share Price Today, Remedium Lifecare Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0E0bjhxdV9ERjZaaEwtb0h5MGRRLWpna0p0MFc4ejdQRFVfelVqMzRGTDM4TXNvMENwbzQtMmxfWGdhT1oxVTFjY0lXYm1BajdsYkJ3dmVtN2VqZ0p4Uzg5NmpfRnB2WjJPNHVtaTZSOGd2R05PQnA5dFlscVppLU5sazVTNEJ0M2pn?oc=5",
       "source": "Board Meetings",
@@ -627,6 +627,13 @@
       "source": "Board Meetings",
       "ts": 1774398060000,
       "type": "board"
+    },
+    {
+      "title": "Assessment Order from Income Tax department",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9ad00457-b819-4600-bfda-57e19c04c307.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
     },
     {
       "title": "The trading window has been closed from 01.04.2026 till 48 hours of the approval of the audited financial statements for the FY ended 31.03.2026.",
