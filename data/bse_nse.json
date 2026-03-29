@@ -1,13 +1,13 @@
 {
-  "updated": "2026-03-29T19:48:22.676568+00:00",
+  "updated": "2026-03-29T21:02:27.577294+00:00",
   "bse_count": 0,
-  "news_count": 30,
+  "news_count": 29,
   "log": [
     "BSE: package not installed",
     "NSE: nsepython not installed",
     "Moneycontrol Corp: 403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/corporateannouncements.xml",
     "Exchange News: 30 items",
-    "BSE/NSE Results: 29 items",
+    "BSE/NSE Results: 30 items",
     "Corp Actions: 30 items",
     "Board Meetings: 30 items",
     "Bulk/Block Deals: 30 items",
@@ -69,22 +69,8 @@
       "type": "board"
     },
     {
-      "title": "Lakshmi Machine Share Price Today, Lakshmi Machine Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHd1hDRGphZ3VGbkEtS2RLd1BEYW9GalVDRWoxLVhCQzUxOGw0WHM1WWkyZ2tqWmM4YjA2ZXFjTHpjQkh6NlN1UTM2WmRFTVdfZlhJRmR3SkpvU1o1V3U0RE80bkxmVUUtMVdXcVBudG9uem5VVERRbG1Raw?oc=5",
-      "source": "Board Meetings",
-      "ts": 1774594800000,
-      "type": "board"
-    },
-    {
       "title": "JSPL Share Price Today, JSPL Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHlDWlM3OC1RekIyNUptdWZETXVTUmxxR2ZENDVybFhMekstM1NBNHVPTVppeGI2dTF0ZlN0U0I5V0NpWkVzZ0pGcVVYRXh0cGs4OV9QVUNId3JGZW95bWtSNnN2N1o5dGZKbURSQ2llZEtJTVJLMWJCQnptbnNIeUo0Nm9Pdw?oc=5",
-      "source": "Board Meetings",
-      "ts": 1774594800000,
-      "type": "board"
-    },
-    {
-      "title": "Fusion Micro Finance Share Price Today, Fusion Micro Finance Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmdxTktuT1VBZ2NsVnVlb054S3YtVFpzdkxRODRaWlV5aklINjNqQ0xTekpVWm14R1UwQXVZRFY2cE9DQnF2cThxZjVjdGNtaDdlU01Hd3E0YlpFV19mVGhhUkNIUzVYZWp5aFV4eXVyTC0zb1R4Znk5eEtVT1hpZ2RSZmF5LW1mZzdGWA?oc=5",
       "source": "Board Meetings",
       "ts": 1774594800000,
       "type": "board"
@@ -111,6 +97,13 @@
       "type": "board"
     },
     {
+      "title": "Fischer Chemic Share Price Today, Fischer Chemic Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3dRRkUxdFpaTkF6bE1nVFZyX1VOaWJkbjV3Tk9SVlJ0Q0JfQnZVUEZ1aksyTUFkY3BWdklUWWQxQ3R2VjczbXpTLTl6cVpiaDdRSkpOelg0bWNPRHlZR25ndFZ5a2xIM2N1Y3prM3BWUUotSzB2LVJiUnpBRTdJVzRLMnRmZHhLYVVOUVhKR0RwdjVzUkE?oc=5",
+      "source": "Board Meetings",
+      "ts": 1774594800000,
+      "type": "board"
+    },
+    {
       "title": "Infibeam Avenues Share Price Today, Infibeam Avenues Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEI2QTRYcTR5cC1BYXM3U2FsVHQzTGdwMDVrMWoyQzdGRjUyakhJaS1icjU3NDVhTjZtWGdHR2ZURnpLSk5MMmY5ckJYTy1YQ2pPWEN6a3ctNWplaHRHWWxTN25WNkppVzM4NUJnZWN4R0JFTGJtUVlhM2d5WlJ0Sm1udw?oc=5",
       "source": "Board Meetings",
@@ -120,13 +113,6 @@
     {
       "title": "Sagility India Share Price Today, Sagility India Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeU1JdjNKNWx5UU92cll3M2ZZWGpOdDVsNHNLUnFsVHk5U25nSjJYdUVQODZDLVNVakRMdGltckx4d3kzcnV5VWpWeEdIZkkyUVFWaXQ1Z05sdmtRUFVvOU9Yc2praFpFZy00RUVIOVdWaGdiZUFMS2NHaExjZGZ5TFFUVmY?oc=5",
-      "source": "Board Meetings",
-      "ts": 1774594800000,
-      "type": "board"
-    },
-    {
-      "title": "Fischer Chemic Share Price Today, Fischer Chemic Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3dRRkUxdFpaTkF6bE1nVFZyX1VOaWJkbjV3Tk9SVlJ0Q0JfQnZVUEZ1aksyTUFkY3BWdklUWWQxQ3R2VjczbXpTLTl6cVpiaDdRSkpOelg0bWNPRHlZR25ndFZ5a2xIM2N1Y3prM3BWUUotSzB2LVJiUnpBRTdJVzRLMnRmZHhLYVVOUVhKR0RwdjVzUkE?oc=5",
       "source": "Board Meetings",
       "ts": 1774594800000,
       "type": "board"
@@ -186,6 +172,13 @@
       "source": "Exchange News",
       "ts": 1774370444000,
       "type": "results"
+    },
+    {
+      "title": "IRFC Closes Trading Window for FY26 Financial Results - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcWlqb2ktaHFISFRZa0hodlZOU25qcXVrOTViYm83RmJUZ3pzT29wZTduNVpocnBkcm03MFVzSVBfSXR0TWFvdVRudXM5SG90eDZqeHA5M3lrZm9Oal9hS2M0YVdZOHZnSXRTZ3N1TDY1NlZzVmdYOEVJcDJoT1NGeWNrNnliTzkzQXF2LTlQbVp0c1R1cEtFb1FLV1BPcVBqR2FkdHNKYU5kZGJrZEFkdTV1LVRWMS01b2c4XzEyTWJXd1Q0Nll1NzJ4M3FMZ3dZdEVuTjVDWVpyQlk?oc=5",
+      "source": "Trading Window",
+      "ts": 1774347682000,
+      "type": "insider"
     },
     {
       "title": "NHPC Announces Trading Window Closure from April 1, 2026 Ahead of FY 2025-26 Results - PSU Connect",
