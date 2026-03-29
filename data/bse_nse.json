@@ -1,632 +1,146 @@
 {
-  "updated": "2026-03-29T08:02:46.879949+00:00",
-  "count": 96,
+  "updated": "2026-03-29T11:04:52.112079+00:00",
+  "bse_count": 27,
+  "news_count": 10,
   "log": [
-    "BSE NEWS_DT sample: '2026-03-29T13:29:42.333' | keys: ['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
-    "BSE page 1: 0/10 items with valid timestamps",
-    "BSE page 2: 0/0 items with valid timestamps",
-    "BSE actions: 21 items",
-    "BSE result calendar: 4 items",
-    "NSE: no data (try updating nsepython)",
-    "ET Markets: 50 items (7d window)",
-    "LiveMint: 35 items (7d window)",
-    "Moneycontrol: FAILED — 403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/corporateannouncements.xml",
-    "Business Standard: FAILED — 403 Client Error: Forbidden for url: https://www.business-standard.com/rss/markets-106.rss",
-    "Exchange News: 43 items (7d window)",
-    "BSE/NSE Results: 21 items (7d window)",
-    "Corp Actions: 18 items (7d window)",
-    "Board Meetings: 25 items (7d window)",
-    "Bulk/Block Deals: 39 items (7d window)"
+    "BSE NEWS_DT='2026-03-29T16:30:45.863' keys=['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
+    "BSE page 1: 0/29 with timestamps",
+    "BSE page 2: 0/0 with timestamps",
+    "BSE actions: 21",
+    "BSE calendar: 4",
+    "NSE: no data",
+    "Exchange News: 30 items",
+    "BSE/NSE Results: 30 items",
+    "Corp Actions: 30 items",
+    "Board Meetings: 29 items",
+    "Bulk/Block Deals: 30 items"
   ],
-  "items": [
+  "bse_items": [
     {
-      "title": "Vedanta to split into five companies in April; Anil Agarwal says demerger to create ‘phenomenal’ shareholder value: Report",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-to-split-into-five-companies-in-april-anil-agarwal-says-demerger-to-create-phenomenal-shareholder-value-report/articleshow/129877048.cms",
-      "source": "ET Markets",
-      "ts": 1774788210000,
+      "title": "We hereby submit the Intimation regarding Opening of 12th Store of D. P. Jewellers, A Brand of D. P. Abhushan Limited at Dhar (M.P.)",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d21a2118-152c-424b-8f79-d3a3842d996a.pdf",
+      "source": "BSE",
+      "ts": 0,
       "type": "filing"
     },
     {
-      "title": "War is profitable, time to get richer: 'Rich Dad Poor Dad' author Robert Kiyosaki",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/war-is-profitable-time-to-get-richer-rich-dad-poor-dad-author-robert-kiyosaki/articleshow/129876638.cms",
-      "source": "ET Markets",
-      "ts": 1774785510000,
-      "type": "results"
-    },
-    {
-      "title": "Dividend, bonus issue alert: IREDA among 12 stocks turning ex-date for corporate actions this week. Do you own any?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-bonus-issue-alert-ireda-among-12-stocks-turning-ex-date-for-corporate-actions-this-week-do-you-own-any/slideshow/129876771.cms",
-      "source": "ET Markets",
-      "ts": 1774784741000,
-      "type": "dividend"
-    },
-    {
-      "title": "8 midcap stocks with massive upside potential of up to 75%. Do you own any?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-with-massive-upside-potential-of-up-to-75-do-you-own-any/slideshow/129876422.cms",
-      "source": "ET Markets",
-      "ts": 1774783320000,
+      "title": "The Company has received Notification of Award for a project.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/616caf88-5920-4d56-bbc1-d635e9180dcd.pdf",
+      "source": "BSE",
+      "ts": 0,
       "type": "filing"
     },
     {
-      "title": "Market trading guide: Buy ACME Solar and Dalmia Bharat on Monday for short-term gains up to 16%. Here’s why",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-acme-solar-and-dalmia-bharat-on-monday-for-short-term-gains-up-to-16-heres-why/articleshow/129876087.cms",
-      "source": "ET Markets",
-      "ts": 1774781894000,
-      "type": "filing"
+      "title": "Proceedings of EGM held on 29-03-2026 at 11.30 a.m and concluded at 11.56 a.m.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c417c0fc-70b4-4ad0-a2ac-260635ff60fd.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "board"
     },
     {
-      "title": "13 penny stocks plunge up to 90% in FY26. Are you affected?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/13-penny-stocks-plunge-up-to-90-in-fy26-are-you-affected/slideshow/129875876.cms",
-      "source": "ET Markets",
-      "ts": 1774779289000,
-      "type": "filing"
-    },
-    {
-      "title": "Elon Musk's xAI has lost all 8 of its original co-founders since January- Ross Nordeen is the last to go",
-      "link": "https://www.livemint.com/companies/news/elon-musks-xai-has-lost-all-8-of-its-original-co-founders-since-january-ross-nordeen-is-the-last-to-go-11774757797365.html",
-      "source": "LiveMint",
-      "ts": 1774778473000,
-      "type": "filing"
-    },
-    {
-      "title": "Vedanta demerger: Anil Agarwal confirms April timeline, says company to split into 5 entities",
-      "link": "https://www.livemint.com/companies/news/vedanta-demerger-anil-agarwal-confirms-april-timeline-says-company-to-split-into-5-entities-11774755787015.html",
-      "source": "LiveMint",
-      "ts": 1774777584000,
-      "type": "filing"
-    },
-    {
-      "title": "Iran war, crude, rupee among 8 factors to steer D-Street in holiday-shortened week",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/iran-war-crude-rupee-among-8-factors-to-steer-d-street-in-holiday-shortened-week/articleshow/129875293.cms",
-      "source": "ET Markets",
-      "ts": 1774775985000,
-      "type": "filing"
-    },
-    {
-      "title": "Stock market open for only 3 days this week. Anand James on how to trade Nifty",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-open-for-only-3-days-this-week-anand-james-on-how-to-trade-nifty/articleshow/129875260.cms",
-      "source": "ET Markets",
-      "ts": 1774775439000,
-      "type": "filing"
-    },
-    {
-      "title": "Vijaypat Singhania, former MD of Raymond Group, dies at 87",
-      "link": "https://www.livemint.com/companies/vijaypat-singhania-former-md-of-raymond-group-dies-at-87-11774718167428.html",
-      "source": "LiveMint",
-      "ts": 1774738394000,
-      "type": "results"
-    },
-    {
-      "title": "Jubilant FoodWorks says impact of LPG supply shortage limited amid West Asia war",
-      "link": "https://www.livemint.com/companies/news/jubilant-foodworks-network-stores-dominos-pizza-dunkin-donuts-impact-lpg-supply-shortage-west-asia-war-move-electric-png-11774709426356.html",
-      "source": "LiveMint",
-      "ts": 1774731604000,
-      "type": "filing"
-    },
-    {
-      "title": "FIIs sell Indian equities worth Rs 1.14 lakh crore in March; 2026 outflow balloons to Rs 1.27 lakh crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-equities-worth-rs-1-14-lakh-crore-in-march-2026-outflow-balloons-to-rs-1-27-lakh-crore/articleshow/129864121.cms",
-      "source": "ET Markets",
-      "ts": 1774717897000,
-      "type": "filing"
-    },
-    {
-      "title": "Info Edge commits Rs 250 cr in deep-tech AIF; exits Shopkirana via share-swap deal with TIPL",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-commits-rs-250-cr-in-deep-tech-aif-exits-shopkirana-via-share-swap-deal-with-tipl/articleshow/129863762.cms",
-      "source": "ET Markets",
-      "ts": 1774716603000,
-      "type": "filing"
-    },
-    {
-      "title": "Dalal Street Week Ahead:  Avoid aggressive long positions; focus on capital preservation",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-avoid-aggressive-long-positions-focus-on-capital-preservation/articleshow/129862281.cms",
-      "source": "ET Markets",
-      "ts": 1774710288000,
-      "type": "filing"
-    },
-    {
-      "title": "Google sued by Epstein survivors for refusing to remove AI Mode results exposing their identities",
-      "link": "https://www.livemint.com/companies/news/google-doj-sued-by-jeffrey-epstein-survivors-for-refusing-to-remove-ai-mode-results-exposing-their-identities-11774679364898.html",
-      "source": "LiveMint",
-      "ts": 1774704115000,
-      "type": "results"
-    },
-    {
-      "title": "Goldman Sachs’ India bets slide in FY26; 5 stocks crash over 50% but one turns multibagger",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-slide-in-fy26-5-stocks-crash-over-50-but-one-turns-multibagger/slideshow/129860800.cms",
-      "source": "ET Markets",
-      "ts": 1774701274000,
-      "type": "filing"
-    },
-    {
-      "title": "Oil spikes, markets swoon. Now what? A disciplined approach to the West Asia crisis",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-spikes-markets-swoon-now-what-a-disciplined-approach-to-the-west-asia-crisis/articleshow/129859619.cms",
-      "source": "ET Markets",
-      "ts": 1774696629000,
-      "type": "filing"
-    },
-    {
-      "title": "How GIFT City can reshape cross-border investing for domestic and international investors",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-gift-city-can-reshape-cross-border-investing-for-domestic-and-international-investors/articleshow/129859580.cms",
-      "source": "ET Markets",
-      "ts": 1774696335000,
-      "type": "filing"
-    },
-    {
-      "title": "Google nears massive financing agreement for Anthropic's 500-megawatt data center project: Report",
-      "link": "https://www.livemint.com/companies/news/google-nears-massive-financing-agreement-for-anthropics-500-megawatt-data-center-project-report-11774672878301.html",
-      "source": "LiveMint",
-      "ts": 1774696327000,
-      "type": "filing"
-    },
-    {
-      "title": "Concurrent Losers: 13 small-cap stocks decline for 5 consecutive sessions",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-13-small-cap-stocks-decline-for-5-consecutive-sessions/slideshow/129859504.cms",
-      "source": "ET Markets",
-      "ts": 1774695172000,
-      "type": "filing"
-    },
-    {
-      "title": "KPMG plans to lay off hundreds of workers — who is likely to be impacted? Everything we know so far",
-      "link": "https://www.livemint.com/companies/news/kpmg-plans-to-lay-off-hundreds-of-workers-who-is-likely-to-be-impacted-everything-we-know-so-far-11774667641106.html",
-      "source": "LiveMint",
-      "ts": 1774691059000,
-      "type": "filing"
-    },
-    {
-      "title": "Silver lining to market crash? Analysts say Nifty now at fair valuations after 9% March selloff; what lies ahead",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/silver-lining-to-market-crash-analysts-say-nifty-now-at-fair-valuations-after-9-march-selloff-what-lies-ahead/articleshow/129858631.cms",
-      "source": "ET Markets",
-      "ts": 1774690758000,
-      "type": "filing"
-    },
-    {
-      "title": "Ajanta Pharma, Sun Pharma poised to tap GLP-1 opportunity amid market shift: Siddhartha Khemka",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ajanta-pharma-sun-pharma-poised-to-tap-glp-1-opportunity-amid-market-shift-siddhartha-khemka/articleshow/129858466.cms",
-      "source": "ET Markets",
-      "ts": 1774690054000,
-      "type": "filing"
-    },
-    {
-      "title": "Nifty 50 constituents mostly protected from oil shock: ICICI Securities",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-50-constituents-mostly-protected-from-oil-shock-icici-securities/articleshow/129857548.cms",
-      "source": "ET Markets",
-      "ts": 1774684538000,
-      "type": "filing"
-    },
-    {
-      "title": "NARCL set to acquire debt of Kay Bouvet Engineering",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/narcl-set-to-acquire-debt-of-kay-bouvet-engineering/articleshow/129857519.cms",
-      "source": "ET Markets",
-      "ts": 1774683512000,
-      "type": "filing"
-    },
-    {
-      "title": "Kill switch soon for all digi payments to combat fraud",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kill-switch-soon-for-all-digi-payments-to-combat-fraud/articleshow/129857406.cms",
-      "source": "ET Markets",
-      "ts": 1774682638000,
-      "type": "filing"
-    },
-    {
-      "title": "RBI mandates LEI code for all market participants, bars non-compliant entities",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mandates-lei-code-for-all-market-participants-bars-non-compliant-entities/articleshow/129857332.cms",
-      "source": "ET Markets",
-      "ts": 1774681684000,
-      "type": "filing"
-    },
-    {
-      "title": "Markets drown in Red Sea: Rupee bleeds, bears maul Street",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/markets-drown-in-red-sea-rupee-bleeds-bears-maul-street/articleshow/129857257.cms",
-      "source": "ET Markets",
-      "ts": 1774680444000,
-      "type": "filing"
-    },
-    {
-      "title": "Workers strike at one of the largest US meatpacking plants will continue for a 3rd week",
-      "link": "https://www.livemint.com/companies/workers-strike-at-one-of-the-largest-us-meatpacking-plants-will-continue-for-a-3rd-week-11774640438518.html",
-      "source": "LiveMint",
-      "ts": 1774660238000,
-      "type": "filing"
-    },
-    {
-      "title": "Qatar's Doha Bank to bid India 'goodbye'",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/qatars-doha-bank-to-bid-india-goodbye/articleshow/129857300.cms",
-      "source": "ET Markets",
-      "ts": 1774659514000,
-      "type": "filing"
-    },
-    {
-      "title": "Exclusive-US sends subpoenas in Warner-Paramount antitrust review as probe picks up steam",
-      "link": "https://www.livemint.com/companies/exclusiveus-sends-subpoenas-in-warner-paramount-antitrust-review-as-probe-picks-up-steam-11774638086163.html",
-      "source": "LiveMint",
-      "ts": 1774657885000,
-      "type": "filing"
-    },
-    {
-      "title": "Codelco Expects to Churn Out Slightly More Copper This Year",
-      "link": "https://www.livemint.com/companies/codelco-expects-to-churn-out-slightly-more-copper-this-year-11774636345809.html",
-      "source": "LiveMint",
-      "ts": 1774656145000,
-      "type": "filing"
-    },
-    {
-      "title": "Judge wont block meeting that could exempt Gulf drilling from Endangered Species Act",
-      "link": "https://www.livemint.com/companies/judge-wont-block-meeting-that-could-exempt-gulf-drilling-from-endangered-species-act-11774629873629.html",
-      "source": "LiveMint",
-      "ts": 1774649673000,
-      "type": "filing"
-    },
-    {
-      "title": "RBI mandates Legal Entity Identifier, Unique Transaction Identifier for financial mkt transactions",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mandates-legal-entity-identifier-unique-transaction-identifier-for-financial-mkt-transactions/articleshow/129850364.cms",
-      "source": "ET Markets",
-      "ts": 1774642849000,
-      "type": "filing"
-    },
-    {
-      "title": "Deposits continues to lag credit growth, credit-deposit ratio at record high",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/deposits-continues-to-lag-credit-growth-credit-deposit-ratio-at-record-high/articleshow/129857310.cms",
-      "source": "ET Markets",
-      "ts": 1774640837000,
-      "type": "filing"
-    },
-    {
-      "title": "Indian exporters look abroad to manage payment risks",
-      "link": "https://www.livemint.com/companies/indian-exporters-overseas-payment-entities-geopolitical-risks-business-continuity-11774516362098.html",
-      "source": "LiveMint",
-      "ts": 1774637436000,
-      "type": "filing"
-    },
-    {
-      "title": "Gainers &amp; Losers: RIL, HDFC Bank and HEG among 6 top movers on Friday. Here’s why",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-ril-hdfc-bank-and-heg-among-6-top-movers-on-friday-heres-why/slideshow/129847279.cms",
-      "source": "ET Markets",
-      "ts": 1774633479000,
-      "type": "filing"
-    },
-    {
-      "title": "Tata Motors PV,  IDBI Bank among 8 stocks that hit 52-week lows; slip up to 45% in a month",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-idbi-bank-among-8-stocks-that-hit-52-week-lows-slip-up-to-45-in-a-month/slideshow/129846213.cms",
-      "source": "ET Markets",
-      "ts": 1774630169000,
-      "type": "filing"
-    },
-    {
-      "title": "Stock Market Holiday 2026: NSE, BSE to remain shut on these 2 days next week! Check full calendar",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-nse-bse-to-remain-shut-on-these-2-days-next-week-check-full-calendar/articleshow/129845637.cms",
-      "source": "ET Markets",
-      "ts": 1774629407000,
-      "type": "filing"
-    },
-    {
-      "title": "Growel Formulations forays into poultry sector with strategic investment in Provet Pharma — details here",
-      "link": "https://www.livemint.com/companies/news/growel-formulations-forays-into-poultry-sector-with-strategic-investment-in-provet-pharma-details-here-11774602705373.html",
-      "source": "LiveMint",
-      "ts": 1774629134000,
-      "type": "filing"
-    },
-    {
-      "title": "Hyundai Motor shares offer just 5% upside; Asit C Mehta initiates with Hold rating, flags 5 risks",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hyundai-motor-shares-offer-just-5-upside-asit-c-mehta-initiates-with-hold-rating-flags-5-risks/articleshow/129845461.cms",
-      "source": "ET Markets",
-      "ts": 1774628980000,
-      "type": "filing"
-    },
-    {
-      "title": "PSU banks slide up to 5% amid war-led selloff; UCO, BoB, punished most",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/march-turns-brutal-as-psu-banks-plunge-up-to-20-amid-war-led-selloff-uco-bob-punished-most/articleshow/129843847.cms",
-      "source": "ET Markets",
-      "ts": 1774624300000,
-      "type": "filing"
-    },
-    {
-      "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-ozempic-wegovy-generics/articleshow/129842771.cms",
-      "source": "ET Markets",
-      "ts": 1774621352000,
-      "type": "filing"
-    },
-    {
-      "title": "Foreign investors flee Indian assets at record pace on oil shock, pummel rupee",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-flee-indian-assets-at-record-pace-on-oil-shock-pummel-rupee/articleshow/129842854.cms",
-      "source": "ET Markets",
-      "ts": 1774621275000,
-      "type": "filing"
-    },
-    {
-      "title": "Reliance Industries shares drop 5%, wipe off Rs 88,000 cr from market value as govt reimposes windfall tax on fuel exports",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-shares-sink-4-wiping-off-rs-82000-crore-as-windfall-tax-on-fuel-exports-returns/articleshow/129842423.cms",
-      "source": "ET Markets",
-      "ts": 1774620116000,
-      "type": "filing"
-    },
-    {
-      "title": "12 midcap stocks surge up to 140% in FY26; 3 became multibaggers. Are you holding any?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-midcap-stocks-surge-up-to-140-in-fy26-3-became-multibaggers-are-you-holding-any/slideshow/129842600.cms",
-      "source": "ET Markets",
-      "ts": 1774619609000,
-      "type": "filing"
-    },
-    {
-      "title": "Nifty March 2026 rejig! Bharti Airtel to see weight increase, Reliance, HDFC Bank to witness outflows",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-march-2026-rejig-bharti-airtel-sees-weight-increase-reliance-hdfc-bank-to-witness-outflows/articleshow/129842250.cms",
-      "source": "ET Markets",
-      "ts": 1774619319000,
-      "type": "filing"
-    },
-    {
-      "title": "Mark Zuckerberg accelerates Meta's 'AI-native' overhaul with strict AI coding targets for engineers: Report",
-      "link": "https://www.livemint.com/companies/news/mark-zuckerberg-accelerates-metas-ai-native-overhaul-with-strict-ai-coding-targets-for-engineers-report-11774591169815.html",
-      "source": "LiveMint",
-      "ts": 1774618111000,
-      "type": "filing"
-    },
-    {
-      "title": "Nestle India Share Price Live Updates: Nestle India Stock Update",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-27-mar-2026/liveblog/129841673.cms",
-      "source": "ET Markets",
-      "ts": 1774617033000,
-      "type": "filing"
-    },
-    {
-      "title": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Trading Price",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-updates-27-mar-2026/liveblog/129841629.cms",
-      "source": "ET Markets",
-      "ts": 1774616834000,
-      "type": "filing"
-    },
-    {
-      "title": "IndiGo shares drop 5% as Motilal Oswal cuts target price on higher fuel costs, other headwinds",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-spicejet-shares-drop-up-to-5-govt-reintroduces-windfall-tax-on-atf-exports/articleshow/129841618.cms",
-      "source": "ET Markets",
-      "ts": 1774616799000,
-      "type": "filing"
-    },
-    {
-      "title": "Britannia Share Price Live Updates: Britannia's Market Update",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-live-updates-27-mar-2026/liveblog/129841384.cms",
-      "source": "ET Markets",
-      "ts": 1774616049000,
-      "type": "filing"
-    },
-    {
-      "title": "Wipro Share Price Live Updates: Wipro's Stock Update",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-today-live-updates-27-mar-2026/liveblog/129841039.cms",
-      "source": "ET Markets",
-      "ts": 1774615130000,
-      "type": "filing"
-    },
-    {
-      "title": "Did Nostradamus, Edgar Cayce predict a massive crash in 2026? What Robert Kiyosaki says",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-nostradamus-edgar-cayce-predict-a-massive-crash-in-2026-what-robert-kiyosaki-says/articleshow/129840877.cms",
-      "source": "ET Markets",
-      "ts": 1774614605000,
-      "type": "filing"
-    },
-    {
-      "title": "Start SIP in defence funds, growth looking solid for next 5-10 years, says Gurmeet Chadha. Here’s why",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/start-sip-in-defence-funds-growth-looking-solid-for-next-5-10-years-says-gurmeet-chadha-heres-why/articleshow/129840652.cms",
-      "source": "ET Markets",
-      "ts": 1774613906000,
-      "type": "filing"
-    },
-    {
-      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Update",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-live-updates-27-mar-2026/liveblog/129840509.cms",
-      "source": "ET Markets",
-      "ts": 1774613477000,
-      "type": "filing"
-    },
-    {
-      "title": "HEG, Graphite India shares jump up to 14% despite broader market weakness: Here’s why",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/heg-graphite-india-shares-jump-up-to-14-despite-broader-market-weakness-heres-why/articleshow/129840448.cms",
-      "source": "ET Markets",
-      "ts": 1774613417000,
-      "type": "filing"
-    },
-    {
-      "title": "ACME Solar shares zoom 8% after Investec initiates with Buy. 4 growth levers behind bullish call",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/acme-solar-shares-zoom-8-after-investec-initiates-with-buy-4-growth-levers-behind-bullish-call/articleshow/129839834.cms",
-      "source": "ET Markets",
-      "ts": 1774611168000,
-      "type": "filing"
-    },
-    {
-      "title": "After oil and gas, West Asia war now threatens condom shortage in India",
-      "link": "https://www.livemint.com/companies/india-condom-production-shortage-prices-rise-west-asia-war-impact-11774508645153.html",
-      "source": "LiveMint",
-      "ts": 1774609207000,
-      "type": "filing"
-    },
-    {
-      "title": "Air India Express raises borrowing limit to  ₹17,500 crore amid losses, turbulence",
-      "link": "https://www.livemint.com/companies/air-india-express-raises-borrowing-limit-rs17500-crore-losses-widen-11774580755785.html",
-      "source": "LiveMint",
-      "ts": 1774608948000,
-      "type": "filing"
-    },
-    {
-      "title": "Jefferies' Chris Wood sells HDFC Bank after Chairman's puzzling exit, cuts India weightage",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-chris-wood-sells-hdfc-bank-after-chairmans-puzzling-exit-cuts-india-weightage/articleshow/129839242.cms",
-      "source": "ET Markets",
-      "ts": 1774608334000,
-      "type": "filing"
-    },
-    {
-      "title": "IREDA declares Rs 0.60 interim dividend, sets record date; shares fall 3%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ireda-declares-rs-0-60-interim-dividend-sets-record-date-shares-fall-3/articleshow/129839189.cms",
-      "source": "ET Markets",
-      "ts": 1774608277000,
-      "type": "dividend"
-    },
-    {
-      "title": "Fino Payments Bank defers MD Rishi Gupta's reappointment; awaits RBI review",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fino-payments-bank-defers-md-rishi-guptas-reappointment-awaits-rbi-review/articleshow/129857344.cms",
-      "source": "ET Markets",
-      "ts": 1774608151000,
-      "type": "filing"
-    },
-    {
-      "title": "Explained: How petrol, diesel excise duty cut may impact HPCL, BPCL and Indian Oil shares",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-how-petrol-diesel-excise-duty-cut-may-impact-hpcl-bpcl-and-indian-oil-shares/articleshow/129839178.cms",
-      "source": "ET Markets",
-      "ts": 1774608151000,
-      "type": "filing"
-    },
-    {
-      "title": "CGD stocks slump up to 31% in a year. Can LPG crisis fuel fresh interest in IGL, GAIL, and others?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cgd-stocks-slump-up-to-31-in-a-year-can-lpg-crisis-fuel-fresh-interest-in-igl-gail-and-others/articleshow/129838928.cms",
-      "source": "ET Markets",
-      "ts": 1774606924000,
-      "type": "filing"
-    },
-    {
-      "title": "SpaceX IPO: Musk may offer 30% stake to retail investors as company plans April briefings",
-      "link": "https://www.livemint.com/companies/news/spacex-ipo-musk-may-offer-30-stake-to-retail-investors-as-company-plans-april-briefings-11774577885027.html",
-      "source": "LiveMint",
-      "ts": 1774606706000,
+      "title": "Closure of Trading Window",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/81450062-b9c9-407d-8c31-b2a1b6d1f169.pdf",
+      "source": "BSE",
+      "ts": 0,
       "type": "insider"
     },
     {
-      "title": "Who is Lindsay-Rae McIntyre? Microsoft's diversity head quits as HR team undergoes major AI-first restructuring",
-      "link": "https://www.livemint.com/companies/people/who-is-lindsay-rae-mcintyre-microsofts-diversity-head-quits-as-hr-team-undergoes-major-ai-first-restructuring-11774581156954.html",
-      "source": "LiveMint",
-      "ts": 1774605959000,
+      "title": "Disclosure under Regulation 29(2) of SEBI (SAST) Regulation.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fe48f52d-803b-4aee-ad35-e9e88805e798.pdf",
+      "source": "BSE",
+      "ts": 0,
       "type": "filing"
     },
     {
-      "title": "Remedium Lifecare Share Price Today, Remedium Lifecare Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0E0bjhxdV9ERjZaaEwtb0h5MGRRLWpna0p0MFc4ejdQRFVfelVqMzRGTDM4TXNvMENwbzQtMmxfWGdhT1oxVTFjY0lXYm1BajdsYkJ3dmVtN2VqZ0p4Uzg5NmpfRnB2WjJPNHVtaTZSOGd2R05PQnA5dFlscVppLU5sazVTNEJ0M2pn?oc=5",
-      "source": "Board Meetings",
-      "ts": 1774594800000,
+      "title": "Closure of Trading window from 1st April, 2026 till the end of 48 hours after the declaration of audited financial results for the 4th Quarter and Financial year ended 2025-26 ended 31st March 2026",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ae7f6d60-8724-4d54-863e-b8b72b3e2f64.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "Intimation under Regulation 30 of the SEBI (LODR), Regulations, 2015- The Company has emerged as the L1 bidder for the construction of 12 high rise residential buildings (G+13) using monolithic ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/400d56a3-53ce-4543-b90b-b566e833537d.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Please find enclosed disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/09f9848c-edf5-4879-a3ea-9103fb1bb6ca.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "GST Authority Order",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e1c4404e-9be7-427f-bfdc-60543edc4a26.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Intimation of closure of trading window.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/39e15955-cab6-45c5-9064-3f0a7ef9ca58.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "Intimation of Assessment order under Section 143(3) of the Income Tax Act, 1961 dated March 28, 2026 from the office of Assistant Commissioner of Income Tax, Central Circle 13, Delhi",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/92d073a6-383d-4665-96a9-5e6e298a6032.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "filing"
+    },
+    {
+      "title": "Outcome Of Board Meeting",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c1fb3950-1ddd-44a9-bb84-748954fe736f.pdf",
+      "source": "BSE",
+      "ts": 0,
       "type": "board"
     },
     {
-      "title": "Investing in IPL a proxy for India consumption story: RCB co-owner Aryaman Birla",
-      "link": "https://www.livemint.com/companies/news/investing-in-ipl-a-proxy-for-india-consumption-story-rcb-co-owner-aryaman-birla-11774537397960.html",
-      "source": "LiveMint",
-      "ts": 1774591263000,
+      "title": "Board has declared Financials in pursuance of implementation of Resolution plan as approved by NCLT",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ee38f9ff-f239-4858-b489-3d75e15183e3.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "results"
+    },
+    {
+      "title": "Intimation regarding the execution of the (i) Second Amendment Agreement to the Share Purchase Agreement entered into for the acquisition of shares of Vizag Hospital and Cancer Research ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a97ac7af-294f-42a9-a4c2-3121b3c792d5.pdf",
+      "source": "BSE",
+      "ts": 0,
       "type": "filing"
     },
     {
-      "title": "JSW benchmarks itself against global leaders, says Parth Jindal",
-      "link": "https://www.livemint.com/companies/news/jsw-benchmarks-itself-against-global-leaders-says-parth-jindal-11774533933191.html",
-      "source": "LiveMint",
-      "ts": 1774591222000,
+      "title": "Announcement under Regulation 30 of SEBI LODR - Order passed by the Hon''ble NCLT dated 12.03.2026",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/551eee98-6ea0-43fb-9ef8-a448cc3f612b.pdf",
+      "source": "BSE",
+      "ts": 0,
       "type": "filing"
     },
     {
-      "title": "upGrad eyes Unacademy deal at 90% markdown over 2021 valuation",
-      "link": "https://www.livemint.com/companies/upgrad-to-pay-2-055-crore-for-unacademy-11774522629699.html",
-      "source": "LiveMint",
-      "ts": 1774589462000,
+      "title": "Media release with title \"CMS info Systems strengthens ATM Management Solutions Platform through acquisition of FSS''s Managed Services business\".",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d4829a11-7044-40e1-bd83-9b21cc6a69fc.pdf",
+      "source": "BSE",
+      "ts": 0,
       "type": "filing"
     },
     {
-      "title": "Renewable energy firms plug into broader play for scale, growth",
-      "link": "https://www.livemint.com/companies/renewable-energy-diversification-value-chain-solar-wind-11774501913072.html",
-      "source": "LiveMint",
-      "ts": 1774589442000,
+      "title": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ac12f4a2-2e4e-416e-a19d-c8d8353cc67b.pdf",
+      "source": "BSE",
+      "ts": 0,
       "type": "filing"
     },
     {
-      "title": "Anthropic vs Pentagon: Court grants injunction, questions govt’s move to ‘cripple’ AI firm",
-      "link": "https://www.livemint.com/companies/news/anthropic-wins-preliminary-injunction-against-pentagon-in-landmark-ai-blacklisting-case-11774567078903.html",
-      "source": "LiveMint",
-      "ts": 1774587640000,
-      "type": "filing"
-    },
-    {
-      "title": "From beer to cosmetics, Asia feels full force of war-fuelled energy crisis",
-      "link": "https://www.livemint.com/companies/from-beer-to-cosmetics-asia-feels-full-force-of-war-fuelled-energy-crisis-11774566121226.html",
-      "source": "LiveMint",
-      "ts": 1774585920000,
-      "type": "filing"
-    },
-    {
-      "title": "Millennium and Engineers Gate Wind Down Hedge Fund Partnership",
-      "link": "https://www.livemint.com/companies/millennium-and-engineers-gate-wind-down-hedge-fund-partnership-11774550698779.html",
-      "source": "LiveMint",
-      "ts": 1774570498000,
-      "type": "filing"
-    },
-    {
-      "title": "Sonia Rawal to head Allianz Jio Reinsurance as JV commences operations",
-      "link": "https://www.livemint.com/companies/news/allianz-jio-reinsurance-ceo-sonia-rawal-bajaj-allianz-11774521931744.html",
-      "source": "LiveMint",
-      "ts": 1774547541000,
-      "type": "filing"
-    },
-    {
-      "title": "Meta’s new pay plan could hand top executives billions — but there’s a catch",
-      "link": "https://www.livemint.com/companies/news/metas-new-pay-plan-could-hand-top-executives-billions-but-there-s-a-catch-11774513368689.html",
-      "source": "LiveMint",
-      "ts": 1774537044000,
-      "type": "filing"
-    },
-    {
-      "title": "Nayara Energy raises petrol, diesel prices as West Asia war squeezes supply",
-      "link": "https://www.livemint.com/companies/news/nayara-energy-raises-petrol-diesel-prices-as-west-asia-war-squeezes-supply-11774511959196.html",
-      "source": "LiveMint",
-      "ts": 1774535411000,
-      "type": "filing"
-    },
-    {
-      "title": "L&amp;T Tech to sell smart world portfolio to AM Group-backed AMI Paradigm Solutions",
-      "link": "https://www.livemint.com/companies/news/lt-tech-sells-smart-world-communication-business-india-ami-paradigm-11774504863808.html",
-      "source": "LiveMint",
-      "ts": 1774529419000,
-      "type": "filing"
-    },
-    {
-      "title": "Why Palantir CEO believes people with ADHD, autism and neurodivergence will thrive in AI boom",
-      "link": "https://www.livemint.com/companies/people/palantir-ceo-alex-karp-thinks-people-with-adhd-autism-other-neudivergence-disorders-have-a-unique-edge-in-the-ai-era-11774497154873.html",
-      "source": "LiveMint",
-      "ts": 1774526636000,
-      "type": "filing"
-    },
-    {
-      "title": "Everstone-backed Subway set to plan India IPO to raise up to $150 million",
-      "link": "https://www.livemint.com/companies/subway-india-ipo-everstone-qsr-food-services-market-eversub-restaurants-11774496006128.html",
-      "source": "LiveMint",
-      "ts": 1774525858000,
-      "type": "filing"
-    },
-    {
-      "title": "Indian luxury set for strong sales as West Asia war keeps affluent at home",
-      "link": "https://www.livemint.com/companies/news/west-asia-war-could-spur-domestic-luxury-consumption-11774498031448.html",
-      "source": "LiveMint",
-      "ts": 1774524718000,
-      "type": "filing"
-    },
-    {
-      "title": "Fashion retailer OVS bets big on India, plans to make it its largest market outside Italy",
-      "link": "https://www.livemint.com/companies/ovs-india-family-fashion-clothing-apparel-retail-expansion-11774445732395.html",
-      "source": "LiveMint",
-      "ts": 1774518752000,
-      "type": "filing"
-    },
-    {
-      "title": "Infosys’ $560 million bet on two US tech firms is its all-time highest M&amp;A spend in a year",
-      "link": "https://www.livemint.com/companies/news/infosys-560-million-bet-on-two-tech-firms-takes-its-acquisition-spend-to-all-time-high-11774491866716.html",
-      "source": "LiveMint",
-      "ts": 1774514419000,
-      "type": "filing"
-    },
-    {
-      "title": "Plum Insurance raises $20 million, offers partial exit to Incubate Fund Asia",
-      "link": "https://www.livemint.com/companies/start-ups/plum-insurance-raises-money-early-investor-exit-valuation-doubles-healthcare-expansion-plans-11774435729326.html",
-      "source": "LiveMint",
-      "ts": 1774504863000,
-      "type": "filing"
-    },
-    {
-      "title": "Globe Textiles (India) Share Price Today, Globe Textiles (India) Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTBSMTZmR0M5aWhYQVA5RUVLd1dNQUFzSldHdGI2eDVBRzA4anYyWE1JMnlJUWtzcU16TDVad0lVSGFoVXRtUDJNLU54UEpvcUpGOFdCUFZsWGdwdmdTQ2pmVGctZHJRZEVvZ1BVVGRMZ0YwUXpJNXpMYkZmMlZtSTg2V1I1V1RoSkRfMUtHQ01qNEJIR1E?oc=5",
-      "source": "Board Meetings",
-      "ts": 1774398060000,
-      "type": "board"
+      "title": "The Company has declared it''s financials in pursuance of implementation of Resolution Plan as approved by NCLT.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0d47c2a5-5509-4607-8871-dc88d78322de.pdf",
+      "source": "BSE",
+      "ts": 0,
+      "type": "results"
     },
     {
       "title": "Financial results declared in pursuance for implementation of Resolution plan as approved by NCLT",
@@ -690,6 +204,78 @@
       "source": "BSE",
       "ts": 0,
       "type": "insider"
+    }
+  ],
+  "news_items": [
+    {
+      "title": "IDFC First Bank Q4 Results 2026 date and time: Quarterly earnings announcement next month - Board meeting schedule out! - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRjg5U2FfenRyWGdrMHZBV04yV2FocFlCUGZZRGtmSnRDSlJOdXdqRUs4U1prWlhDY2IxVTdYeU50T1p2eDVHRkJ1ZGJPa1ZVb1YzdUotamFWTEs2eERtb0RleFVWNTJxeXotUWtZUWhfVmNiOHRIZXFCOHJybTk2SnJJMnVRN3NwR0ppV0JCU3pXMENTVngyU0NMSXg3MVFxWDdfa2c5NHNDTDA2Rmw5cHo1TDNnY05EdW0zWWswVG1hSlg0WFhWYmxTMS05UWRUcERxX2JBSFVuT0kyaTNYWS1FZ09HUm9kenR4c3RoWEdKdGFWVGfSAfsBQVVfeXFMUDhla3Y2UDhpV3lRQkF0X3VaVlJTUWJlNzcxd3RtRXlERzdwcWRrSXU4NGRfcXo4cjBnS1VWYmNFYzdzYS1nYnZDbnN0b3g2T0pNdzlKLUE3ZlBJTVN3ZGFsMFdCR3FkbnlKVU1NU0dTYks3WXVWcFVXa2xBdXJKRFhWUl9PaW14YzZlckU3SEhhcHBJVW1UQk9NQjVkS0ZaaXBUVFRGSnVEWjdZRUJCMzJWbDYxY1pNRnRtam5DOUtOMVpBU3JIaVdWVEozbkVoMmhKczR3V3o1U0dUenN4TFYyMzQwWkpKckxseVpUQk4zNEx1OExVWGhIMVE?oc=5",
+      "source": "BSE/NSE Results",
+      "ts": 1774671958000,
+      "type": "results"
+    },
+    {
+      "title": "Remedium Lifecare Share Price Today, Remedium Lifecare Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0E0bjhxdV9ERjZaaEwtb0h5MGRRLWpna0p0MFc4ejdQRFVfelVqMzRGTDM4TXNvMENwbzQtMmxfWGdhT1oxVTFjY0lXYm1BajdsYkJ3dmVtN2VqZ0p4Uzg5NmpfRnB2WjJPNHVtaTZSOGd2R05PQnA5dFlscVppLU5sazVTNEJ0M2pn?oc=5",
+      "source": "Board Meetings",
+      "ts": 1774594800000,
+      "type": "board"
+    },
+    {
+      "title": "Infibeam Avenues Share Price Today, Infibeam Avenues Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEI2QTRYcTR5cC1BYXM3U2FsVHQzTGdwMDVrMWoyQzdGRjUyakhJaS1icjU3NDVhTjZtWGdHR2ZURnpLSk5MMmY5ckJYTy1YQ2pPWEN6a3ctNWplaHRHWWxTN25WNkppVzM4NUJnZWN4R0JFTGJtUVlhM2d5WlJ0Sm1udw?oc=5",
+      "source": "Board Meetings",
+      "ts": 1774594800000,
+      "type": "board"
+    },
+    {
+      "title": "Affle (India) Share Price Today, Affle (India) Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnZsajBVWU1yekF0RlFfdTFwX2ZpYjZTU216V2RCcGJzSjQxRXJvXzN5R3lzZWQ2QXFZSHdLUHhpRV9aa0s2UUk0V0RhelQzeURCdEFuc2s5U0pOcDJKaE55MjQ2X0VxQkNrQmRhWk82VnVvSVVOc0EzS242cWthaWl3?oc=5",
+      "source": "Board Meetings",
+      "ts": 1774594800000,
+      "type": "board"
+    },
+    {
+      "title": "JSPL Share Price Today, JSPL Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHlDWlM3OC1RekIyNUptdWZETXVTUmxxR2ZENDVybFhMekstM1NBNHVPTVppeGI2dTF0ZlN0U0I5V0NpWkVzZ0pGcVVYRXh0cGs4OV9QVUNId3JGZW95bWtSNnN2N1o5dGZKbURSQ2llZEtJTVJLMWJCQnptbnNIeUo0Nm9Pdw?oc=5",
+      "source": "Board Meetings",
+      "ts": 1774594800000,
+      "type": "board"
+    },
+    {
+      "title": "Viji Finance Limited Announces Extra-Ordinary General Meeting on April 23, 2026 via Video Conferencing - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOa2RfaXVHYXBiVXo2RVd3Tnh0eHFLSS1kMHJrc0g1S3dxZE9vT1BaaktpamN4RTctTTlNYmI5THg3dnU0UHZKeWxubFJOcElSUDUxVUUxRGlFMGNvM2ljV1E0VVFpUlVwTzV6Mmx0UWhlZmVhTGYyU3dXWlJJNkJfMERDSHA1eFRCTnRpTE4zSFZaZF9mM3JSSXFOUnFhdTlESjZyN2ZJUUhuQV9GN09MLUhtWksxWUhDYzZiMkxUM29aMGt5X29RQ01nbjUxOUJtYUttZWlfS0NkYkl1ekl1dmQ1ODB5QmdzQjhSTElXNA?oc=5",
+      "source": "Board Meetings",
+      "ts": 1774545405000,
+      "type": "board"
+    },
+    {
+      "title": "HCL Tech Q4 results 2026: 2nd dividend announcement this year soon! Board meeting date fixed - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcHJmdDZjTHB6NlRwYmppLW1WMHFVZ3FEOFRsZ1RnWGFOeXR6cVVYNk5CUFNzTmFzX0YydWxPaUROMllQUG5wQ1pEX0lQTV8zNm9GRTFYeUhoVkRPVzRvNjVWRU43SFRPdXRYTUkwWlJxRmttSkxqWGtldkJTeUZWUFNDazRSX1ZWdzJqOFN2aE5HMkxKdnozaldhbUZJMUlNZ3liVTBSb19HNE50VW1xbzNUOU93Z01GSWotMkxiek4zOXRSQ2RpUThFU1p6MVY0azVWbURLc01vUdIB3wFBVV95cUxQMHBpS01BY19yTWU3UXFTcEdmMHctcG1xWFV3anJSRlZhMFJoT3ZYYlR0dHhDMFI1ZnZ1empvRUVaeFdoMk1mNFdUTXpjTEhsV2dLOWZvNUJ1a2lYTDd6S3haUkxZUWpCc0VNd3BOQ1JNMWJWcXJ0SHdUb01DZXFSSXpiWmNlYzFfdWVPQ2FZX0VIZGhMbS01MUdRLWswQ1g0NmZ1eFdFd1k5YlpuN1BxRUNNNHMtb3RtTGdzX1hmX25KbmNpUUF3TXJlbWFqZnF4a0JqaDZ5ejBTWG1TdnZj?oc=5",
+      "source": "Exchange News",
+      "ts": 1774522935000,
+      "type": "dividend"
+    },
+    {
+      "title": "TCS Q4 results FY26: IT major releases earnings date, final dividend in focus; check financials, other details - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTktrdV9kQk9xajhlVXhFLVQ4STBrRURqYXdycUtqeC1uZFZBcEI4UkdzYmc0V1FXSW1fUGpDS2xDekZpd1czTUF1dktLbnBXMk54WEYtV0lvbTNkbkxLbHprMEdSSVViX1Rjb194V1FEVUphQy1qNFpfWWRRYWF4ZW56aVotYTVURlR3NldlXzFnSC00eU9uckJGV1lqQUtjcWI0Q0RUWEpLaGpUbFFsaTd5a0NUTW9ibncyM0l4VDlsc2N2VkdJdkp4Z3VBUGpLek1SdnpuRWtDeHZQREFlYkF6bW5fZ29Tdlg2V2FLMlJXNVRCNy0wWTJ0QkFpU2VDSVp5WkVn?oc=5",
+      "source": "Exchange News",
+      "ts": 1774424941000,
+      "type": "dividend"
+    },
+    {
+      "title": "Mahindra & Mahindra Schedules Board Meeting for May 5, 2026 to Approve Q4FY26 Results - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbW5Lb3JrWDAxV09xb2xLb3NEM2E3ZGdQN3ZaTU1rM2d4R3BLamVNdzNOaHZuN1NVN2ZydVg3eFhmRzlHTDFHUFlXYmUzMmhPaVdOYVpZTFJtbFpYbzV6UjhDV2NWZnI0T29LME1Oc0h0TEJsWXNqNmRwc1dUbWZiNEJkMmUwUldSSGVTd1NPcEpsTkdMNGJYTDUyc1hpeml6ajEyNFBCSExOZllfSWtvcWRwYkwtUF9lOVFnUE45cERFemIwbERsRnF6WWJIQmtLSEsxSUpyWlllcmwzZ3VCVlAwQQ?oc=5",
+      "source": "Exchange News",
+      "ts": 1774370444000,
+      "type": "results"
+    },
+    {
+      "title": "TCS Q4 Results 2026 date: Final dividend announcement in quarterly earnings – Check board meeting schedule - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUGxwTTQ3Q1VKYktrM3pQU1NsNC1QQ05sc3hZVUJWLTdMVVZDY3hsdE5hSnI5T2RJSWNXY294WjRfZkVXdG5NTWJJSGNjdUtJSnVGeEZhNDBoeDYxYWUzR0RCemVwOTNoVmYwdmZuckwyS0g0ZmJ0LXg4bTBoSzBnV2pwVFpFeE9QQko3YjVXM3l4aHpGWUl6UkVtdXRQLW04THlOTzRvUEVZUkFscEhsbllMYlpTNV80VXRTejV5b0tFQ0VPTzNjalVHazRFeEdJdlhjOXVRNzdFLTd1OFVPekgwTmZ6ZThsU3pz0gHwAUFVX3lxTE1feTV3aDAtNmx6czBCQUc2dGhMS3FIWXF6WjU2T2tNb04yWDA1bXdvemlqWXRRQ01OSjNfOHAzYVhsQlZIcGlKOHU5RnNjR3FmQjNtcGk0ODZTbHBwdS1lZUszMnJLOFlTdFlmZFowZUZFZkNjem4yMmRUa0pkdUxscUFxNm51Wl8yOTlBTS1EQlpITExWc1FVc2JmdHUwSDNYSGcycnZWcDhLNk9MWkswcWxHUnlsbEwzaVg3b2RVSWpSSFRfc0Rnc01ndXpoMzdTZVlYWG96ZnFFMzFTUlRaaEtHZGx0cFpfZ2VGdXpraQ?oc=5",
+      "source": "BSE/NSE Results",
+      "ts": 1774366626000,
+      "type": "results"
     }
   ]
 }
