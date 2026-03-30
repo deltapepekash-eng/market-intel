@@ -23,12 +23,13 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
+          # No cache: "pip" — requires requirements.txt which doesn't exist in this repo.
+          # Without it the step errors: "No file matched [**/requirements.txt]"
 
       - name: Install dependencies
-        # FIX: bse and nsepython were missing — caused ImportError silently,
-        # leaving only Google News RSS items (30–54 after dedup)
-        run: pip install requests feedparser bse nsepython
+        # bse + nsepython were missing in original — caused silent ImportError,
+        # leaving only 30-54 Google News items after dedup.
+        run: pip install --upgrade requests feedparser bse nsepython
 
       - name: Run fetch script
         run: python scripts/fetch_bse_nse.py
