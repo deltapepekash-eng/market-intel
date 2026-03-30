@@ -1189,9 +1189,9 @@ const GITHUB_PAGES_DATA_URL = (() => {
 // ── GitHub Actions trigger ────────────────────────────────────────────────────
 // Optional: fill these to let refresh buttons instantly kick off a new fetch.
 // Generate a fine-grained PAT with "Actions: write" at github.com/settings/tokens
-const GITHUB_OWNER = '';   // e.g. 'petejsmith'
-const GITHUB_REPO  = '';   // e.g. 'news-tracker'
-const GITHUB_TOKEN = '';   // leave '' to disable (buttons still re-fetch existing JSON)
+const GITHUB_OWNER = 'deltapepekash-eng';
+const GITHUB_REPO  = 'news';
+const GITHUB_TOKEN = '';
 
 async function triggerGithubAction() {
   if (!GITHUB_OWNER || !GITHUB_REPO || !GITHUB_TOKEN) return false;
