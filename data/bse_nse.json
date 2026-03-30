@@ -1,14 +1,10 @@
 {
-  "updated": "2026-03-30T04:24:42.256144+00:00",
-  "bse_count": 19,
-  "news_count": 30,
+  "updated": "2026-03-30T04:25:59.401754+00:00",
+  "bse_count": 0,
+  "news_count": 29,
   "log": [
-    "BSE NEWS_DT='2026-03-30T09:52:10.28' keys=['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
-    "BSE p1: 0/21 with ts",
-    "BSE p2: 0/0 with ts",
-    "BSE actions: 21",
-    "BSE calendar: 5",
-    "NSE: no data",
+    "BSE: package not installed",
+    "NSE: nsepython not installed",
     "Moneycontrol Corp: 403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/corporateannouncements.xml",
     "Exchange News: 30 items",
     "BSE/NSE Results: 30 items",
@@ -21,141 +17,7 @@
     "Ratings: 30 items",
     "Orders Won: 30 items"
   ],
-  "bse_items": [
-    {
-      "title": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 28, 2026 for AV AC DC Renew Pvt Ltd",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/80B6FE0F_BA03_46E0_B96E_E223CEC12F67_095204.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "insider"
-    },
-    {
-      "title": "Buyback of Shares by Multicare Pharmaceuticals Philippines Inc., a subsidiary company.",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bc1a8b63-311d-4158-9a02-c3b9ca240ba1.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "dividend"
-    },
-    {
-      "title": "As Attached",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1dba7972-8459-41b3-85d8-27ba78ca48d1.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Press Release",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1abbb5fe-c982-4d13-bdb9-383d6c883c59.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Intimation of Closure of Trading Window is attached herewith. Closure period is from 01.04.2026 to 48 hours after the declaration of the audited financial results for the year and quarter ....",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1ce64e60-e042-47bd-b4bd-abc332f540ae.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "insider"
-    },
-    {
-      "title": "Closure of Trading Window",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e9c29fc8-5519-4345-b495-589cb79e4924.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "insider"
-    },
-    {
-      "title": "Intimation is enclosed herewith.",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a8c8a0a1-bc42-4c09-887f-ffa34e27bf6b.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Attached",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/460e1ec0-c56d-4061-8275-ad61bb0c4c7a.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Disclosure of change in shareholding",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ec89adb3-37fb-4e35-937a-1be254d7098a.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Pursuant to Regulation 30 of Listing Regulations, please find enclosed Press Release- \"Wockhardt''s Zaynich (Zidebactam/ Cefepime) Receives Favourable Recommendation from CDSCO''s Subject ....",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5ba0d6e-7658-4d1f-a678-543332b8d4be.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Operationalization of Projects",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/041fa27b-9413-4b07-aaf2-3e6ffda10896.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Aries Agro Limited has appointed Mr. Sourav Ganguly as Brand Ambassador of the Company for a period of 3 (Three) years",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/62978dc3-62eb-4ace-9478-6aff8b3a3d5d.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Update on 50:50 Joint Venture between JSW Steel Limited and JFE Steel Corporation, Japan for the Steel Business of BPSL.",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/068cf3c7-c64e-43e3-b3cb-bb5f2ab938b3.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Receipt of Order",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3aa2587e-c6ee-4e8d-8118-092827ca4783.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "The Company hereby informs the Exchange that the Special Audit as directed by the Income Tax Department, has been concluded.",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f1942887-51d6-46a9-af2a-56b293b3e243.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Trading Members of the Exchange are hereby informed that effective from March 30, 2026, the Equity Shares of Central Mine Planning & Design Institute Ltd  (Scrip Code: 544739) are listed ....",
-      "link": "https://www.bseindia.com/corporates/ann.html?scripcode=544739",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Intimation under Regulation 30 of SEBI Listing Regulations",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8039fcf3-5746-4b88-8012-f1719f23b2bf.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Press Release regarding filing of Copyright in US Copyright Office is attached.",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b74c9fc8-730a-4559-a668-fc1c54ed48fd.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    },
-    {
-      "title": "Cessation of Mr. Chand Bihari Patodia (DIN:01389238) as Managing Director and Key Managerial Personnel of the Company upon completion of tenure with effect from the close of business hours ....",
-      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6be5ecaf-08df-4d45-a0fd-ddc7f72596e9.pdf",
-      "source": "BSE",
-      "ts": 0,
-      "type": "filing"
-    }
-  ],
+  "bse_items": [],
   "news_items": [
     {
       "title": "Torrent Pharma Schedules NCLT Shareholder Meeting for J.B. Chemicals Amalgamation - scanx.trade",
@@ -207,6 +69,13 @@
       "type": "board"
     },
     {
+      "title": "Lakshmi Machine Share Price Today, Lakshmi Machine Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHd1hDRGphZ3VGbkEtS2RLd1BEYW9GalVDRWoxLVhCQzUxOGw0WHM1WWkyZ2tqWmM4YjA2ZXFjTHpjQkh6NlN1UTM2WmRFTVdfZlhJRmR3SkpvU1o1V3U0RE80bkxmVUUtMVdXcVBudG9uem5VVERRbG1Raw?oc=5",
+      "source": "Board Meetings",
+      "ts": 1774594800000,
+      "type": "board"
+    },
+    {
       "title": "JSPL Share Price Today, JSPL Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHlDWlM3OC1RekIyNUptdWZETXVTUmxxR2ZENDVybFhMekstM1NBNHVPTVppeGI2dTF0ZlN0U0I5V0NpWkVzZ0pGcVVYRXh0cGs4OV9QVUNId3JGZW95bWtSNnN2N1o5dGZKbURSQ2llZEtJTVJLMWJCQnptbnNIeUo0Nm9Pdw?oc=5",
       "source": "Board Meetings",
@@ -228,22 +97,8 @@
       "type": "board"
     },
     {
-      "title": "Good Value Irrigation Share Price Today, Good Value Irrigation Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1g1ek1OZHh2N0QwNFk2WlM1YW5wb0x2Rl9MZUdUVWRuZk1xeUw2aFVraFd5UzNoWjc5V0gwenNJa1NpZDVKZFNULTh1SFBZamZvQ2xULUJHRWoydVZhNkJTRGNaTEZSMEpXd1RDbWRENXhKQk5hb3VzZ0dBYzVHc0hkUzZfWTI0LVVuaElR?oc=5",
-      "source": "Board Meetings",
-      "ts": 1774594800000,
-      "type": "board"
-    },
-    {
       "title": "Infibeam Avenues Share Price Today, Infibeam Avenues Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEI2QTRYcTR5cC1BYXM3U2FsVHQzTGdwMDVrMWoyQzdGRjUyakhJaS1icjU3NDVhTjZtWGdHR2ZURnpLSk5MMmY5ckJYTy1YQ2pPWEN6a3ctNWplaHRHWWxTN25WNkppVzM4NUJnZWN4R0JFTGJtUVlhM2d5WlJ0Sm1udw?oc=5",
-      "source": "Board Meetings",
-      "ts": 1774594800000,
-      "type": "board"
-    },
-    {
-      "title": "Lakshmi Machine Share Price Today, Lakshmi Machine Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHd1hDRGphZ3VGbkEtS2RLd1BEYW9GalVDRWoxLVhCQzUxOGw0WHM1WWkyZ2tqWmM4YjA2ZXFjTHpjQkh6NlN1UTM2WmRFTVdfZlhJRmR3SkpvU1o1V3U0RE80bkxmVUUtMVdXcVBudG9uem5VVERRbG1Raw?oc=5",
       "source": "Board Meetings",
       "ts": 1774594800000,
       "type": "board"
