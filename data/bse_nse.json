@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T22:06:26.372166+00:00",
+  "updated": "2026-04-01T23:52:59.310042+00:00",
   "bse_count": 398,
   "news_count": 150,
   "log": [
@@ -22,11 +22,11 @@
     "Exchange News: 69 in feed, 50 tried, 50 new",
     "BSE/NSE Results: 40 in feed, 40 tried, 34 new",
     "Corp Actions: 26 in feed, 26 tried, 26 new",
-    "Board Meetings: 40 in feed, 40 tried, 39 new",
-    "Bulk/Block Deals: 34 in feed, 34 tried, 34 new",
+    "Board Meetings: 39 in feed, 39 tried, 38 new",
+    "Bulk/Block Deals: 33 in feed, 33 tried, 33 new",
     "Trading Window: 71 in feed, 50 tried, 45 new",
     "Share Allotment: 55 in feed, 50 tried, 49 new",
-    "M&A: 46 in feed, 46 tried, 46 new",
+    "M&A: 34 in feed, 34 tried, 34 new",
     "Ratings: 39 in feed, 39 tried, 39 new",
     "Orders Won: 52 in feed, 50 tried, 49 new"
   ],
@@ -2841,7 +2841,7 @@
       "type": "dividend"
     },
     {
-      "title": "CMS Info Systems Declares ₹2.75 Interim Dividend: Record Date Set Today - HDFC Sky",
+      "title": "CMS Info Systems Declares ₹2.75 Interim Dividend: Record Date Set Today - hdfcsky.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVVtM0RtOHFKT21DbHh1eWFwOXBrRzlfemlEdE5kVVFJMzVzcU1wYTFuS2k2NUg2RlVPRTZUOWMxaTRHdjVOS0FUVENRRnhNei1hVm1zVEpIVHF5ZVVaTkJNdVFkMDlDUnZiSGNObGl3NEVhYm42VW1wbWcyS1UtTlJNRUV3dXFBZFVmbENSVjROcnlDeGFTWC1vWE90Zw?oc=5",
       "source": "Exchange News",
       "ts": 0,
@@ -2890,8 +2890,8 @@
       "type": "dividend"
     },
     {
-      "title": "Balmer Lawrie Announces Interim Dividend Of Rs.4.25 Per Share For FY2025-26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUG5kdXZkbXk5ZGZ6Tm8wOGN6SGhLTFA1SnJwajB3LW5nWGhOTUl4NFZsRUtXS1dvY2ZCVE9GQno0ZjlvRzlQWllreWlrUU96cUtOTXhLMkhjRVNETktJc29oQXNYNUx0R29McmtDeGhCVnBrcUpQVkJVY2tPLWJtSW9rOEd6OUMzSzVYb2NYakJyWnc4LUpLZmJDM3NKUG5qMW5SUXF4UXBhYS1VYXlkOW5NbF9MM3VZa0k1WVAyRF9FRGQwc3dBdURBWE5femF3QXBMWjRHdURXLV9ydGZsV3lDQXlqc1E?oc=5",
+      "title": "Hindustan Aeronautics Limited Schedules Board Meeting for February 12, 2026 to Review Q3FY26 Results and Interim Dividend - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMU5HU240bWdtRTJpanJLUkRNeG5KUHYxejdSbUpETlJ1MU5pS1YwVVRPeENmY0VBejJIT3lNMXNMYVFrU2lFZ3Z4T09RQkpTTWNZZmZXdkUxb3FEYnl4U0pvd3Q3RUlVc1c0VGRxeUhPM1hUWlJIbEh0V1F1M2JxSzMxWHlKZnlqMWR0UTRVbXZPTjFIQlJXaWxDSG80US1mOVp0RGMxTmx0VEt5QlVhQzMtMUdTSjRkb1pyeDg0T2x4anZXMlFENWwxSC1QRmJTNWJpOHFSaHRzTWJhWmhtd0xvOVpHWlJCMmhpT3owXzFIcURmai00dUVXNnVYMHptRFRQVmFfYw?oc=5",
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
@@ -2904,8 +2904,8 @@
       "type": "dividend"
     },
     {
-      "title": "Hindustan Aeronautics Limited Schedules Board Meeting for February 12, 2026 to Review Q3FY26 Results and Interim Dividend - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMU5HU240bWdtRTJpanJLUkRNeG5KUHYxejdSbUpETlJ1MU5pS1YwVVRPeENmY0VBejJIT3lNMXNMYVFrU2lFZ3Z4T09RQkpTTWNZZmZXdkUxb3FEYnl4U0pvd3Q3RUlVc1c0VGRxeUhPM1hUWlJIbEh0V1F1M2JxSzMxWHlKZnlqMWR0UTRVbXZPTjFIQlJXaWxDSG80US1mOVp0RGMxTmx0VEt5QlVhQzMtMUdTSjRkb1pyeDg0T2x4anZXMlFENWwxSC1QRmJTNWJpOHFSaHRzTWJhWmhtd0xvOVpHWlJCMmhpT3owXzFIcURmai00dUVXNnVYMHptRFRQVmFfYw?oc=5",
+      "title": "Balmer Lawrie Announces Interim Dividend Of Rs.4.25 Per Share For FY2025-26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUG5kdXZkbXk5ZGZ6Tm8wOGN6SGhLTFA1SnJwajB3LW5nWGhOTUl4NFZsRUtXS1dvY2ZCVE9GQno0ZjlvRzlQWllreWlrUU96cUtOTXhLMkhjRVNETktJc29oQXNYNUx0R29McmtDeGhCVnBrcUpQVkJVY2tPLWJtSW9rOEd6OUMzSzVYb2NYakJyWnc4LUpLZmJDM3NKUG5qMW5SUXF4UXBhYS1VYXlkOW5NbF9MM3VZa0k1WVAyRF9FRGQwc3dBdURBWE5femF3QXBMWjRHdURXLV9ydGZsV3lDQXlqc1E?oc=5",
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
@@ -3037,7 +3037,7 @@
       "type": "dividend"
     },
     {
-      "title": "HDFC Bank to Review Bonus Issue and Special Dividend July 19 - HDFC Sky",
+      "title": "HDFC Bank to Review Bonus Issue and Special Dividend July 19 - hdfcsky.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjE5cmprUm9XcEdPYjBISlNKd3FGQXB1VUt2MEg3bkNHejhNMWgyb2RCY0hJRmwyRTd4Z0RZUzZVakNzbzU0bnZrd1Zob251THc5TmtFeVVhVzRyS3N3LUNna3kzQXdVWmUtdkV2UHpxaWtSeUJ6eEtfZWtXT3cweHpOUzlRS1doWTZQSFJLaGdjZ1E0UVJvTThSa2szQ2NkbWZXOEhRdHE?oc=5",
       "source": "Exchange News",
       "ts": 0,
@@ -3275,7 +3275,7 @@
       "type": "results"
     },
     {
-      "title": "Ola Electric to Announce Q1 FY26 Results on July 14 - HDFC Sky",
+      "title": "Ola Electric to Announce Q1 FY26 Results on July 14 - hdfcsky.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNEQyUDBGeDVrbUxnZTEySUJhSi15NE56SzBQTmNReXhNNGZtNkZBbHpXQS1qbFNMZ3IxREJFWFB6dFNONFktMFZtYW1xRWFZc3k4alhjdjJOcV93UUdFR1ZOOW81eEtRb19uWVIzcExjVkZLemJqNHhSQXMwcjJ5ODNwZ3lrdw?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
@@ -3296,14 +3296,14 @@
       "type": "results"
     },
     {
-      "title": "ICICI Lombard to Review Q1 FY26 Results on July 15 - HDFC Sky",
+      "title": "ICICI Lombard to Review Q1 FY26 Results on July 15 - hdfcsky.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUNIS2ViRWJzakUwNlFELVhqTS1vcGUwZnJjc0tTRnpmckhYMWcxZ0VwM19Ebm4wUWFrRm1vcVZGUENidWZ2QzdLeGR4aFZ0Tm5UaUV4aHFmcnlQeHU3dFMzb1RqUkJpcEVHMHJhS2FzN2hyMC0xSjJYdm9iVTIxVXhFTQ?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
     },
     {
-      "title": "Affle 3i Q1FY26 Revenue Hits ₹620.7 Cr; PAT Up 21.8% - HDFC Sky",
+      "title": "Affle 3i Q1FY26 Revenue Hits ₹620.7 Cr; PAT Up 21.8% - hdfcsky.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmxFTVdvajcta2ZSQUV1WUxYaW1uY0gxQlF1dDRSZ3BEWHktYWZ5MHpXcUVhOGFjN3NBS3M2TFpUOFA3eTNGSVh2bFB1c2dfaTVRUzJ5UmMyVkowX1dMc0tQNWxiUlhPeWM3UHlnVFFiXzN2WlY0ekhZV2dDZFJIWnBtc2paaXlfUU5xSWVrcG5sZ1VTazhBVmpB?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
@@ -3422,7 +3422,7 @@
       "type": "dividend"
     },
     {
-      "title": "Dividend, bonus, stock-split news put these 7 shares in spotlight next week - business-standard.com",
+      "title": "Dividend, bonus, stock-split news put these 7 shares in spotlight next week - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQODlNRzR6d0Nkc3NyX1BoNzZpai1wcXlhZ0QzODZ4TXVvX011QTZxaWhneHdLVjhMZXR6R0ZuVFZDQW9nNk1EamZYbHhsaVVka28tR3VJNnFGWHNacFNZa1dJT0Z5Z3JNYW1GS2RzOENNR3VBcmpPTmttV2RJYjdBRnIyNU5TS2p5YnMtQmNPazd6dzRVZVJiNHdyRGtnZmJRbEYxTHNPdmRmTlVvMWZoY2d1R3d2NFR2LUpxZlpEcXluaXRMVm9UYVFUUmQ3alRQUnJmVXNPQdIB3AFBVV95cUxOUmRSeHVzVV90a0dYNUk1Tk5LMEZaTXpjR19WdmVqSDQ0bTV4bFl6ZElaYzNzd3ZUMGVPSklrMVBVOE42amV2a0o0ZUVVNWgwTHdUb21ad1RodWtGaS1xMGVaN3dZWkMtU2cwNXJlUXVZZk4xQWlRRTNud3c0am9uY3JkeDRsU0doQXdfTGhkM0dWWktMU09KREZNNG5wTkdQb19EbEd0a1pBUjY1dURrakVIS3JOTWlBdjJYa0Zpem15eFBLeExKTzJYaF9uNGhyejdsTWtzTHFTSUlN?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -3450,14 +3450,14 @@
       "type": "dividend"
     },
     {
-      "title": "Dividend Stocks: LIC, Hero MotoCorp, Union Bank, Zydus, others to trade ex-dividend this week; check full list - Mint",
+      "title": "Dividend Stocks: LIC, Hero MotoCorp, Union Bank, Zydus, others to trade ex-dividend this week; check full list - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdnViVnltNUVPTUpDQUZ5N0lyQnBFY3F3REJpbG11RGx3amFjUDZPNjlFRjlRbGM3UmF2eExackl6STVsOHZKamMzU09OSGFBSzhUOTVTeThHd1plZ0F5UE45ZHRFRnhiMXdxekkyWEhqM2VvSVdpaTZKb3FicjFlcjludG9EdWxlNEg0bEJ5UnVDZzNPLWFHdHNkUThERnVwdndhTGFYcGk4Rllsb3ZGMkRIRTdESXpuOVV3WGp4bmdSSWZrMk9seUJMYnNCNGowN19pekVMdWRTc0NtbmhKa0pmVVE1djh2S3BrbHpodjVSZGV1b0V6WmFPb3dkNVBYWFBrddIBigJBVV95cUxNOE93VkhLU2VOU3dKakZLLV9xa3NOSE5QNGZLRE1LNlRLX1FuXzZpM3J2ajRZUTFwenJia1Vfak5YUENhTmswdXljR293eTdzc1k1c3BTUDF1TkI2OV9xQUFJRXhnVFF6cDdEOHQ0eXlQU3JHUkRndFJFWWJEUEkyZG9FVGhDbEMtcFN1TG1IRHJodjFsVU4zdTlvTGlNbHMyLUFrRDktZ3otQm12aVdSZ3RIcmNpbEZjX2VVRVNWMksyWk9rck1LV3FQZEtpLUtLQjlUdlQ5YzVuT0ptb2NDQ0hVWThDbmw2SUM5ZWx1Z1dQTVhjV3J3R0Y2UDBrSUU4bGdzUk9yUTdxUQ?oc=5",
       "source": "Corp Actions",
       "ts": 0,
       "type": "dividend"
     },
     {
-      "title": "Upcoming Dividend Stocks 2026: List of Ex Record Date, Record Date, and Dividend Amount - cleartax.in",
+      "title": "Upcoming Dividend Stocks 2026: List of Ex Record Date, Record Date, and Dividend Amount - ClearTax",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLTGRqaDNIYmVZS0JYdC04aG1ZM2RIbURYNVh5N2p1R3hBeFVFSzFSYldIZXJwdVNEVno3VHR5UVNEdktOek1GSGR5dEF2YU9MaGNVdlVFMUp0WHl5ckZVRg?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -3478,7 +3478,7 @@
       "type": "dividend"
     },
     {
-      "title": "Dividend Stocks: Larsen & Toubro, Tata Motors, TCS, among others to trade ex-dividend next week; Full list - Mint",
+      "title": "Dividend Stocks: Larsen & Toubro, Tata Motors, TCS, among others to trade ex-dividend next week; Full list - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMGdUb0V3bmJlYk40N2pyZHBmWEtySVJSZ3p1N2xxZWU3V3JJLVp0azBuRTcxUDV2REtfRThlMGctR1JNSXp6LW1TclM3UHFkWjF6NkVVUHFPek02S1RJeEVmUG9BeWlwWUJrZkRjVXVCUlFZT3FKTDdZOFc1MGlzVWstX3l4NktqX3lfVERTUnp0VHJoTkMzOHI0Q19SN2NGa0lyRHl1Nm03NTFGSkdFZnhrUzBiUVN3SU1wUHpGbDZCSGpkblU3WC1Zc292QW1NWjBMNHN2bEIzRjNoZnZwNl96cldKV2pXZ2RkYUE5VmpjZ2wteUp2NlQ0d05QZ9IBgwJBVV95cUxPNFlDOXFUeGNuS0hYNHlob1RwTHRsNXdKME51c25HM0xIcUx5Uk1QSzJ2UUNPNVpGT1JjazVJTEJieEtMYTVxN0lLYTRraEJYNXAzTnl5Ni1SVzJOS0E2eGJGUGFEOE0wVVcwcGU0TEg1SWplSDA5bEF1cWx1N0tKdldTcUNNSGdILTVZdFozcmpBV216MEtDVXZSN216SG4zZ1JBV3ZIRkhsd1B6UDBDUzlQS3JSdXNsR215azNoRlp2WkNtcXBDdUtKWVBUcHZkS2ZicFQ4Q0pqUVNsT0FYcERIajZOMWRkaXpxTXM1b0FyUEdOekVWektpQjMwc0JLTjNV?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -3520,7 +3520,7 @@
       "type": "dividend"
     },
     {
-      "title": "Dividend, Bonus, Stock-split: KPI Green, 4 others to remain in focus - business-standard.com",
+      "title": "Dividend, Bonus, Stock-split: KPI Green, 4 others to remain in focus - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQi1aTVFNanNBb1pBOFM1eFJ4cGItVzA0RExzbFFqandtTzBkQ1pMaVNWVzBqakFEWksyUjdsUTM0TnhTbHRpbHBnMUlBc0NhM2NoNUQ1LXBOb0NHMV80S3JzQ1BXTXBxa3lBdWhCRWNPeHlxVGREdDQ0ZTFoSEE1ekZSLW9UZE1yYThuVEl3YmhMSkxLUG9UYXNwc2pabllGTnhHdUNzeVE5QjMzeDRvOWxVRTExRzRFRzJidzBDSEcxUElEM0ZLeGp6Z9IB0AFBVV95cUxNektRUUNsb0dweXVrb0hIMG9tYVpZNVJlU0VOMGJFT3o3aFNYV2ZDaDU5RWpma3A3QzNaZmFueU1lRHBSdmlFZjhZUDNSR1Z1aVBHdXRuN0JnV2QtLVVjaVprY1pJUnB0RU5zNjNYc3NYMjM4WElCNjdmZGJKMGVoWFBvTTBQWmc2NGVaY2ZRQnU3bS1OQW05RHVpQl8wdWNvcFkxQlhPMXBEUnhfMV9mTWVjV2hyMW1iRDlqaUxOamh1X0FUNHY2Qll0RjZYbUwy?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -3541,14 +3541,14 @@
       "type": "dividend"
     },
     {
-      "title": "Dividend, bonus: Indo US Bio-Tech, Wipro, 3 others to go ex-date tomorrow - business-standard.com",
+      "title": "Dividend, bonus: Indo US Bio-Tech, Wipro, 3 others to go ex-date tomorrow - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVjNRb19rdFdwSHlycmI1VGtIU21yb1ZYUnZPXzcycEQxQUVTTkZza3ZtWll6MnU1RGw3RjlfMGN3Q1RVdXZMNklpWEZJYzhpZ3NjLVgtOTUzaVZERHlJTGNHR0tKZHl5THA2T1ZVd0xIQkhwS3djVzdhRVU2Q2IxeXl6T25nTDY1WFZYbzcycDhCM1lIbWM1YlFyMXlRYnJwejdUMnJRZkQ1MUJOTVpPZ1gxSUNFZGhjbk1DV2xMeVZ3ZjluMFM0c2JfRkVwN0tZTUHSAdcBQVVfeXFMTktjVlloSnRrMkR3Qi1GNlBvb0hram1vejhUOTFxWGRsTFp5bGNSWmJPOGF0N0NBakludkx5Yy10UmFOOTh4d3FjRG5QZ3JyRFljWnlrQ2xSa1dhQWJWZGNPZFUxTkhJTHlGSTZFMlJyRHRZX2lCc1JQVlQ3LVhDZjNCR0xhUDMzVElfVjZRUG1aSW1IdXU3S0FOcHM0RGFYTFV4SEhBdk4yNXVRZGYzUkUwWm5GTXJPQW5Ec0tncFBpaVJiNFBwd0JqMVZPZjJkM2VlT0dwQUk?oc=5",
       "source": "Corp Actions",
       "ts": 0,
       "type": "dividend"
     },
     {
-      "title": "Dividend, Bonus: Vedanta, Mazagon Dock, 4 others to trade ex-date next week - business-standard.com",
+      "title": "Dividend, Bonus: Vedanta, Mazagon Dock, 4 others to trade ex-date next week - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2ZaeDBfcDJ0RzhBcURtbGU5TWU0ZlM0ZXdjSk9CV3BnUzRpQzRDS1BrTDZQYVBPT2RBaHJEMjNacVVrQk1QOFdHZ0t1eTQ1N3hfbF9rQXUtU2cweWdjRVN0Q3pxRi14NkY5c1B4Vmo0S2hEaXQxTk9MMkVIajdFYlNwNjZCRnR1VkpVYzVFQm5Kd21zUVNRakRqVXh6X0QyMHJSc3R0c0VNWERmc0phZF9VUDd4cFp2N1hCU1RPVGJ6T3FqRF9nQkRtR28weUNxWHpZWNIB2gFBVV95cUxNMWlGM19vQV9RNlNwalBBSDUtMTJfZjVLYXNBOFNHMjdYd1dDSlpWcDZsRHJ3Z0g2RzNQUmgyUF9YV1VaQThxVFFvQUpLS19sMkx6VmRDY2Q1SGs1TTNaaEtsdVJhYnZnLTRXTFQ0eU9vajE4aW16YlN0Vmt1NlFNLWY0YnhMWU9KeGVkTUNRT0ZoLVppRjJ5alZGcTZ5RXNnMnV5U0VRUWNaaFNpcGZCWXBIV3N2WlY1MEhIWlEzUEhxdi1TSUtJR190RXV2M3pHZk9uUXp6OGVNZw?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -3632,6 +3632,13 @@
       "type": "board"
     },
     {
+      "title": "Hemisphere Prop Share Price Today, Hemisphere Prop Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNndZVmMxVWNyZ3dLS3BybEdFbEp2Z1ZjZFpEem1WSWFRMVVIeWpRMmlfZzl1TTdUVkRkUXdtRmNNNU55QWF3aTVuUFNlSXd3TlV6ZGNNZVpJR19hWkM0c2hXbjZidWhjcTRReXNadTh1eG9kX3Qwd0kxd1YxVW43emF6NFBuYmoyYVdVdXVrTQ?oc=5",
+      "source": "Board Meetings",
+      "ts": 0,
+      "type": "board"
+    },
+    {
       "title": "Arkade Developers Share Price Today, Arkade Developers Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDMwWERhVGlsMFZFTXprcGwxOGdEOFhDVDNhYnB1bWVOMGlaQzJHRy1pQ1d0eHBiQWRDblFvUzlFZnhsU3djeFR4MG85WXc5cmptTnNxWXVWSmQ3ZUhsSkZRM3ZxaWd4SVNhb1VOSDFhcDFwLXpsRU4tRUR3ZVZsTkxoYWQ?oc=5",
       "source": "Board Meetings",
@@ -3646,20 +3653,6 @@
       "type": "board"
     },
     {
-      "title": "Infibeam Avenues Share Price Today, Infibeam Avenues Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEI2QTRYcTR5cC1BYXM3U2FsVHQzTGdwMDVrMWoyQzdGRjUyakhJaS1icjU3NDVhTjZtWGdHR2ZURnpLSk5MMmY5ckJYTy1YQ2pPWEN6a3ctNWplaHRHWWxTN25WNkppVzM4NUJnZWN4R0JFTGJtUVlhM2d5WlJ0Sm1udw?oc=5",
-      "source": "Board Meetings",
-      "ts": 0,
-      "type": "board"
-    },
-    {
-      "title": "Hemisphere Prop Share Price Today, Hemisphere Prop Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNndZVmMxVWNyZ3dLS3BybEdFbEp2Z1ZjZFpEem1WSWFRMVVIeWpRMmlfZzl1TTdUVkRkUXdtRmNNNU55QWF3aTVuUFNlSXd3TlV6ZGNNZVpJR19hWkM0c2hXbjZidWhjcTRReXNadTh1eG9kX3Qwd0kxd1YxVW43emF6NFBuYmoyYVdVdXVrTQ?oc=5",
-      "source": "Board Meetings",
-      "ts": 0,
-      "type": "board"
-    },
-    {
       "title": "Sigachi Industries Share Price Today, Sigachi Industries Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUkxFRElRUzBwXzJxaVBsano1STJtTzhmS0VIRm1WTjZObDVMLVBXMmdCbmxxMGw3YkN1TzN4X1AwTlB6bkNRSkxrVU1wZVBvUEZmOG9DNDNzN01MMEJfeTdQMzdzTko2OUNtVzR3bG4zMm9ZcWptd3ZNejJwTXBNNDBlODhJUQ?oc=5",
       "source": "Board Meetings",
@@ -3667,8 +3660,8 @@
       "type": "board"
     },
     {
-      "title": "Sequent Scientific Share Price Today, Sequent Scientific Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ254bUpMRmdOdDZMbko1MUc5ZFMwTjd0eE9xRm9PZTZGemViUG42ZktPMjFDVFZNYndrMWoxMXREWmY4ZFhLX2RmWm1IWEJiM0tnNFFkT014UmtBMFQydzBBSGdBT0tMbzkwY2VzN3R2UjNnUmlhUkdjT2gzVmRCcTBJbC0yZThlM2E5SA?oc=5",
+      "title": "Usha Financial Serv Share Price Today, Usha Financial Serv Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDhHVjVlaFljYkFrVFNULVpfallpT3JYNi1lWm5JQUVYeUNqUDlrMnFrMDhTMWxtNjdQdEx5cDU1TUhUTmZtb09FVm5hb2trUlNkLWNYd2hGeDJ4emVKUWtYUmdwc2M1aDhUWlBNdW5mb2gyZ0VXT29rYjV0MTZDR0NFejhqNjJYX2ozTWM3eU5icUI5VmlObg?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
@@ -3681,8 +3674,8 @@
       "type": "board"
     },
     {
-      "title": "Usha Financial Serv Share Price Today, Usha Financial Serv Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDhHVjVlaFljYkFrVFNULVpfallpT3JYNi1lWm5JQUVYeUNqUDlrMnFrMDhTMWxtNjdQdEx5cDU1TUhUTmZtb09FVm5hb2trUlNkLWNYd2hGeDJ4emVKUWtYUmdwc2M1aDhUWlBNdW5mb2gyZ0VXT29rYjV0MTZDR0NFejhqNjJYX2ozTWM3eU5icUI5VmlObg?oc=5",
+      "title": "Sequent Scientific Share Price Today, Sequent Scientific Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ254bUpMRmdOdDZMbko1MUc5ZFMwTjd0eE9xRm9PZTZGemViUG42ZktPMjFDVFZNYndrMWoxMXREWmY4ZFhLX2RmWm1IWEJiM0tnNFFkT014UmtBMFQydzBBSGdBT0tMbzkwY2VzN3R2UjNnUmlhUkdjT2gzVmRCcTBJbC0yZThlM2E5SA?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
@@ -3702,13 +3695,6 @@
       "type": "board"
     },
     {
-      "title": "Kross L Share Price Today, Kross L Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1SFdEX0F0ZWZDQlRvYVJmMWEtOEtIelJYbExmS25hWHZ0RU9aaEY0cmV5UGc3bFdjRXdRa0ROaUc4dmtCSkNrU1hOWl91Qkc3a1Z4SkNmNnE1dDBabVp3Tk80Rkx0azJIWmU5TnE5dG9tUkE0MkhFMGF1dHRRQQ?oc=5",
-      "source": "Board Meetings",
-      "ts": 0,
-      "type": "board"
-    },
-    {
       "title": "IKIO Lighting Share Price Today, IKIO Lighting Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZUpsd0JZT01Ld3MtNk1NY3lwQ3Z1Z1h6T3NrZkZoaS1LcHZVMGZUUDh1OWJxXy1IMXAyUXM2dmV1T2dUVDR0dzZaekIxbnRSRUJTTWQxSWk1LW5FMjBOUHVHX0gxU0pyTjRqeF94d1prWlBBTnBYWmFYS0xsTDkyVHJwZmZnZjlrVWprcjRXYmo?oc=5",
       "source": "Board Meetings",
@@ -3716,15 +3702,8 @@
       "type": "board"
     },
     {
-      "title": "Adani Wilmar Share Price Today, Adani Wilmar Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjN2RDhRaUNMTE9VNU90Mlg3WE1XNVBtb2FHRUllSW43aWV5ZF81cUsyX0FGMlNpcmt6M2pCcHVoUGZqSlc0VjZDYkRra0Mxc3V3bng4OTh5QlVwamJ2SmNhSnczbzc0ajdKOGJMWktZYnBGV3JhUkFmWVhzdmFfQUtERWk4UEI0WDJWcEZB?oc=5",
-      "source": "Board Meetings",
-      "ts": 0,
-      "type": "board"
-    },
-    {
-      "title": "Garuda Construction Share Price Today, Garuda Construction Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmduOTFBRFJTNkQzMUV6YnF6Zk5yRFp0NjhlUExGM0RpaDNHaEowcGdNUHptYU8tWjFlMVdHMFM4QzhoTm5Db21rdVVUNkNMV1RRTW1GTzE1cFhRQjhDUUFYdzJISld0NVhrUWZYZ1E1ajRqbXM4dUdsOUZPNHR2WGRjQUdxeGlOSUNCelhsY0R4LVZDY04wNVRGWU9UTmNIM3A1UVY5R2M?oc=5",
+      "title": "Kross L Share Price Today, Kross L Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1SFdEX0F0ZWZDQlRvYVJmMWEtOEtIelJYbExmS25hWHZ0RU9aaEY0cmV5UGc3bFdjRXdRa0ROaUc4dmtCSkNrU1hOWl91Qkc3a1Z4SkNmNnE1dDBabVp3Tk80Rkx0azJIWmU5TnE5dG9tUkE0MkhFMGF1dHRRQQ?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
@@ -3737,8 +3716,8 @@
       "type": "board"
     },
     {
-      "title": "India Steel Work Share Price Today, India Steel Work Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnlvVk1wbk4wZU0zZlIyQ29WaC1wR016T3lfT0R4OTZsbVhWck1XZnlWZkpkc0pPOTRmRkJLZnZIY1VmeUZQOEpIT0ZnUDlrbU1PM1hYSEhod1RsVHFxcTJXNHZqQ3VBZ01aRmVCMUQ3NXlwbi1feWFEUnpSYXdhLVFHSzlCQQ?oc=5",
+      "title": "Garuda Construction Share Price Today, Garuda Construction Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmduOTFBRFJTNkQzMUV6YnF6Zk5yRFp0NjhlUExGM0RpaDNHaEowcGdNUHptYU8tWjFlMVdHMFM4QzhoTm5Db21rdVVUNkNMV1RRTW1GTzE1cFhRQjhDUUFYdzJISld0NVhrUWZYZ1E1ajRqbXM4dUdsOUZPNHR2WGRjQUdxeGlOSUNCelhsY0R4LVZDY04wNVRGWU9UTmNIM3A1UVY5R2M?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
@@ -3751,8 +3730,15 @@
       "type": "board"
     },
     {
-      "title": "Macrotech Developers Share Price Today, Macrotech Developers Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZG1Za0cxYkFXd1Foa2xmckxiaDNZcTNNUWdFbnBGN1VlM09rZ25WWFdwcGFZSUQ5aXFaWElQaklXZmFvVjUxa3VFNTBBNGw4QmJDSGp1cm5TNXlMdWx1c0Y2MnBGRGFqdzMzaUs4dy1EaENsRzVQa2o3bllNdnQ3U2Q5akNNc1d0RlRfQQ?oc=5",
+      "title": "Ion Exchange Share Price Today, Ion Exchange Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZERWRFZrejhkZnFTWUtDVW5JdEVrYXFYM0F2cjlQdTRvWmxqT2NmNmFJVndVdXRIWWEzTjAxWmNmUFluVXRIRW5VM0MwZ2tKNjJ4QXhtd1dpc1JUdHczY3ZZRjVwNkNDXzQ3bXN5SVd4Qlo0eHczSm81TDFQNUtpWmM5VQ?oc=5",
+      "source": "Board Meetings",
+      "ts": 0,
+      "type": "board"
+    },
+    {
+      "title": "India Steel Work Share Price Today, India Steel Work Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnlvVk1wbk4wZU0zZlIyQ29WaC1wR016T3lfT0R4OTZsbVhWck1XZnlWZkpkc0pPOTRmRkJLZnZIY1VmeUZQOEpIT0ZnUDlrbU1PM1hYSEhod1RsVHFxcTJXNHZqQ3VBZ01aRmVCMUQ3NXlwbi1feWFEUnpSYXdhLVFHSzlCQQ?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
@@ -3765,36 +3751,15 @@
       "type": "board"
     },
     {
-      "title": "ETT Ltd Share Price Today, ETT Ltd Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWFselJUVVd5WjR3OVFvRkgxYXllNFI2QWtIa1JpQ1BsRktzRDBnRlg0VlUyTHRzMzRIak5lSzhXWG5NMmRmOWdxYlB2dnlNUXV2ZGpQLUF5Rkt4TTVtenFJVWt6T25ZdFdaU1Zqc0VKT0UxZHB3XzNIOWZ0eUJTQ3RGck9iU3lvb0psQ1lGWDUtMVpZM1hKbVlTUQ?oc=5",
+      "title": "Adani Wilmar Share Price Today, Adani Wilmar Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjN2RDhRaUNMTE9VNU90Mlg3WE1XNVBtb2FHRUllSW43aWV5ZF81cUsyX0FGMlNpcmt6M2pCcHVoUGZqSlc0VjZDYkRra0Mxc3V3bng4OTh5QlVwamJ2SmNhSnczbzc0ajdKOGJMWktZYnBGV3JhUkFmWVhzdmFfQUtERWk4UEI0WDJWcEZB?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
     },
     {
-      "title": "Good Value Irrigation Share Price Today, Good Value Irrigation Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1g1ek1OZHh2N0QwNFk2WlM1YW5wb0x2Rl9MZUdUVWRuZk1xeUw2aFVraFd5UzNoWjc5V0gwenNJa1NpZDVKZFNULTh1SFBZamZvQ2xULUJHRWoydVZhNkJTRGNaTEZSMEpXd1RDbWRENXhKQk5hb3VzZ0dBYzVHc0hkUzZfWTI0LVVuaElR?oc=5",
-      "source": "Board Meetings",
-      "ts": 0,
-      "type": "board"
-    },
-    {
-      "title": "Ion Exchange Share Price Today, Ion Exchange Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZERWRFZrejhkZnFTWUtDVW5JdEVrYXFYM0F2cjlQdTRvWmxqT2NmNmFJVndVdXRIWWEzTjAxWmNmUFluVXRIRW5VM0MwZ2tKNjJ4QXhtd1dpc1JUdHczY3ZZRjVwNkNDXzQ3bXN5SVd4Qlo0eHczSm81TDFQNUtpWmM5VQ?oc=5",
-      "source": "Board Meetings",
-      "ts": 0,
-      "type": "board"
-    },
-    {
-      "title": "Bio Green Paper Share Price Today, Bio Green Paper Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEtRWlU2Q2FQZXJHMFJkSnhJU09zZnFxbnc2aVo5R2g0dTNEX2xMT3laRGpjRmpjUkNOUHEzck9ObDRsLWh0WGp0Rk1NOHl0NWJZTmdGTTlub0xFeDVjTUNab0p5TGxNQlpiSFR3bk92eGZxbHByc1lYUWVnbGxSNWNob2pSRkxnOXpZZg?oc=5",
-      "source": "Board Meetings",
-      "ts": 0,
-      "type": "board"
-    },
-    {
-      "title": "Reliance Naval & Engg Share Price Today, Reliance Naval & Engg Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc2hrekdwLWZieWUzNXZXZlRkbWExc1V4dDdWNTB5cW9PcjRERElzNDVGUXlRNmh2NlZNaU5mNjdSMGJiM2NEN3lZcnk5akctU3ZGaVNqUFREZFNmclBneEhPWEsxX29FakxBYm9uWWxjdnEwbVM4OS1pRVhyVVpBVUp1QjM4d1ZGUXZYYl9qQUUzUzhrZHF3a25aMHhubGlwU3dF?oc=5",
+      "title": "Macrotech Developers Share Price Today, Macrotech Developers Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZG1Za0cxYkFXd1Foa2xmckxiaDNZcTNNUWdFbnBGN1VlM09rZ25WWFdwcGFZSUQ5aXFaWElQaklXZmFvVjUxa3VFNTBBNGw4QmJDSGp1cm5TNXlMdWx1c0Y2MnBGRGFqdzMzaUs4dy1EaENsRzVQa2o3bllNdnQ3U2Q5akNNc1d0RlRfQQ?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
@@ -3821,6 +3786,13 @@
       "type": "board"
     },
     {
+      "title": "Good Value Irrigation Share Price Today, Good Value Irrigation Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1g1ek1OZHh2N0QwNFk2WlM1YW5wb0x2Rl9MZUdUVWRuZk1xeUw2aFVraFd5UzNoWjc5V0gwenNJa1NpZDVKZFNULTh1SFBZamZvQ2xULUJHRWoydVZhNkJTRGNaTEZSMEpXd1RDbWRENXhKQk5hb3VzZ0dBYzVHc0hkUzZfWTI0LVVuaElR?oc=5",
+      "source": "Board Meetings",
+      "ts": 0,
+      "type": "board"
+    },
+    {
       "title": "Vipul Ltd Share Price Today, Vipul Ltd Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jUmRRWFk1cHlna2FiOVFRSGM5WUJGc3JwTUVYa19Na0p6MWZZeW5TUm4xS1U5VmM4Wi1OS0dHYjAyUFNUdUJablhmR291U3VyRnpMMHZUR0o4V1AxM1JPcktXbXJobFk2ZmdwZEpucDQ?oc=5",
       "source": "Board Meetings",
@@ -3835,8 +3807,29 @@
       "type": "board"
     },
     {
+      "title": "Reliance Naval & Engg Share Price Today, Reliance Naval & Engg Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc2hrekdwLWZieWUzNXZXZlRkbWExc1V4dDdWNTB5cW9PcjRERElzNDVGUXlRNmh2NlZNaU5mNjdSMGJiM2NEN3lZcnk5akctU3ZGaVNqUFREZFNmclBneEhPWEsxX29FakxBYm9uWWxjdnEwbVM4OS1pRVhyVVpBVUp1QjM4d1ZGUXZYYl9qQUUzUzhrZHF3a25aMHhubGlwU3dF?oc=5",
+      "source": "Board Meetings",
+      "ts": 0,
+      "type": "board"
+    },
+    {
+      "title": "Medicamen Bio Share Price Today, Medicamen Bio Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2VRdEZGNi14Smwwb2FuSnd5dU9Udno1eWhvcFVPdjZydGh6MWQ4MzhZUXpMTWlYb0x4N0gxTC1xOG5pbEFydWZWMG9HNERTcVZKaEFyeVJpNmVTaTVQRktMRTBWelRwNjg1QzBGN0ozUkthTUV2NUt2YnVEVjNMNg?oc=5",
+      "source": "Board Meetings",
+      "ts": 0,
+      "type": "board"
+    },
+    {
       "title": "VIP Ind. Share Price Today, VIP Ind. Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91X0RkZWpxZ2Rid2JfODI1T0M3MTNtb3IwVkJWYlMxNXNTanF4UnJvd3BvNlkwaUJKU1B4NnpJRWY1cUJRWG1ZT0FTSTNERG5VZk5VWnNQaE1HRWpVWjBVdVJSc201bjdUNVdSWVlZOVJ5ejRxdklSYVN2ZlItdw?oc=5",
+      "source": "Board Meetings",
+      "ts": 0,
+      "type": "board"
+    },
+    {
+      "title": "Navkar Corp Share Price Today, Navkar Corp Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSk9UWGhWcTNZVUJ1eDJWbm4xOG1RY1Qxa0Z6cnVVWFpnMUJUcG5lcHNTdTFMLUZ2RHByZ2QwNFV1TC1XT3c3bVVfWjdycG42dGZKZE1qeXpRN185ZWlYUDRnTG9qMFlHU0RCM1F3dVJxaWZIMEJHZ0ZlWVRaVTZ6eTdQQQ?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
@@ -3856,8 +3849,8 @@
       "type": "board"
     },
     {
-      "title": "PowerGrid Infa InvIT Share Price Today, PowerGrid Infa InvIT Stock Price Live NSE/BSE Updates - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZktWeVl2bzd0cS1JUm1JV2lSZU5aQUpJNkxLVEV0WjdUYXBibmdWX19BOTV2MHRKek4wMmRPUTRXaGJoenhpRE1OMTVOUm5scE5vM3ZGRU9tRXU3ZEx1Q3dZemQyN0xSN0JjbDR1SjhOTTBFNHVWSVN5aEkxeGh6N01STkt3X0MtMmRrZzZmUTlWejZrSmhRcF9KanNCaXZqbTVYRjh0TnY5dEtBYXhpcTB4RllzWGt4aGxXdXBzbThwWHc?oc=5",
+      "title": "Novopan Industries Ltd. Share Price Today, Novopan Industries Ltd. Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3pUNEVZNFpNSXZ5VXM5UUI3LVY2eVBDV1ZBNUxSenVyM3FyWUthWktOQnI2dGl3RWpWZzc5eXZmc3B2emtHaE1LRk1ZamZpdDJMQms3SE44MUk2ZHZ5TUF0eE14WDc3QlBibGlWOGhGTWZuU1RXaGgteF9lZGU1eGdOdGs3Q2dMY3ZwRE81dw?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
@@ -3865,6 +3858,13 @@
     {
       "title": "Bajaj Housing Finance shares settle 7% lower after promoter Bajaj Finance sells 2% stake; check details - Upstox",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGZXWlZ5NTZBLXg1cUoxOTZ3TlVMWk1sdVl6dFh0Qkh2OHJhM0RtTE1aTXhZcmtGX3lJWGRXN2xKbXZvZ1R1YjU1MUE1SnRQdnNJaTYwQ3c4YnEteWxNeHNicUFpU1Y2U2JKVjFvNG9iMDRKZS1MSDhxRGtqYzhuV0dVTm1PWEVvUnl3c0g3Y3dXMDRmT2lIT2tkVC1LSnEtMTFNampKVTJpa2JQLU9ORlllVEY5SnI3QW1jOXVtOUN1N3Myd1dwWDJ3NTdlTjdq?oc=5",
+      "source": "Bulk/Block Deals",
+      "ts": 0,
+      "type": "insider"
+    },
+    {
+      "title": "Samayat Services Sells 13.96% Vishal Mega Mart Stake Worth ₹65.25 Crore Shares - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFZhMFN4Sm1MOUVQNW1wczEyVFA5WC1BbHpqWmQ4eFNNMDQ1eWZQYl9TWjZmbnZqczV0UFJvMWk5STFSeXAyLXlGRzBMMW00bThuMW41MnBpSGdQeVZVVEFuVmFNcER2OE5PY2J0OGpITVlhcUtkNEhZX0lUX2djcW92aXBnb1RNdExmUUJKb3Q5OEtiVWZFYkJiNkdxMnBrRmwwUkdySWNnemd2M2duRzBic3VtT2FaaVBLZVdXRkM5MDQ?oc=5",
       "source": "Bulk/Block Deals",
       "ts": 0,
       "type": "insider"
