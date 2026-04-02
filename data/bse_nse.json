@@ -1,16 +1,16 @@
 {
-  "updated": "2026-04-02T09:40:32.970984+00:00",
+  "updated": "2026-04-02T09:41:48.405801+00:00",
   "bse_count": 312,
   "news_count": 150,
   "log": [
     "BSE NEWS_DT='2026-04-02T15:09:54.587' keys=['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
     "BSE p1: 50 rows, 50 new, 50 with ts",
-    "BSE p2: 50 rows, 50 new, 50 with ts",
+    "BSE p2: 50 rows, 49 new, 50 with ts",
     "BSE p3: 50 rows, 50 new, 50 with ts",
     "BSE p4: 50 rows, 50 new, 50 with ts",
     "BSE p5: 50 rows, 50 new, 50 with ts",
     "BSE p6: 50 rows, 50 new, 50 with ts",
-    "BSE p7: 12 rows, 12 new, 12 with ts",
+    "BSE p7: 13 rows, 13 new, 13 with ts",
     "BSE p8: empty — stopping pagination",
     "BSE announcements total added: 312",
     "BSE actions: 23 fetched, 0 added",
@@ -26,7 +26,7 @@
     "Bulk/Block Deals: 27 in feed, 27 tried, 27 new",
     "Trading Window: 71 in feed, 50 tried, 47 new",
     "Share Allotment: 55 in feed, 50 tried, 49 new",
-    "M&A: 46 in feed, 46 tried, 46 new",
+    "M&A: 48 in feed, 48 tried, 48 new",
     "Ratings: 40 in feed, 40 tried, 40 new",
     "Orders Won: 68 in feed, 50 tried, 49 new"
   ],
