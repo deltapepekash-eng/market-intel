@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T05:15:23.035139+00:00",
+  "updated": "2026-04-04T05:16:49.063901+00:00",
   "bse_count": 20,
   "news_count": 150,
   "log": [
@@ -14,12 +14,12 @@
     "NSE: no data returned",
     "Moneycontrol Corp: 403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/corporateannouncements.xml",
     "Exchange News: 63 in feed, 50 tried, 50 new",
-    "BSE/NSE Results: 44 in feed, 44 tried, 40 new",
+    "BSE/NSE Results: 43 in feed, 43 tried, 40 new",
     "Corp Actions: 38 in feed, 38 tried, 37 new",
     "Board Meetings: 37 in feed, 37 tried, 37 new",
     "Bulk/Block Deals: 29 in feed, 29 tried, 29 new",
-    "Trading Window: 67 in feed, 50 tried, 48 new",
-    "Share Allotment: 47 in feed, 47 tried, 46 new",
+    "Trading Window: 55 in feed, 50 tried, 48 new",
+    "Share Allotment: 47 in feed, 47 tried, 47 new",
     "M&A: 40 in feed, 40 tried, 40 new",
     "Ratings: 37 in feed, 37 tried, 37 new",
     "Orders Won: 66 in feed, 50 tried, 49 new"
@@ -168,7 +168,7 @@
   ],
   "news_items": [
     {
-      "title": "Hindustan Unilever Announces Board Meet Date To Declare Dividend, Q4 Result FY26: Check Full Details Here - Republic World",
+      "title": "Hindustan Unilever Announces Board Meet Date To Declare Dividend, Q4 Result FY26: Check Full Details Here - republicworld.com",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc21wOTdZdzlFc2hoZF9vNVM3RWtOZVRIR1FEcjN2NEVwTU9ldlVxS2c4eUNJbE11NS1fNGhsSk9jMGh5bG44SEU2Vk41c0d2UFZiNm9TdmdUVHBxX0tYZllURjhqRmptNnAwZmdZQ3FST3RHUWc0NG82aWNxNHJ1dXZwSmxmbGpyOWwyTE1ndnJIMEplSmMzM2thazZzbnRJWURBQVR6bWlTU0FRb2lUUkNDN3ZKTTVvaEZOSnMwYjdrZ3ZiRVhrUmJ4RktrY2tKSUVxeXlDbW02Z9IB3wFBVV95cUxPU2t2WnR0dDQ5MlAyQzJ0Y0xVaDdMUG9VZ0tKbHJfMEJuSF9mMFZnMkl6MkVtY25sVmFBdEJ4enpJQ1JYR24yUVA5aFIzOWFzRlUyYmJpOVlRZzNLeDJ5SV8yeEdjclJEdWJPMUszR216c0YzTFRVN0F1eVI0Q0ZTeGZ1UV9tOEE1UU1yanpTNWZnNDZGLVh6VG9uNlFQRGd4LXRURGRPdm0tUnlOUzF1bzVqaGFWS0RleHlPWWY3aXB6TWZEWXdraF9KTHdIMzRtckt5d0lUTlJZQ2VsTDRB?oc=5",
       "source": "Exchange News",
       "ts": 0,
@@ -525,6 +525,13 @@
       "type": "results"
     },
     {
+      "title": "Q1 Results FY 2026 Calendar for Monday, July 28: Adani Green, BEL, UPL, IndusInd Bank, GAIL, RailTel among 92 BSE, NSE companies - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcFhEWTM5VFl6WnFsTl90am5rM0I2OUxqRWtGZGhWdFlSRXhUQURRRG5ybWtQUVBjN0JLRmlXV1FGVmFKcHdxc01WLTNuVloyZUJ4dFh4TFEtaDM0SHh1d0ZVVzQ1SEFweXp0dm82OU1taWVYWnQwMzlOdWVka3JpYTVkaWpPVkVTTlBRMF8xOThCTmJBS0ttTTE3ODEwMi1JUG9EZHhnekZDS016bEJXcjJOR2ZhODlKUENFNjBBc293dzFaaV96VWVHbG9WVkJyanpXZTRkbHlGbEF5c2V3NERfTTRqeTRfbmxVTVdsY01IUF8wUzV5VUp3Q21zbDVVU1HSAYcCQVVfeXFMUHhtSjdEek9qVkJzWEZISDdFc0FXZURReGpjUVJiSmJXQmRWMmxEeEdPY3RxY3FXVVlqNFd1dVRvZ3pZSEZYUUt4eG5XSjgwa2oybTZFV2E1QnVRbFVfRWVrUWg4M3ZZNnp3c0tPR2N4MkIwRGdNeGlZdGlucTN6VFFtZzFITzUzSkxScG9oYVNpOEwtYnlhSlI5WkNxSlBNdDhNMzQzLTV4QklfV00zZGhyME45MVlVaHRvWkROZmtFeVU2bW5mUGNRbHM2aTBQNS1sLTh1TUl2bGJ6RGNSMGFhZ3VyODhtZnM5VGpCbnkyckZ3S2YwNy02NVlvZTREeFdtbkZYYjg?oc=5",
+      "source": "BSE/NSE Results",
+      "ts": 0,
+      "type": "results"
+    },
+    {
       "title": "Netweb Technologies India Limited Uploads Q3 FY2026 Earnings Call Recording - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3V5YXd1UU9HLXV0ejZZMlQwRWYwbDFlX3llOGhaZ19aQ0dKdEo3am9Lb1RhNVVMbWdzRmdqSlBlc19lazlSQmdmb25CTGJYbkZWXzVzb3ltVGxaTUhJZEhiWm9EUjgtTk9aRGM4cVVxdXN3cjdqWVo1Z0hMa1lLWUkzTEh1V1l6akNaa1JDdng3RlZjTGhwWm45cUV2b1FoSjlSdTc4N0pjTUdvVHItOFhUSnJocEVIaFdrWmZaX1hGRUZoZFItRzc5MA?oc=5",
       "source": "BSE/NSE Results",
@@ -532,8 +539,8 @@
       "type": "results"
     },
     {
-      "title": "Q1 Results FY 2026 Calendar for Monday, July 28: Adani Green, BEL, UPL, IndusInd Bank, GAIL, RailTel among 92 BSE, NSE companies - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcFhEWTM5VFl6WnFsTl90am5rM0I2OUxqRWtGZGhWdFlSRXhUQURRRG5ybWtQUVBjN0JLRmlXV1FGVmFKcHdxc01WLTNuVloyZUJ4dFh4TFEtaDM0SHh1d0ZVVzQ1SEFweXp0dm82OU1taWVYWnQwMzlOdWVka3JpYTVkaWpPVkVTTlBRMF8xOThCTmJBS0ttTTE3ODEwMi1JUG9EZHhnekZDS016bEJXcjJOR2ZhODlKUENFNjBBc293dzFaaV96VWVHbG9WVkJyanpXZTRkbHlGbEF5c2V3NERfTTRqeTRfbmxVTVdsY01IUF8wUzV5VUp3Q21zbDVVU1HSAYcCQVVfeXFMUHhtSjdEek9qVkJzWEZISDdFc0FXZURReGpjUVJiSmJXQmRWMmxEeEdPY3RxY3FXVVlqNFd1dVRvZ3pZSEZYUUt4eG5XSjgwa2oybTZFV2E1QnVRbFVfRWVrUWg4M3ZZNnp3c0tPR2N4MkIwRGdNeGlZdGlucTN6VFFtZzFITzUzSkxScG9oYVNpOEwtYnlhSlI5WkNxSlBNdDhNMzQzLTV4QklfV00zZGhyME45MVlVaHRvWkROZmtFeVU2bW5mUGNRbHM2aTBQNS1sLTh1TUl2bGJ6RGNSMGFhZ3VyODhtZnM5VGpCbnkyckZ3S2YwNy02NVlvZTREeFdtbkZYYjg?oc=5",
+      "title": "ONGC Q1 Results FY 2026 date and time: Oil PSU to declare quarterly earnings this week - Board meeting schedule - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOUXlUUTNucjdJRmpNbzJncUpaYjVtTzhtVkxhV3pyTGR0bWVINzF6NnZZd3U3cDM2QUVzRVVNQUJ4UlRtaHlpaU5aemVhbXRSa0RPNHBYTUlQa2Zoa0puenkwODFKUy1BMllWZDdqU01oVDVyVE92b3lrNFptSEYwNmc2M1BFc1RmZWZsaFpBSmdZd285ZFY3UHAxZ0I0RWJRV2VLWEJTZzJhU0F2YTA3bkI0ZE5VdEF6eXA2aEZUU0JOMGRMTlhNREdLR1dUcjdLbGdRUDdpRElvdWlYN3JWNFdweFZhb2hwaDQwcXhLM01WbFBMU0NpNzdWaEkwcTdfREtMRmg0T2tyWEFpa1BMbm5OZ3hWbnNBb1BEeG5wRXBvUkotaFlxY0Z4eTBRTUt5cUs1My1pM2NVZDN6aHNEUTdTWlJZSV9adjFQRklfWTBjV2p5UTdDVFJfbG8zUFloMktRZkZYbWVaU3ZZR0dBMlk5Y3BraWVtaC14SEhjV3hscFE3eUt2b2tlV3JxUDhYc2JpQzhRajRQbk1hUmlmR1NDS3AtUDdZajdF?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
@@ -588,15 +595,15 @@
       "type": "results"
     },
     {
-      "title": "HCL Tech Q3 Results FY 2026 date and time: 4th interim dividend announcement in quarterly earnings – Board meeting schedule - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTVJzZktXeEtXeVM2M052SWtrLXg4TlRJbVg1VXRDbzdOWHl5cUZRaDI2VC1OdXVhcDlNdXh5REtvWU0tZjJDQWxfbml2aDdZMzBCdGU0S3loTFB0S2VxakU5NHlyTkEwUkFzSmZNYldJamJMVDF4TkJpZ1o3UmswQ1Q4bklvLU5PTHV6cXgwMm1VeDlwWU0zaERweGdpV1VSVjZrQi05RjlyVUtHLUhWbHpISnpjU1VGSUNkZmpoWmRqQ0x1bEZIUjlkaVRpRnFUb29GcV9SYldDVkNVLVZ5a29uZjFVN1FuZnZKalB5UVJqNUhjUzlIeUZ0eFFzYWp2ekHSAYcCQVVfeXFMTkZVSldIOC1VUGlPRGU0aEEycW05c0FQNVhfTXpaNzRrLWt2UTMyR29MVmtsUnV4SmlYeDZFNG10RF9Ic0hHWjV1UEI3eURHZ2ItTVBXa21GU1hWUkFuVVI5Q1VLS1dBSGgydXdNRTVmRlZUWDMtNC12MnVUejVNbDdmeWpiQkJEbnVYbHZtRnpmMDJYb0ZHckJWMmYycUtaT0hDRVpOdGtWcVA3Rks0OFpLUGhJSDlHWFhobHJ6bXQ5dDJSTU9BXzNTV3A0MlFzYWY3eGVKZE5vX2dMLVpoOHlPRWlPdHhISjdnWlVBYjNPR18tOGVqUEhSSElYZlNsY1owcDlBazQ?oc=5",
+      "title": "Groww Q2 Results FY 2026 Date: Billionbrains Garage’s first quarterly earnings announcement after IPO listing – Board meeting schedule - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNXBWZUdmbkZNQV9vOHBacVoyTkFzUWl6STVhVjRpUlNIZzl0bVpDOG5ad1VzSTdPWmNqMHo3UFUyZGR2R3lvNlJpX1VQVllPTHRWQjREaUdYWFdCcEk0Vjg1dXBHRGlSVUVoQXJWR21VZG5NVkJzVTRhNmt2LWtkWFVSZVpxV0ZFdTlIemlyeXVqYUlWWkw1R1BNTGNZTGtlc0hlUmF3eVIzTjJZT0tpQm9mZlpKbUdzUUxGTzNIQmJxaHFhdUdpbVF4NVoxOTJlU2ZrRlpNeHJZUEY0eEZfX1dZMko2d1BFZ3VNZVM5WldXR3NjMzJyV3htV0tLVFREak83emtLZk4teDFidWw00gGUAkFVX3lxTE5pQkxWYzh4N1pXLUpQNFpSZGFpbVBLaXg2aTZRSmNkVzJ0SkNRRExIWV9wSXNDMkNaMTR1SHhVUzhFRmRXMHhXU0ZFT2dfOWJPS2tiOTBIUVl1RkpsU0tkUlNlNHVkUWhMb0pWN190Q2dKUW03WjdYckVzOVpUYi0wbEI4QzNyWjRsLWlZSHB3MDA1T3Fkc2w0ZWpHZEVXdWhCd3pZOGJ3dDgwa3c1QURGenRHUGFpNVI2Y1hYU1picWtkU2tWZHpxM0MtZ21QQ3VrTVp1OVNSNjNudnRGRmQ2OHlDRjNOb1piaEo2YnZLdmhiN0NTTk1FQUVBV05Cd3pka0JxTlg3bThXcVFpZlMxUll2Zw?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
     },
     {
-      "title": "Groww Q2 Results FY 2026 Date: Billionbrains Garage’s first quarterly earnings announcement after IPO listing – Board meeting schedule - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNXBWZUdmbkZNQV9vOHBacVoyTkFzUWl6STVhVjRpUlNIZzl0bVpDOG5ad1VzSTdPWmNqMHo3UFUyZGR2R3lvNlJpX1VQVllPTHRWQjREaUdYWFdCcEk0Vjg1dXBHRGlSVUVoQXJWR21VZG5NVkJzVTRhNmt2LWtkWFVSZVpxV0ZFdTlIemlyeXVqYUlWWkw1R1BNTGNZTGtlc0hlUmF3eVIzTjJZT0tpQm9mZlpKbUdzUUxGTzNIQmJxaHFhdUdpbVF4NVoxOTJlU2ZrRlpNeHJZUEY0eEZfX1dZMko2d1BFZ3VNZVM5WldXR3NjMzJyV3htV0tLVFREak83emtLZk4teDFidWw00gGUAkFVX3lxTE5pQkxWYzh4N1pXLUpQNFpSZGFpbVBLaXg2aTZRSmNkVzJ0SkNRRExIWV9wSXNDMkNaMTR1SHhVUzhFRmRXMHhXU0ZFT2dfOWJPS2tiOTBIUVl1RkpsU0tkUlNlNHVkUWhMb0pWN190Q2dKUW03WjdYckVzOVpUYi0wbEI4QzNyWjRsLWlZSHB3MDA1T3Fkc2w0ZWpHZEVXdWhCd3pZOGJ3dDgwa3c1QURGenRHUGFpNVI2Y1hYU1picWtkU2tWZHpxM0MtZ21QQ3VrTVp1OVNSNjNudnRGRmQ2OHlDRjNOb1piaEo2YnZLdmhiN0NTTk1FQUVBV05Cd3pka0JxTlg3bThXcVFpZlMxUll2Zw?oc=5",
+      "title": "HCL Tech Q3 Results FY 2026 date and time: 4th interim dividend announcement in quarterly earnings – Board meeting schedule - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTVJzZktXeEtXeVM2M052SWtrLXg4TlRJbVg1VXRDbzdOWHl5cUZRaDI2VC1OdXVhcDlNdXh5REtvWU0tZjJDQWxfbml2aDdZMzBCdGU0S3loTFB0S2VxakU5NHlyTkEwUkFzSmZNYldJamJMVDF4TkJpZ1o3UmswQ1Q4bklvLU5PTHV6cXgwMm1VeDlwWU0zaERweGdpV1VSVjZrQi05RjlyVUtHLUhWbHpISnpjU1VGSUNkZmpoWmRqQ0x1bEZIUjlkaVRpRnFUb29GcV9SYldDVkNVLVZ5a29uZjFVN1FuZnZKalB5UVJqNUhjUzlIeUZ0eFFzYWp2ekHSAYcCQVVfeXFMTkZVSldIOC1VUGlPRGU0aEEycW05c0FQNVhfTXpaNzRrLWt2UTMyR29MVmtsUnV4SmlYeDZFNG10RF9Ic0hHWjV1UEI3eURHZ2ItTVBXa21GU1hWUkFuVVI5Q1VLS1dBSGgydXdNRTVmRlZUWDMtNC12MnVUejVNbDdmeWpiQkJEbnVYbHZtRnpmMDJYb0ZHckJWMmYycUtaT0hDRVpOdGtWcVA3Rks0OFpLUGhJSDlHWFhobHJ6bXQ5dDJSTU9BXzNTV3A0MlFzYWY3eGVKZE5vX2dMLVpoOHlPRWlPdHhISjdnWlVBYjNPR18tOGVqUEhSSElYZlNsY1owcDlBazQ?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
@@ -616,13 +623,6 @@
       "type": "results"
     },
     {
-      "title": "IDFC First Bank Q2 Results FY 2025-26 date and time: Private lender’s quarterly earnings announcement schedule details - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX3RLcVFEcUs3QWttSGlFRXdkNHlodHROaEJZdi0wYW9vXzNRbXBNcE9sNldyQjlVcmFWQTVQRjl4Tl9qNThOZEVYLV9UNTA2bzFpMnBJT3ZQTVRiRGVhNmtaNm1WZzJzdWJnNENjX2pFSVZPMzRKdFh4U2JwWlRHQ284WHJkcUcyeUhmdVRYZXhqNlItc0ZIZ1NENkRQYWNqNGtuUjRha2t2WVowdXN0SmlRanNUMzdhaXRwVTNHRU1qUFFwbFZnM0JvUHdyNTVISXJ0ZEZyZUVxb2otT1pxNTNtLXh6eXE1ZkVkdkZQOXlVdFllZTYzaTUtYjPSAYICQVVfeXFMT1l6OThTYWhfdmZsTTlfbE5UaWRaWUIxcGFaQ3RlVS02MUpoUGotOFBnbnVHLS1QaXAzckZnazE4TjRtRTZwTERtemY1VXc0bHZueWVpTGRuZUlQSWpvZ1VWV29ZTWZ6OVpwdjAxUmRNVHhUTWhISm1BbEJqNlZTbGtCVjdzdEFDZ1hOZjRDUS1rc0NNdk94RG1BOWRJQ19JRFRjSk1EdFYxTGtiUjV0YmVIbW9FVTF4dG5tcXh5NmtUT1VObElqczBqVVp0Qml4YmIyR2Y5aWhQZEtjZWhYN3ZEbjNGR20zbW1NTkhYaTExOEk2UE5yWVpNbVhUa2hXS3FB?oc=5",
-      "source": "BSE/NSE Results",
-      "ts": 0,
-      "type": "results"
-    },
-    {
       "title": "ONGC Q1 Results FY 2026 date and time: Oil PSU to declare quarterly earnings this week - Board meeting schedule - ET Now",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYVBJLXFFV29oSXFlUmZNd1hpRUdBWVdkV2xSYXBtdzVSVy1DUzBnVkNURTZ6clNPMkloN3N4TE1lYjd5ZmhORy1XVkZkcFd1LXJCVEoxUHJGSTZNTlJWT2k3UEk0OFY1RUw0UERBdzQ0dHhXZFFVRWdzbk5mUDA4NWY2TENZV3FtWVlVUnhTYkFjck1ic1M1bXVpTTROanNreGpoNkhVQXZaWXJuS200ZXRFOTdCNzdjQ1RTdjROaV9UbVBkOThhZEcwbEdMX1dPcV9Xb09hcFdoM1ZZcXgyS19yR2JPaVduMmFVRWtmbEV1d9IB9wFBVV95cUxQYWs2cl9fTU9URnJXSE1aaEtoMlFVMFZQT1VvQkxYbkRFS1c4SDRwdUxOMERqcnd6WTcwbXIzOGpSMDhRU2NuU1ZCTFRtd0RoS19VcnVGLS1QaWxxdHRmb3NhUFNsemhucEUtT25jR2dXNEw2QV9PcTZuWXFPNE5MM0ZXb2FSUnhuMjc3cXdGNFVlNHpHVGJ4cjJ0LU44NmpIOHFpd3Q2U0FNajBDQURVR2ZDdkxoU0dFZWdxcFpvVHdUZmpoVmhmQmtwU0dYdUpTZV8wTmZXOEVmcHFscU5QMW5uOGdva0ZrbFRFMEJlcmRLcEtTbjR3?oc=5",
       "source": "BSE/NSE Results",
@@ -630,8 +630,8 @@
       "type": "results"
     },
     {
-      "title": "Dabur India dividend announcement in Q2 results FY 2026 – Check quarterly earnings release date, time - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRlBMenlNTzA1T1M1V2dQbDBtRHNPMkptQlhXak1kUmZIa3BETDNSYzkybi1jenR0N2loSHFzVlV6X1AwMHhPLWZURld5ZUZBOWEzLVRhbUUyY1NIVkxIaGR3TUVZcWtJZzRTWWhoYnFkNERNZjN5ajNFeGlrRTlXck83WnM1eFpuQm8wc0FqczNvQjQxRTJZWE1DZTBVZnNZLVhEdm14eUVaUzg1Uy15aGxUZDFsZHlxNXN2M0h6M0JMelJoTmlRSFZHdFlzMGUtWHE2WHdXWU1iWWZtUU10QU1INDjSAeoBQVVfeXFMTVpXSmxjX0s5VTVDX3BhSGZuUkMyaGV0N2UzQmZka3loMmlpQ1dvUkIxZ2ctSDlSVmhsUV9URmRfaVF2cXoxUkppcmlPT08wTFNhb0pONFVtbm1IUVhwcWVGMVNjUDhVbW5GNThtZmcxT3R6MFBfMnlZRlo4T3JPUkQtd2N1VUVRR0FQejMxU01VYmplZWlEZXVZRDBRUUtsdDh4ck96bTBBam5LXzVNVk90NVFkOGh2MVljNWs3N2NKaWNhTEFYek4ySGM5bU03NnRqSXBiRDBmSUZIZ2NCYkFkWEttcy01UVl3?oc=5",
+      "title": "BEL Q1 Results FY 2026 date, time: Board meeting this week – Quarterly earnings announcement schedule - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUF6Z3paYU5RSDgwMEFjVFZTQ0NGRjVqNTdVd2ZfMGlFXzIxbi1rV21EOWR1VWk1T1p3cVRGN0dkcDUyZFhIM1Z2R1pCWGlBb0RGWmFzZnR1X1NUYVpXUzF0bUswang5V3JTU25RR2E2OEJfYUdqVEV6TjdfRjg3STF0dGktTjlNZXRTaF9ZeVdfZ1luQnlIMGFQSjZqdmZNT0Q4aW1ya3lYV3NEcHRNb3JwMk1lSTZ3dFE3UEV4eXFrUEdGWlp3NHdNQVp6NDdJQlJfOWtBcXlMaTdsZDhoUmppUQ?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
@@ -651,13 +651,6 @@
       "type": "results"
     },
     {
-      "title": "NTPC Q1 Results FY 2026 date: Quarterly earnings announcement schedule of PSU - Board meeting details - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRTB2dE5GamtKUkVkNkRGYjFCWTJ3Q0stb1htU3NSRUw0Mk5mYi1VQ21MX0RFM3pOX1l5SWw0cG9fWUx6cXc2Nno1d3JoTENyOVFud0NPRXI0a2VlbFE5UThMVk5BeXlRN2JtREJ6b2p3S0RZRzdwaFBqZV9OeDNGaEVVM20zejByWGFfa3FnY3hsdWM3czJTVExqTHdaYUhZRExIck55SlI0NlZJc0hRbUlXNEFsMWhuM2ViN09zbzd5YzNqcm0wek5iVDV2b19aZ1BBZFJzdkROTENTcTVhU9IB5gFBVV95cUxPckFydTR0enFEODZqd0RCcGRndmszZ0I0a09hVkJmY3pfU2VTWDd6T0JzRGlHRXVhVmxZUWUwRHY2d2dGZjV4X0JmOXlKWUxmYW9rLWdVQUNzM3c2ZHBpaXRwa2o0dHMySXZrVnpsRndLWWZQNG52WjlCR3FjUDFaRkFRWUFfRlozQ2NXa29zS1NaLVg1cFR4cEx3clZXQW4xajdVSzhJYUI2dXZaUmZkRlRYaGlBbElvdE8yWU5iYmZoaEc0VjNWbE5ZZUhXcmtPdW85Wi15SXo5T3ppR1p3WEpMZUhIQQ?oc=5",
-      "source": "BSE/NSE Results",
-      "ts": 0,
-      "type": "results"
-    },
-    {
       "title": "Stock market in FY26: NIFTY50 slips 5%, SENSEX drops over 7%; check top gainers and losers - Upstox",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWthZ3pLSW1DSGtrOEt4OWFPak1paWgzc0ZKazJ3Q0pfR3B2OFBrbGRNME5PZzFpWEdDRWw1LTBSWjJnc1U1R3VJRi1lMUpjMmxGdkNqQXFKZXQyUHVKbU5PSlpWYlhhcVdkX3FDVHI1N29nbkY0NHhCOFNQNnZNbldyM3o3THNkTy1oanZoRFNuU0dVZjctTXlYeFdKR054NExDQk9Kb2FYVXJLMjJBZzJUMEJQVWFVY3hTdHFaWHFlQkYwVVhGQjJrUFgwcERHVzF1NGg4aWFBN0pWUHpj?oc=5",
       "source": "BSE/NSE Results",
@@ -672,22 +665,8 @@
       "type": "results"
     },
     {
-      "title": "Vedanta share price nosedives over 8% post Q3 earnings; what investors need to know - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSE03Tmc1SEZfQ0pSa0tidDVXbm5ycUdhWE9kSmw4bTdXMHpmNUt4Z2Zxc1ZCVF9SN2haT3hWRHlfY2EzWkcyUjRjaFJ4aEEta0RwQWluOVIyU2U3MEFvNEowa3BNRnZWckRpUG5vSEFZMGl4anNnRnhMYjRQWWRWX3ZBLTVMZHVEN3ZGaW45Z3pra3VINkRJX2tWOTRoYTl0a0w2YXoxaE5sODhkcTVLMkFYcjJrbWZKT0dSZGJvc2s0MXF6NVlRUDg2eEM4a0MxRmpmMU54RQ?oc=5",
-      "source": "BSE/NSE Results",
-      "ts": 0,
-      "type": "results"
-    },
-    {
       "title": "Affle 3i Q1FY26 Revenue Hits ₹620.7 Cr; PAT Up 21.8% - HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmxFTVdvajcta2ZSQUV1WUxYaW1uY0gxQlF1dDRSZ3BEWHktYWZ5MHpXcUVhOGFjN3NBS3M2TFpUOFA3eTNGSVh2bFB1c2dfaTVRUzJ5UmMyVkowX1dMc0tQNWxiUlhPeWM3UHlnVFFiXzN2WlY0ekhZV2dDZFJIWnBtc2paaXlfUU5xSWVrcG5sZ1VTazhBVmpB?oc=5",
-      "source": "BSE/NSE Results",
-      "ts": 0,
-      "type": "results"
-    },
-    {
-      "title": "Ola Electric to Announce Q1 FY26 Results on July 14 - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNEQyUDBGeDVrbUxnZTEySUJhSi15NE56SzBQTmNReXhNNGZtNkZBbHpXQS1qbFNMZ3IxREJFWFB6dFNONFktMFZtYW1xRWFZc3k4alhjdjJOcV93UUdFR1ZOOW81eEtRb19uWVIzcExjVkZLemJqNHhSQXMwcjJ5ODNwZ3lrdw?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
@@ -700,15 +679,15 @@
       "type": "results"
     },
     {
-      "title": "Q3 results 2026 calendar for Monday: HCL Tech, TCS among 17 companies to announce quarterly earnings report on Jan 12 - Full list - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc3B3Z2tRYTFGeHE0ekNUWXh2cjNQUVc1MHdfV3dJZ1l0LXpkcjZwU21fLWdlU0dIUG5NcE5KSGxJQnFqV2hJMV9jbzRjM3dObXdRSHJfR2szb2IxRU91b01QVzNWZ21QbFNtSWJGWlJkTVcyekZDOFE2UUp6M1Nub1Ewalp4b0VIQWJzUGFNNzBOaXZfUFFtMnR1Rk5PaUMySWNZT0QtYmh6cjh4M0lIOE5IQUFsVmVQN1gwREVqM2o3YnllaVkya2pxOG80cHE2SUh6aXdEa1hqbFRZMVdsaEdrRVJFNV9tTXgyVjdRZWJGc3E5N1E1QUNVMkJIRldubXN1RUFzNDXSAY4CQVVfeXFMTUJtV0lha3ZKNnZaUkgyV2pLRFY2Y2FFUmd5N185WE81bEw5MWJUeTBtZHRQYWFvZjBzaWRtaDdYNEk0NjJ5ZnBqSVByTEZhUF9MWHdtcVhJUGRiTy0wRnBFc1ExMTBqNW1qWms2QUMzdWJRb3RGaG9lcGxwZndNOXIyYmdtRzN4cEx6dGp3UEZNZmExZ3p0cmJ2WlFqd2xRMWx5dl9BQVFkdF82MXhjX2hVN240ci1vWkRKRG1SLXhBS2lQNWVUYkNuSDc5bUt3R1RkLXhUaUxuNWw2S0FYQ1NjOG1lRjdXamNHUjE3Qm5EZE5pVkg1SVd6aDdaYXA5b3lBNzdBWlBJaV82QUp3?oc=5",
+      "title": "Anthem Biosciences Reports Revenue Growth but Profit Decline in Q2 FY2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkgtRzNMQXZvUDU0cW9aS3QwZ1NHb3pJSmdiVkhHaDNwa3VNV1JxV0xERklYeDFXQlRpa0tQVk50MlJGR1J2OS1UVVllci1OSDBtYjkwME1ObFFObDQ1Y3lNT096ajM1dzU5c0kydHNRczVNMkZ2WWtYb2VaQ3U4UjZLM2szNmQ2NjlNci1QNzJfX3BFMWtaeVhhTnp2MndhM1c1dDNoY3hBX0pIZVRfN2tJemZJRlpVUGdHM1N1cDBEZzJvU1FMbQ?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
     },
     {
-      "title": "Q3 results 2026 calendar for Monday: HCL Tech, TCS among 17 companies to announce quarterly earnings report on Jan 12 - Full list - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQU3hJSmdmdDlpSV9OX1Z1aHhEZi1kaHRac2ljYUliU3ZVb20tZHBIeUo3czh0ZGNwQzVyclhzMzZjQ0JVYThhdjExUmRBdTlSaElrVkRQRTR0RFpmbEVsUXE5azkzRzBhZGtNQ3dWTTJORjd1Q2twb0NpRzRRbUpLRF9nLWZ3OEh5T1pISzF2djVMRGZxOHJ2bG9SeXlIWk01bDJRYzZCWlBIa1lmczNqSk04UEVUZ3ZETmYtVGdEbGVQY25RbnlmSkZ1ZjZoUnJUMVJtOVpBSWE3SjJTS3NDbGh3aHpDc0drU3Jjd1I2dHRKdTRuaXg5cXdrMkNOWG90QWNHZmVhWWM?oc=5",
+      "title": "Nestle India Q3 Results FY 2026 date and time: FMCG firm’s quarterly earnings announcement schedule out – Board meeting details - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRTRXYm4zT1FoOExxdi1WRGNpcjRJaUF6TGpUUmlpYno0Qmk1ZFhCdTZVN0UyVkpLMFItaV9FSWxKQWpoamJxUDhYRzg2RVZHTWV3VjRnV3VtVksxWUVYeFJ5TUdQY2RzZERDS1V3S2FvcWluQVlLc1hjd0c2eHlyR1hsTjYyY3duVWtSMUdVOGxGM1dFUU9OejJjUVVYRVNpbjNvcUFmYWdaMWs4ejhZU3Y4QUVHLWg1NmwyM1V5bGltRjhKOE4wWWhTaW1iM2FLMEFQTWFuYlV3dmNGTGNvSHIyU2pHXzI4Z05pTnFPNkVuY0MwQnlwSlZuNGRHVVBrQnlJaC1n0gGLAkFVX3lxTE5VNGNsTXpIQjA3UkF5ZFB1R0ZURzlHZkJid21JenpxbkxaZW9HQXl1clZfSTJQZDZjS3ZxejRKNUlyUEx4c09CU0xnZHdpQzh6ZW9WVGhFcGtnMDBjalQ4Rk5COGVXRHZBaTNwOGl2cTM3YzlTSHlaejVyV05jYUFWdjRoczE1REJEN3JIb01mUmJkS2FPaktkWlFpNUdGSzVrTG5kX0RhVHU0YzZGNVI0cE5YX0xqaDI2X0ZLSTc4aEtrTWtHaC1uN0UzM2ZJak9kd2FlT3BsaE5hTWNqLUVwdkhVd1IzLVQtNm4wSmlNRG50S2xPWDRsOTNRSUhjRXhEd09QeFpidWJKWQ?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
@@ -721,15 +700,15 @@
       "type": "results"
     },
     {
-      "title": "Happiest Minds Technologies Gears Up for Q1 FY26 Financial Results - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2xaT1Y5a3d3Ty1oY1ByQzB6Q3FtN2dLaUhzb0FRaWVFLW80YWszNEJPYjQxb1V2bGRId1FzY0NqdkNoLUlfdEFBUXltTVZMYUlCcE5HNUpwLUJ2N09NYVV2QlRCUU1xNFBxOUhhaW92TUZpano1ZEpGa3JEYVhpQUpTbFVKNGpZSTE3RUR4S2xkRXpfTXZNeHZxYlZmUWZaM1ExNWx2N2VrMkZyS1JoYnlUVnY2cnJVeVdnNWg1NA?oc=5",
+      "title": "Regaal Resources Plans Expansion, Appoints IR Advisor, and Reports Q1 FY2026 Results - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYTdic1Jyd2ROTTA5R3h0MTdQQ25UUzE1OUhfT3hFUEZDeHlTN1Jtcy1JOWdxTjdMc3F5aXNPSzE2cUZnMmNJUVlGVXUtajRxVVNwOGRFMTg0R1RoYjZCd0xrQmpwYUhCSzZuLU9ISFp2RW5CRGQ5WmFDWWUxNHpSV3AzQWpMSWlpLVFyM0kyV2czckYzN01MYzkzNUNkTmRDT043VDhuZTBXSTZfd1daQk81dVlWYmtDSjlmQUpSU1J3RklpZ2k5WXE4d0g5RlNZWkQtOHo2dVQzVmhnamFGbUVxQndtZw?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
     },
     {
-      "title": "Regaal Resources Plans Expansion, Appoints IR Advisor, and Reports Q1 FY2026 Results - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYTdic1Jyd2ROTTA5R3h0MTdQQ25UUzE1OUhfT3hFUEZDeHlTN1Jtcy1JOWdxTjdMc3F5aXNPSzE2cUZnMmNJUVlGVXUtajRxVVNwOGRFMTg0R1RoYjZCd0xrQmpwYUhCSzZuLU9ISFp2RW5CRGQ5WmFDWWUxNHpSV3AzQWpMSWlpLVFyM0kyV2czckYzN01MYzkzNUNkTmRDT043VDhuZTBXSTZfd1daQk81dVlWYmtDSjlmQUpSU1J3RklpZ2k5WXE4d0g5RlNZWkQtOHo2dVQzVmhnamFGbUVxQndtZw?oc=5",
+      "title": "Happiest Minds Technologies Gears Up for Q1 FY26 Financial Results - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2xaT1Y5a3d3Ty1oY1ByQzB6Q3FtN2dLaUhzb0FRaWVFLW80YWszNEJPYjQxb1V2bGRId1FzY0NqdkNoLUlfdEFBUXltTVZMYUlCcE5HNUpwLUJ2N09NYVV2QlRCUU1xNFBxOUhhaW92TUZpano1ZEpGa3JEYVhpQUpTbFVKNGpZSTE3RUR4S2xkRXpfTXZNeHZxYlZmUWZaM1ExNWx2N2VrMkZyS1JoYnlUVnY2cnJVeVdnNWg1NA?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
@@ -749,8 +728,29 @@
       "type": "results"
     },
     {
+      "title": "IDFC First Bank Q2 Results FY 2025-26 date and time: Private lender’s quarterly earnings announcement schedule details - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX3RLcVFEcUs3QWttSGlFRXdkNHlodHROaEJZdi0wYW9vXzNRbXBNcE9sNldyQjlVcmFWQTVQRjl4Tl9qNThOZEVYLV9UNTA2bzFpMnBJT3ZQTVRiRGVhNmtaNm1WZzJzdWJnNENjX2pFSVZPMzRKdFh4U2JwWlRHQ284WHJkcUcyeUhmdVRYZXhqNlItc0ZIZ1NENkRQYWNqNGtuUjRha2t2WVowdXN0SmlRanNUMzdhaXRwVTNHRU1qUFFwbFZnM0JvUHdyNTVISXJ0ZEZyZUVxb2otT1pxNTNtLXh6eXE1ZkVkdkZQOXlVdFllZTYzaTUtYjPSAYICQVVfeXFMT1l6OThTYWhfdmZsTTlfbE5UaWRaWUIxcGFaQ3RlVS02MUpoUGotOFBnbnVHLS1QaXAzckZnazE4TjRtRTZwTERtemY1VXc0bHZueWVpTGRuZUlQSWpvZ1VWV29ZTWZ6OVpwdjAxUmRNVHhUTWhISm1BbEJqNlZTbGtCVjdzdEFDZ1hOZjRDUS1rc0NNdk94RG1BOWRJQ19JRFRjSk1EdFYxTGtiUjV0YmVIbW9FVTF4dG5tcXh5NmtUT1VObElqczBqVVp0Qml4YmIyR2Y5aWhQZEtjZWhYN3ZEbjNGR20zbW1NTkhYaTExOEk2UE5yWVpNbVhUa2hXS3FB?oc=5",
+      "source": "BSE/NSE Results",
+      "ts": 0,
+      "type": "results"
+    },
+    {
       "title": "NTPC Q2 results FY 2026 date and time: Dividend announcement by PSU in quarterly earnings; check record date, board meeting schedule - ET Now",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQU3BfMFJ3OTZ3R0ZxRVFtZlktV2ZWQWxVOTFyQnFkVHhpMFF5bHZETlFxWEJSSm1LcTFlaElTazc5Rk5xVkhMbDBPTUw2NjNFcW1IV2kyQmNnNWc0aUNGU0tpcDBjLUtRcXBUWFlEeXRFNm9venhhLUtMTmxVb1hRVXlSWW1fN2x2NXBONjRUQXhCM3NkUnFneldjTHN5R0tSMW1SUUdvaUVmaktzRXdrbGpoejdHVEZVSHUzQzl1djlBZ1VvanU2azhmTU14M1ZYdlFBMXdGNHlLVG1PaXhWSVZmbUxTQktXUTB1eEMwTG1jUktzaDdSYUxSSkdpY01QZktwT1JLTThZekcya3fSAZMCQVVfeXFMT2gwRUJad0N2bmZhVHRRYzRwbXVwU0x2MlNTZmtsTkVYdGdLeXp0bEEtclJUa0VTeXZCamVFWUNhMHRBWkJ0ZTE2ZENENVNTcDd0WUYwVVdzYngySDFFZF9kNi03UlNtVWVjRmJaM09hTUxaekNmWHo1NDJCelJkN2pXYnJVdm5lQ0RLeUZGdWxOR2tDazctNU9aVHg1YnoxTE1oZWR4SVZ3dmRHdWxMTE5QcmZNbzlzYVBQc0tydkRFTy03NTIwemR0SHptUWM1cTAwLXJsVkJmMDRub29YZWxzRUVnMnZoanRQQ1M2ZjU5VkhGMEl4d2dHMm1kZzdyV0t3YzBxYkQ4ODk4WVNFajhFblE?oc=5",
+      "source": "BSE/NSE Results",
+      "ts": 0,
+      "type": "results"
+    },
+    {
+      "title": "NTPC Q1 Results FY 2026 date: Quarterly earnings announcement schedule of PSU - Board meeting details - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRTB2dE5GamtKUkVkNkRGYjFCWTJ3Q0stb1htU3NSRUw0Mk5mYi1VQ21MX0RFM3pOX1l5SWw0cG9fWUx6cXc2Nno1d3JoTENyOVFud0NPRXI0a2VlbFE5UThMVk5BeXlRN2JtREJ6b2p3S0RZRzdwaFBqZV9OeDNGaEVVM20zejByWGFfa3FnY3hsdWM3czJTVExqTHdaYUhZRExIck55SlI0NlZJc0hRbUlXNEFsMWhuM2ViN09zbzd5YzNqcm0wek5iVDV2b19aZ1BBZFJzdkROTENTcTVhU9IB5gFBVV95cUxPckFydTR0enFEODZqd0RCcGRndmszZ0I0a09hVkJmY3pfU2VTWDd6T0JzRGlHRXVhVmxZUWUwRHY2d2dGZjV4X0JmOXlKWUxmYW9rLWdVQUNzM3c2ZHBpaXRwa2o0dHMySXZrVnpsRndLWWZQNG52WjlCR3FjUDFaRkFRWUFfRlozQ2NXa29zS1NaLVg1cFR4cEx3clZXQW4xajdVSzhJYUI2dXZaUmZkRlRYaGlBbElvdE8yWU5iYmZoaEc0VjNWbE5ZZUhXcmtPdW85Wi15SXo5T3ppR1p3WEpMZUhIQQ?oc=5",
+      "source": "BSE/NSE Results",
+      "ts": 0,
+      "type": "results"
+    },
+    {
+      "title": "Dabur India dividend announcement in Q2 results FY 2026 – Check quarterly earnings release date, time - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRlBMenlNTzA1T1M1V2dQbDBtRHNPMkptQlhXak1kUmZIa3BETDNSYzkybi1jenR0N2loSHFzVlV6X1AwMHhPLWZURld5ZUZBOWEzLVRhbUUyY1NIVkxIaGR3TUVZcWtJZzRTWWhoYnFkNERNZjN5ajNFeGlrRTlXck83WnM1eFpuQm8wc0FqczNvQjQxRTJZWE1DZTBVZnNZLVhEdm14eUVaUzg1Uy15aGxUZDFsZHlxNXN2M0h6M0JMelJoTmlRSFZHdFlzMGUtWHE2WHdXWU1iWWZtUU10QU1INDjSAeoBQVVfeXFMTVpXSmxjX0s5VTVDX3BhSGZuUkMyaGV0N2UzQmZka3loMmlpQ1dvUkIxZ2ctSDlSVmhsUV9URmRfaVF2cXoxUkppcmlPT08wTFNhb0pONFVtbm1IUVhwcWVGMVNjUDhVbW5GNThtZmcxT3R6MFBfMnlZRlo4T3JPUkQtd2N1VUVRR0FQejMxU01VYmplZWlEZXVZRDBRUUtsdDh4ck96bTBBam5LXzVNVk90NVFkOGh2MVljNWs3N2NKaWNhTEFYek4ySGM5bU03NnRqSXBiRDBmSUZIZ2NCYkFkWEttcy01UVl3?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
@@ -812,7 +812,7 @@
       "type": "dividend"
     },
     {
-      "title": "Dividend, bonus, stock-split news put these 7 shares in spotlight next week - business-standard.com",
+      "title": "Dividend, bonus, stock-split news put these 7 shares in spotlight next week - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQODlNRzR6d0Nkc3NyX1BoNzZpai1wcXlhZ0QzODZ4TXVvX011QTZxaWhneHdLVjhMZXR6R0ZuVFZDQW9nNk1EamZYbHhsaVVka28tR3VJNnFGWHNacFNZa1dJT0Z5Z3JNYW1GS2RzOENNR3VBcmpPTmttV2RJYjdBRnIyNU5TS2p5YnMtQmNPazd6dzRVZVJiNHdyRGtnZmJRbEYxTHNPdmRmTlVvMWZoY2d1R3d2NFR2LUpxZlpEcXluaXRMVm9UYVFUUmQ3alRQUnJmVXNPQdIB3AFBVV95cUxOUmRSeHVzVV90a0dYNUk1Tk5LMEZaTXpjR19WdmVqSDQ0bTV4bFl6ZElaYzNzd3ZUMGVPSklrMVBVOE42amV2a0o0ZUVVNWgwTHdUb21ad1RodWtGaS1xMGVaN3dZWkMtU2cwNXJlUXVZZk4xQWlRRTNud3c0am9uY3JkeDRsU0doQXdfTGhkM0dWWktMU09KREZNNG5wTkdQb19EbEd0a1pBUjY1dURrakVIS3JOTWlBdjJYa0Zpem15eFBLeExKTzJYaF9uNGhyejdsTWtzTHFTSUlN?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -903,7 +903,7 @@
       "type": "dividend"
     },
     {
-      "title": "4 Stocks Declaring Bonus Shares and Stock Splits in January 2026 - equitymaster.com",
+      "title": "4 Stocks Declaring Bonus Shares and Stock Splits in January 2026 - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRERLTUcwZldZLWJMOHh2eEhwYTJFQ0dxVVRSdVFWOXFzQmpMSjRqeG9tOEJHdXBmcnBCdVFpbXhwTUd6WjVxYktIVW9OMTdtVE5FZGJnWVJlNHpsUzVSZjZROWVwNFNPVmg5bHR2YTFId0VGS21tamhKT1otSzAxTmtla2t4Zk9nSy1PSzJGZVBrX1hIZ2pDVUtxUEEyNDAwR2JqaTFYN3hzWVNDbjB2V09zdDVUNGVmR0dWa2prREdzRUtTMUw0SFFSaGpFWEU?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -924,7 +924,7 @@
       "type": "dividend"
     },
     {
-      "title": "5 Stocks Declaring Bonus Shares and Stock Splits in September 2025 - equitymaster.com",
+      "title": "5 Stocks Declaring Bonus Shares and Stock Splits in September 2025 - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY2lnMVhKWVc3TXFkUnI2Y1IwVXAySEZCYjJqQllMRzg2aTNBWEN3YWM4TGdEN0tFZ3BPNHJGaUotT1FGSE9xN0FWNzZ0T0JObldXYUNyaU9ETkhhVGVSbldEXzNOTXZUTFhzTFpCd0pndkhlZFJrSms5YS1hNi1NRG1yb09NU3VnN1BUWngzcWhqeFpuMVVqdUFhOHBuVHdwMTVXVkJfZ3ItZU91cjFOYU02R1FvN19qa2JnY3dUTWdEdHp0a2xqZTJnUU9uOFBPZHc?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -945,7 +945,7 @@
       "type": "dividend"
     },
     {
-      "title": "Ex-date alert! IOC, 4 others to remain in focus today; check full list - business-standard.com",
+      "title": "Ex-date alert! IOC, 4 others to remain in focus today; check full list - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMG9LS1BQZmg0aEFCYWZmZFpPUHFoSjlzRUlaSGhrQi1OZ3RfYW1vUnlfTERMUW9SQ3R3YXBkdVM3b0RGUnlzYUpFRl9hclF3X2hfTVg0bTNEVWFabk83NlVwbWVJLWhjbVppMlMwVWhLQU9QVjNYSVJYeUhGNl9Xenc2cFlBTnAwZ2U2cHp4UVpuTG9WNmh3N1lNemVyRlF6UnVucTdUang3VTF0SENxRXVMWUZWeTl6TEY4NEdyUDR1TlNsOWZfcGE0ZE1Wd1HSAdQBQVVfeXFMTzdxMmxHX1pvS2N4NjZxdVU5Q3BiNDdDWlZkeFg1UGo5Q1ZtVlJaQXFya0hjZU5XRDJyZkotRmVZdVVZZjh5N3FJQ0ktRFRGWlJ3cXdQc0VGb2dmREtYYzBkRlFYZFd2bUEzZnZ2SFloOGZqclJha0ROWUhwNllxcUI4WVd0TU8yUm9FdHFlSWM3WTl0NGFWTmd5YjJ4S0VhV05HNEo3NjFrMUlrMWVlaFJJNnpqZVhFN2xnV0tQSlZod1VGVkd5R3JoeGFRTVpzdFVhX1Q?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -1001,7 +1001,7 @@
       "type": "dividend"
     },
     {
-      "title": "Dividend, bonus: Indo US Bio-Tech, Wipro, 3 others to go ex-date tomorrow - business-standard.com",
+      "title": "Dividend, bonus: Indo US Bio-Tech, Wipro, 3 others to go ex-date tomorrow - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVjNRb19rdFdwSHlycmI1VGtIU21yb1ZYUnZPXzcycEQxQUVTTkZza3ZtWll6MnU1RGw3RjlfMGN3Q1RVdXZMNklpWEZJYzhpZ3NjLVgtOTUzaVZERHlJTGNHR0tKZHl5THA2T1ZVd0xIQkhwS3djVzdhRVU2Q2IxeXl6T25nTDY1WFZYbzcycDhCM1lIbWM1YlFyMXlRYnJwejdUMnJRZkQ1MUJOTVpPZ1gxSUNFZGhjbk1DV2xMeVZ3ZjluMFM0c2JfRkVwN0tZTUHSAdcBQVVfeXFMTktjVlloSnRrMkR3Qi1GNlBvb0hram1vejhUOTFxWGRsTFp5bGNSWmJPOGF0N0NBakludkx5Yy10UmFOOTh4d3FjRG5QZ3JyRFljWnlrQ2xSa1dhQWJWZGNPZFUxTkhJTHlGSTZFMlJyRHRZX2lCc1JQVlQ3LVhDZjNCR0xhUDMzVElfVjZRUG1aSW1IdXU3S0FOcHM0RGFYTFV4SEhBdk4yNXVRZGYzUkUwWm5GTXJPQW5Ec0tncFBpaVJiNFBwd0JqMVZPZjJkM2VlT0dwQUk?oc=5",
       "source": "Corp Actions",
       "ts": 0,
@@ -1022,14 +1022,14 @@
       "type": "dividend"
     },
     {
-      "title": "Dividend, bonus, stock split: IRFC, PDS, 4 others to remain in focus today - business-standard.com",
+      "title": "Dividend, bonus, stock split: IRFC, PDS, 4 others to remain in focus today - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0ZhbVMtdFpqNWtVdDRLc0NmRWY5RnNZWE1zQVJTN1FDU0NZdFJKM2ozZnNkY015VXRoMVpHVEdvXzFtb0d2Y2Q3UlJjNHg1LWdTclRoQTRYZDIwZmRrNGdnOUtadmlkOXB6WlJ4Wmt4OXlscFNPOV9wQTdrZ1RxU3ViNk0wNkpTYTBteUdCVUxBVWdaQ3h2N2E0aVlVZElNbXoxMEhyMUVNZTNwSnJFWEFuSExYYWhXeW9ieDlkaFB1cjFCS2VXbE8yWGtJR29iTWfSAdcBQVVfeXFMTWo3a0I5ZC12VzVkVjJETFlEY0x6NGtQWUllRExKR1dXWmV4bW1EUndPbkFRcGxqTkJ1b2dkcVpLcGQyZF80MFRYUC14d3FvNk9wUU4tWUhyX3hCTm9EMTJkMWVBNUdJRG9TbS10LUxrRUR1T0hsMDdPWXpqc1JqU3liRFdkNGl6cmJxbU5SR0d0aHk3ajByeVRyNm1CRF95WEd2OG1Fb190bHc0OG9zNkFjT2VnNVV2Sy1kY2E3eDhiWi02QmZGWGRianNLTlRqd3B6Ym8zbkE?oc=5",
       "source": "Corp Actions",
       "ts": 0,
       "type": "dividend"
     },
     {
-      "title": "Dividend, Bonus: Vedanta, Mazagon Dock, 4 others to trade ex-date next week - business-standard.com",
+      "title": "Dividend, Bonus: Vedanta, Mazagon Dock, 4 others to trade ex-date next week - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2ZaeDBfcDJ0RzhBcURtbGU5TWU0ZlM0ZXdjSk9CV3BnUzRpQzRDS1BrTDZQYVBPT2RBaHJEMjNacVVrQk1QOFdHZ0t1eTQ1N3hfbF9rQXUtU2cweWdjRVN0Q3pxRi14NkY5c1B4Vmo0S2hEaXQxTk9MMkVIajdFYlNwNjZCRnR1VkpVYzVFQm5Kd21zUVNRakRqVXh6X0QyMHJSc3R0c0VNWERmc0phZF9VUDd4cFp2N1hCU1RPVGJ6T3FqRF9nQkRtR28weUNxWHpZWNIB2gFBVV95cUxNMWlGM19vQV9RNlNwalBBSDUtMTJfZjVLYXNBOFNHMjdYd1dDSlpWcDZsRHJ3Z0g2RzNQUmgyUF9YV1VaQThxVFFvQUpLS19sMkx6VmRDY2Q1SGs1TTNaaEtsdVJhYnZnLTRXTFQ0eU9vajE4aW16YlN0Vmt1NlFNLWY0YnhMWU9KeGVkTUNRT0ZoLVppRjJ5alZGcTZ5RXNnMnV5U0VRUWNaaFNpcGZCWXBIV3N2WlY1MEhIWlEzUEhxdi1TSUtJR190RXV2M3pHZk9uUXp6OGVNZw?oc=5",
       "source": "Corp Actions",
       "ts": 0,
