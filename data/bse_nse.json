@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T21:49:15.384321+00:00",
+  "updated": "2026-04-05T21:59:46.179387+00:00",
   "bse_count": 22,
   "news_count": 150,
   "log": [
@@ -13,16 +13,16 @@
     "NSE nse_corporate_actions: module 'nsepython' has no attribute 'nse_corporate_actions'",
     "NSE: no data returned",
     "Moneycontrol Corp: 403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/corporateannouncements.xml",
-    "Exchange News: 75 in feed, 50 tried, 50 new",
-    "BSE/NSE Results: 45 in feed, 45 tried, 39 new",
+    "Exchange News: 74 in feed, 50 tried, 50 new",
+    "BSE/NSE Results: 45 in feed, 45 tried, 38 new",
     "Corp Actions: 38 in feed, 38 tried, 37 new",
     "Board Meetings: 44 in feed, 44 tried, 44 new",
     "Bulk/Block Deals: 27 in feed, 27 tried, 27 new",
     "Trading Window: 71 in feed, 50 tried, 48 new",
     "Share Allotment: 43 in feed, 43 tried, 41 new",
-    "M&A: 47 in feed, 47 tried, 47 new",
+    "M&A: 33 in feed, 33 tried, 33 new",
     "Ratings: 39 in feed, 39 tried, 39 new",
-    "Orders Won: 57 in feed, 50 tried, 50 new"
+    "Orders Won: 67 in feed, 50 tried, 50 new"
   ],
   "bse_items": [
     {
@@ -189,7 +189,7 @@
       "type": "dividend"
     },
     {
-      "title": "Hindustan Unilever Announces Board Meet Date To Declare Dividend, Q4 Result FY26: Check Full Details Here - Republic World",
+      "title": "Hindustan Unilever Announces Board Meet Date To Declare Dividend, Q4 Result FY26: Check Full Details Here - republicworld.com",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc21wOTdZdzlFc2hoZF9vNVM3RWtOZVRIR1FEcjN2NEVwTU9ldlVxS2c4eUNJbE11NS1fNGhsSk9jMGh5bG44SEU2Vk41c0d2UFZiNm9TdmdUVHBxX0tYZllURjhqRmptNnAwZmdZQ3FST3RHUWc0NG82aWNxNHJ1dXZwSmxmbGpyOWwyTE1ndnJIMEplSmMzM2thazZzbnRJWURBQVR6bWlTU0FRb2lUUkNDN3ZKTTVvaEZOSnMwYjdrZ3ZiRVhrUmJ4RktrY2tKSUVxeXlDbW02Z9IB3wFBVV95cUxPU2t2WnR0dDQ5MlAyQzJ0Y0xVaDdMUG9VZ0tKbHJfMEJuSF9mMFZnMkl6MkVtY25sVmFBdEJ4enpJQ1JYR24yUVA5aFIzOWFzRlUyYmJpOVlRZzNLeDJ5SV8yeEdjclJEdWJPMUszR216c0YzTFRVN0F1eVI0Q0ZTeGZ1UV9tOEE1UU1yanpTNWZnNDZGLVh6VG9uNlFQRGd4LXRURGRPdm0tUnlOUzF1bzVqaGFWS0RleHlPWWY3aXB6TWZEWXdraF9KTHdIMzRtckt5d0lUTlJZQ2VsTDRB?oc=5",
       "source": "Exchange News",
       "ts": 0,
@@ -238,8 +238,8 @@
       "type": "results"
     },
     {
-      "title": "Infosys Q4 Results 2026, dividend date: Cash reward in board meeting next month - Quarterly earnings announcement schedule - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ3M2VV9fNzdCbW1xajBsZlhnQU52UzdPejBMT0xKeDhyWVhYN0R2X0NDY25MWEpnNnpZQUhEV1BDcHg3X1lCeFRzUTBCbU9VZzNWejAzMW43c0hMb3NIeHR5NkhpWXBlV0JZX1BqN2dhdjBaQWxzbG82bDAxYmN6VzFkNkJWclVGdHFHVmhQWS1lVl9SZlZ6dHY3ejFIakxRam0zdXRnWk4yTS1ocWgyUEhWUkJtSjduY1dRQ2FNNnc0b1RnMTgyU3MyQVFEa0lLcEFpb0tTaEc1QVpTTXl3SmpObm96Z3Y2R0QzOEpKS1MteHJlckZHaU9aY3M5VjjSAYQCQVVfeXFMUGVDTV9ET2I5TkdWVmxReWNOcTRpS3pCYTdodXExeEE3UjJlZFY5M3dXWjN5UnZBaUpJclpsZTFBUG1HS3BfTmljY2VpUml4Wm1feHRyWm5xX3BxcUpLckFvVTVlR1VfWERXbVhPYWlyX240dmk5UVY4Sm5PZTdTSGdzc1REaEZwVFByM3lobGJIUFFTSVJwNFZndjZ0bjJHSzZWUUZrWHNJQWVZNTZnM29jczE2Q2dQV1J2VkxmSF94OUtBdzRxYVhhZ3hscjQxRFc3VlktLTBxLTV4NGdHLXE1N0E0NERkLTZXMG9XYmRKbzRud0tuM0Q5VjY0aHBJSGdYWHA?oc=5",
+      "title": "BPCL Dividend 2026 date out: 2nd interim dividend in Q3 results, board meeting next week - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPXzBMR1dLRXEwZnRTd1F5MUotc0pDcXV6LXhfdWxCeWdFTkg2Vy1iODZYbW9zR0EwMkdlbnRnN2FHYnF5U0dlcFZmZjNwVVpEOWJ5Z3BrZXBfM04xWWR4dGRCcVpaSUlNb2tSNTNmV2hJTGVZVW1Jbjd6aGkyMVZqZ2liM2x1dVYzV2hrbm05OHFJNGFlb1Z3NEhNbGd6b2lROEVDTmVyeVlSRWd5dTlLdXgxb2VDbFFqV3JvRzcxOGNZYWI0UEVYdDVuZlI4NEVCQTBXYtIB2gFBVV95cUxPbDJ5U25ZRFh0Y1lhZ2hIRjJWQjRyWTJMa3lWUEFsZFk0eWdTb3QzaC1ndWtDeEQzdWJIUmk4dUUxd3FXS0hhNGRtN1EzUUthVi1rcTloNFp5cUh4UUs1c1I0ZjhvRkJ6R2xXZUVjVVJPVzhXS0k5b21hVzVxQ3ZXSE1SVEVqWnFPZnd5NlJOaGpnR2FiM3RvVG52cFIxWVhpVnBNS3BWeE5zRVlETWZBcEl0VVVUZ3cydktfd29ndjUtZF9xVDZxX0psdHpnYjdHZFdsRzJnYXlzUQ?oc=5",
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
@@ -252,8 +252,8 @@
       "type": "results"
     },
     {
-      "title": "BPCL Dividend 2026 date out: 2nd interim dividend in Q3 results, board meeting next week - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPXzBMR1dLRXEwZnRTd1F5MUotc0pDcXV6LXhfdWxCeWdFTkg2Vy1iODZYbW9zR0EwMkdlbnRnN2FHYnF5U0dlcFZmZjNwVVpEOWJ5Z3BrZXBfM04xWWR4dGRCcVpaSUlNb2tSNTNmV2hJTGVZVW1Jbjd6aGkyMVZqZ2liM2x1dVYzV2hrbm05OHFJNGFlb1Z3NEhNbGd6b2lROEVDTmVyeVlSRWd5dTlLdXgxb2VDbFFqV3JvRzcxOGNZYWI0UEVYdDVuZlI4NEVCQTBXYtIB2gFBVV95cUxPbDJ5U25ZRFh0Y1lhZ2hIRjJWQjRyWTJMa3lWUEFsZFk0eWdTb3QzaC1ndWtDeEQzdWJIUmk4dUUxd3FXS0hhNGRtN1EzUUthVi1rcTloNFp5cUh4UUs1c1I0ZjhvRkJ6R2xXZUVjVVJPVzhXS0k5b21hVzVxQ3ZXSE1SVEVqWnFPZnd5NlJOaGpnR2FiM3RvVG52cFIxWVhpVnBNS3BWeE5zRVlETWZBcEl0VVVUZ3cydktfd29ndjUtZF9xVDZxX0psdHpnYjdHZFdsRzJnYXlzUQ?oc=5",
+      "title": "Central Bank of India Dividend 2026: Bank to announce 3rd interim dividend in Q3 results; board meeting on Jan 16 - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRnN0WnBLUXd6TGNYeGhreUN4OUpxdkt4emFsNzUtdGd0ZHNoemZ5YmJQQTBVWjV1RmJVaVAwRUVPcVh4MjA0TGxjRkc4MWVWU1BhSG1MOEs1b2pQOXRxLVZsSEFmWTgyTUp1dmE2TVUtYk9kN2JwbkExZFYwblpPSmN1ZGktdkUzNXNoMlc1dnA1RXdtbmloZEMzdDN6Y2R1Z0haWXpXU2Vid2RPai1LcmM1Uk4zdHVmLU9EU01OcTJPMHF3QThTM3dGSEx0RVlVUFkycGNLS0lkd28zWGtYcHVrQmIzOG1Iank3UTNwSVU4c3VPNEHSAfsBQVVfeXFMTnR4clRZUXlPYnc5UlE0ekd3b3RTNTFzQVNRZG8xcVRGV3QwWGtfVFM4YVlHZXE3VzUxeG5FQnBtVHZVekFERWxsbE5ocEhwcXJlcFExRTU3Vkg4VW5BR2RhTzZYREhjUkhnb0gyM1d5Nm5JWG5YYVM1bENhMmZoSDNJcGdtSExwSGY3bWF6bmN5aG5kand5WTFWSndvSUNBQkozV3NGUC1TeXFzdmwtQndIN2RSX0FtU01NQjVQM25NQWRLOEIyOEhqNkxSclhYc3I2Snk5V000T09LWmMtVkpLbVNoM2lXa3JRS2hTM3FMQUFEX3lsWWRiaVk?oc=5",
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
@@ -266,8 +266,8 @@
       "type": "dividend"
     },
     {
-      "title": "Central Bank of India Dividend 2026: Bank to announce 3rd interim dividend in Q3 results; board meeting on Jan 16 - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRnN0WnBLUXd6TGNYeGhreUN4OUpxdkt4emFsNzUtdGd0ZHNoemZ5YmJQQTBVWjV1RmJVaVAwRUVPcVh4MjA0TGxjRkc4MWVWU1BhSG1MOEs1b2pQOXRxLVZsSEFmWTgyTUp1dmE2TVUtYk9kN2JwbkExZFYwblpPSmN1ZGktdkUzNXNoMlc1dnA1RXdtbmloZEMzdDN6Y2R1Z0haWXpXU2Vid2RPai1LcmM1Uk4zdHVmLU9EU01OcTJPMHF3QThTM3dGSEx0RVlVUFkycGNLS0lkd28zWGtYcHVrQmIzOG1Iank3UTNwSVU4c3VPNEHSAfsBQVVfeXFMTnR4clRZUXlPYnc5UlE0ekd3b3RTNTFzQVNRZG8xcVRGV3QwWGtfVFM4YVlHZXE3VzUxeG5FQnBtVHZVekFERWxsbE5ocEhwcXJlcFExRTU3Vkg4VW5BR2RhTzZYREhjUkhnb0gyM1d5Nm5JWG5YYVM1bENhMmZoSDNJcGdtSExwSGY3bWF6bmN5aG5kand5WTFWSndvSUNBQkozV3NGUC1TeXFzdmwtQndIN2RSX0FtU01NQjVQM25NQWRLOEIyOEhqNkxSclhYc3I2Snk5V000T09LWmMtVkpLbVNoM2lXa3JRS2hTM3FMQUFEX3lsWWRiaVk?oc=5",
+      "title": "GAIL dividend 2026 date: Announcement in quarterly results board meeting on Jan 31; record date fixed - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSm5vX3VsYlJ6YzhfazRJWUNudllldGpfb0d3RERLc1ZBS0h6eEVELVRDVm0zUGhyQUZFWHhKTDQ0alYxVDMwMG0ycjl0ZU9PQmV4TWxsNXpDWnNsMWdnbG4tNWFIWW01RzdDS1U2dWdLT0lOQVFrR1ZwNk5XeFFBcElWNEc4SHdlSWQxV1ZmSGZrUEc5Rm9KOUltTkc2cDQxTjlITVU5bktmWTVaMmtERzA1MHd2M1ZETXRydmR4SzdCZEhHRDZDQlZMOXBITndBMXl2MVZ6NnNTV19zOTgtTzUwcVY3R2tUS19n0gHwAUFVX3lxTE1vakdfUVdoT3EwT3lGXzljcjI5eUViR2ZLd3EtejR4ZS0yV21HWE5Id0M5OXg1RUV0VS1fRmVZbnBuV1hGNjU4dkU4SV9WbzdGRWppblo2dkZUazN1TjRsU0pwWjlqM1lnQVBXUDdyUzdOY0l5VkFJdVVWMGpPaG84VVBueGt2X3JvcEE1S2EzbmxsZ0JkMHYxc2FSM3ZrcEZoNS1GdkZNWi1vZDBGVk1iNm5SdmI1dGtZWUR3TXdodTJPSmRER1lsNmIwSjMtR2FOdWZOVnhzU2llQXlUTnd2RWFOcHJnVl8ybVVZMkRSTg?oc=5",
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
@@ -275,6 +275,13 @@
     {
       "title": "IIFL Finance Board Meeting Scheduled for January 22, 2026 to Consider Q3FY26 Results and Interim Dividend - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZHJhQ1NxVllmRnBvMEhOcnIyWFRVU1cwUEV6TXg1aGxhNHh5M2h6VXNGNnF0OTEyYkFjeElmLTlvNXZLTU5sMWNoeWkyenZRTUpvZlVreXNuc010MnBYckdmM2ptUXpweHJ5bkJPaUItSWsxUk1VNXhmYzRxTHEycmZYNVJlSnE4MEw4WHZ3VWZzRENFTnpRT1ZCWWY0R21yYXVrWG1PZjdTTXJqWkhhTG4yVUdwLW9wRFdlVDl4cHNkMlFhbjcwbzY0RjF5a3BwalZyUjROelBuSm5LSDloeVpCcFhJM2x3Z284dFl6eWtlLXZ3c1hwWHFVeFd4UQ?oc=5",
+      "source": "Exchange News",
+      "ts": 0,
+      "type": "dividend"
+    },
+    {
+      "title": "Angel One Stock Split, Dividend: Board meeting on Jan 15 for major corporate actions – Expert Gaurang Shah gives trading strategy - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0FUSkxWclNiNlNEelpWNnVEX1pBajJoaFBCYkt6VGNoZjRDOUp0alVZa05tRFJ5eG5keU9KamgwRlRmYXNvZXgwYmFvZFFhZ1labl9KQlBIekUwZ2xmUzhDZGJEMHByWVhRXzFlc1BNWkFJOFB3TmtLeXM0MHE2RmMzVGREVzhCQ08yb19JUGJsS19nZlBsTzJKNXVMS0pZcXFfUnlKenExNm5TYmtMd3hHLXlHMDRocVhFdXhzTnRHQTc3MmdEODlwOHctbkNSaGtJaE4yX3FTTWx2aGprcDlZSER0NWxCcU5XUldwa1pFaWxOUF9YYnpUSUE4VXpPZFRxMnZ3NEXSAY4CQVVfeXFMTWVtbEgzeWxmY2FXME5fbUhVV3kxbm5JbFVWODg0RTc5V1o4dTE3TW9TYUloWUgyRUNhZjR5NlNQMWxjZmU3c0ZpTVRVUUswX19Xb1JtSDRPT2JfWEthQktIM01wRDUxQ04yeTNHRHhabGg3bGotSHFaa3dfQnhzRHBvNDYyYjBkNG94RGU2ZGprbnd1bkQ0LXpXTWdNUkR6NU9xU0ZNajJRaWJGUmZ5RVJzOXRqcThVYjJvTDM2THRiaERnRG5oaVhjXzRtQkZCdDVfN0VTd2N1czBFaXJLTFNlTVdfcWQ0OWlUTFdoa3dVenQ2Q0lrQk80emwyajFrRXh0SHJ4Zm9Ra0FGYXRR?oc=5",
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
@@ -308,29 +315,8 @@
       "type": "dividend"
     },
     {
-      "title": "Shanthi Gears Limited Board Meeting Scheduled for January 22, 2026 to Consider Q3FY26 Results and Interim Dividend - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWFNHUWtqZjdzZFpPQW9OQU90ZHkycGV6Vy16aU5zUVhJT2MxWkhpSkR1TWc4Z0Q0MnBxaVN0dVdRazRfSXhZcDhzNUpHNHdUT1pPaldjcVZZZFJXbFNLdklEdGJncllVSG1sYmVhaHBvX3lDVm8zVlQtZnh1NHhzM1ptOXJ3STB5Ql9sLXpVbVVUTmI0bnZ5TnZqdTNNdm1NQ3ZLMFhZX0QxbnNZSUZlYzl1dVRmd0xqTEc5a25CSVd2cmdSRGxIaVg1UVF2LWI4b3BVUk5vZzdrUGEwMUEwLVlzVzdTUS1SXzFXRk9SZTZtTTBOdkxFbkg2aG5QZw?oc=5",
-      "source": "Exchange News",
-      "ts": 0,
-      "type": "dividend"
-    },
-    {
       "title": "RITES Limited Board Meeting Scheduled for February 4, 2026 to Consider Q3FY26 Financial Results and Interim Dividend - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQXc1Ry0zSWNjcHl4VHp6UUdaaXlOcVJCaGJHUHVqWEVCYTB5NFVoS19YS1lfU19tdGZXbGpmckRYcjY5V0Y5T3VMdkZlbTQ2aktKekNfT0NNNHJrTzBUNDFzZUlSU05sc0FZZGRiRVI5dkRtVFRLSGEtSzQwLW9uV1F5ZGlrLVdKRGJxbDZRQldGSXlCb2MzTHR5ZHpOaFlhZ3NLTVBDWGplMlJELXBHb0hyUXA3dll2OGdGZjRqcmFlWW10M0FvTndyQ3R4cWJ5ZHpsQlFVaWJJR2JVZWpNTkNrNTkxOTFzNVRnOGl1YU0yZFFHQnFQaHNJR184WlJr?oc=5",
-      "source": "Exchange News",
-      "ts": 0,
-      "type": "dividend"
-    },
-    {
-      "title": "GAIL dividend 2026 date: Announcement in quarterly results board meeting on Jan 31; record date fixed - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSm5vX3VsYlJ6YzhfazRJWUNudllldGpfb0d3RERLc1ZBS0h6eEVELVRDVm0zUGhyQUZFWHhKTDQ0alYxVDMwMG0ycjl0ZU9PQmV4TWxsNXpDWnNsMWdnbG4tNWFIWW01RzdDS1U2dWdLT0lOQVFrR1ZwNk5XeFFBcElWNEc4SHdlSWQxV1ZmSGZrUEc5Rm9KOUltTkc2cDQxTjlITVU5bktmWTVaMmtERzA1MHd2M1ZETXRydmR4SzdCZEhHRDZDQlZMOXBITndBMXl2MVZ6NnNTV19zOTgtTzUwcVY3R2tUS19n0gHwAUFVX3lxTE1vakdfUVdoT3EwT3lGXzljcjI5eUViR2ZLd3EtejR4ZS0yV21HWE5Id0M5OXg1RUV0VS1fRmVZbnBuV1hGNjU4dkU4SV9WbzdGRWppblo2dkZUazN1TjRsU0pwWjlqM1lnQVBXUDdyUzdOY0l5VkFJdVVWMGpPaG84VVBueGt2X3JvcEE1S2EzbmxsZ0JkMHYxc2FSM3ZrcEZoNS1GdkZNWi1vZDBGVk1iNm5SdmI1dGtZWUR3TXdodTJPSmRER1lsNmIwSjMtR2FOdWZOVnhzU2llQXlUTnd2RWFOcHJnVl8ybVVZMkRSTg?oc=5",
-      "source": "Exchange News",
-      "ts": 0,
-      "type": "dividend"
-    },
-    {
-      "title": "Angel One Stock Split, Dividend: Board meeting on Jan 15 for major corporate actions – Expert Gaurang Shah gives trading strategy - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0FUSkxWclNiNlNEelpWNnVEX1pBajJoaFBCYkt6VGNoZjRDOUp0alVZa05tRFJ5eG5keU9KamgwRlRmYXNvZXgwYmFvZFFhZ1labl9KQlBIekUwZ2xmUzhDZGJEMHByWVhRXzFlc1BNWkFJOFB3TmtLeXM0MHE2RmMzVGREVzhCQ08yb19JUGJsS19nZlBsTzJKNXVMS0pZcXFfUnlKenExNm5TYmtMd3hHLXlHMDRocVhFdXhzTnRHQTc3MmdEODlwOHctbkNSaGtJaE4yX3FTTWx2aGprcDlZSER0NWxCcU5XUldwa1pFaWxOUF9YYnpUSUE4VXpPZFRxMnZ3NEXSAY4CQVVfeXFMTWVtbEgzeWxmY2FXME5fbUhVV3kxbm5JbFVWODg0RTc5V1o4dTE3TW9TYUloWUgyRUNhZjR5NlNQMWxjZmU3c0ZpTVRVUUswX19Xb1JtSDRPT2JfWEthQktIM01wRDUxQ04yeTNHRHhabGg3bGotSHFaa3dfQnhzRHBvNDYyYjBkNG94RGU2ZGprbnd1bkQ0LXpXTWdNUkR6NU9xU0ZNajJRaWJGUmZ5RVJzOXRqcThVYjJvTDM2THRiaERnRG5oaVhjXzRtQkZCdDVfN0VTd2N1czBFaXJLTFNlTVdfcWQ0OWlUTFdoa3dVenQ2Q0lrQk80emwyajFrRXh0SHJ4Zm9Ra0FGYXRR?oc=5",
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
@@ -341,6 +327,13 @@
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
+    },
+    {
+      "title": "Cyber Media India Board Meeting Set for January 24, 2026 to Review Q3FY26 Results and Approve Merger - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWjRzWHdtc3l6clhneF9jaVFCNXBpaFdCX0lYU3lsNmticjlMR1lLZ1lPb2pQS3FHdk1DRlkyTTdzRVpZUW4yRmNUbmF1ZEMxdkgxcVNteW5GWnotbEYxcDVOX0NDelBaVm1GVklpNUV0eFN5c0VpeDVXRWphQVRsSTFFaHo2a1NjWEp5ZnB1QXhVNlBBODNlTE9hdnNYeDR3WjdQczJEcWlqQW5sUWRwcWJnZWVNcGxDNlMtaVF0MFRPeFVkNkwxRHZSbVpZdDVFSl8yMTc0UGVhZ0tMS1Jpc0VVYkNiRjd2NmtHVGJXaGU?oc=5",
+      "source": "Exchange News",
+      "ts": 0,
+      "type": "results"
     },
     {
       "title": "NHPC interim dividend in Q3 results FY 2026 – Check board meeting date, dividend history - ET Now",
@@ -406,6 +399,13 @@
       "type": "dividend"
     },
     {
+      "title": "ONGC dividend announcement in Q2 results FY 2026; Quarterly earnings release date and time - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd0ZzNWVWbkxndnZncjlRNUthY2ZhZ2RVSlJ2YVZiNnpwWFJldUVWeEk1U2FiQXlMTmVXb0xOMnU1di01SzJhcmctTFg4YnlOYzlzYWE4V19FYWN2WUt6b1dyR2Y0ZkphRHduWEFtRW1xdjV2ZFhNdmJzVjIzUXBFdUZJVVZtMUJYaEo0cURpUWcyQ0duakF6ZXgtTzlkVFROdjRMeTczS3FsQkN3QmRHbkFUcy12bEtlaFdMQXY1c2c4eVFyWGlQNmVWSy1CbmZPeEp6blJFTU_SAd4BQVVfeXFMTnJ0S2FvYVZFcUZ6QzZyUTF0VEhwWXh6M3g0Q1J2M0ZTdktDU3dzYjN4MURqZ0ptcko2QUtVYUg3ajJfV2NJMFVnanNNNzZvaGp1UmZITnotSjhyRDNzYkRncVAybzJKREdnYmQ4Y014RldodDJ0cllESUpsOHlOTkhwYU5wcGdyQUotcHU1RmQ5NlBZc2RFcS0xZEItbktNdC01cEtFYTJSTF9mY1FGTi1Nb05KWTlxdHhNUEF2cGFzWTZQNTZ3Ql8xb09QLUY3YldpekJrZVVsVTdhaHJ3?oc=5",
+      "source": "Exchange News",
+      "ts": 0,
+      "type": "dividend"
+    },
+    {
       "title": "HDFC Bank to Review Bonus Issue and Special Dividend July 19 - HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjE5cmprUm9XcEdPYjBISlNKd3FGQXB1VUt2MEg3bkNHejhNMWgyb2RCY0hJRmwyRTd4Z0RZUzZVakNzbzU0bnZrd1Zob251THc5TmtFeVVhVzRyS3N3LUNna3kzQXdVWmUtdkV2UHpxaWtSeUJ6eEtfZWtXT3cweHpOUzlRS1doWTZQSFJLaGdjZ1E0UVJvTThSa2szQ2NkbWZXOEhRdHE?oc=5",
       "source": "Exchange News",
@@ -413,7 +413,7 @@
       "type": "dividend"
     },
     {
-      "title": "HUL dividend announcement in Q2 results FY 2026 – Check board meeting, earnings call date and time - msn.com",
+      "title": "HUL dividend announcement in Q2 results FY 2026 – Check board meeting, earnings call date and time - MSN",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ2NPM2ViRk5nV1hyOHUxNGswdE9fM0JFbEoxeTM2bmhEX2RLNmtzU2R1OHlraHl0eDNpaGVfYnpNVV9SZVpGblFJOGNuRGt2M0JveTR3ckZvNHVtUC12MjMtc2gxc295NXd2TER3RmZnVFpQYmZ4UlB3aFQ3TF9JRkhTenNxcE5rNnh1UWoxcnBMdVhXT2NtZVNjQ1pUeGNhbU1VdW50LWlVNjRZbVlyUjZiV1lsLXl5Wl84TkhNQTRTVzdfNWNfNHNLbTRkYzAxbEcyN0lqNURVRlI4Vl9WdA?oc=5",
       "source": "Exchange News",
       "ts": 0,
@@ -504,8 +504,8 @@
       "type": "dividend"
     },
     {
-      "title": "Flair Writing Industries Schedules Board Meeting for January 29, 2026 to Review Q3FY26 Results and Consider Interim Dividend - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcFhZMmM3c1lza3N0NXdfa3MyczFtc3R6YWVyb2RuemFRWlFscEppeE9nZ240aUMtcnVBU0p4YUlXS1hWQXNRbV9MR3dnRmZRU25jTlJxRF9lMGtoMlNNZDBfbmZEZ2hVYXB5QWZZTklwWWFPUmg4OFBWSFUtQU5Yck4tSTNDS1lsQVAwRW5GWHh2QVBpeXR2WXUzRFY2YjNyeHRucm9CWmV1N3RpLTlVaFc1djBxTV9WZ1piejRwYzBBRWZvaDBsSkNXb09oVnJwUjRaTlJ4bXNzMDBDaktkUkFBVTlYc1BUa09QYmluUHFrWjE0M3c4MTNYdkpBNjg0UHFaTEp1eEpuUlE?oc=5",
+      "title": "Balmer Lawrie & Co. Ltd. Board Meeting scheduled for March 5, 2026 to consider interim dividend for FY2025-26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ05idjRoWk9QZlpNUzZ0ci1xVWtTaTNJd2swSFAtSXVLZnVLMko5QnlrbWVRTTNlRmJfVVlVcUpEMEdHOENvR1IzT05ZOXV6Q2FjTmxubm84WFBRQm9yWF80NTFsWUREbmg5blVsWDZVZHlia2NTRE9FZ0tJYWI1Y3JINzBvdXdmY0VhdzVXZWszTjFrakhqeTRDWlBHUDhEZmpvNktJTU1qbFNoVzl5RFBDS0pmZVdaYVRmQ1J2bnF6b2RxNW9HSktBSEQxZzRuR0pTNnAwZ1NXOW1nUl9BVjNac3VtYnFKOWJxUUxUQ3JhbGlZdEc1dW01ZndaQQ?oc=5",
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
@@ -518,8 +518,8 @@
       "type": "dividend"
     },
     {
-      "title": "Balmer Lawrie & Co. Ltd. Board Meeting scheduled for March 5, 2026 to consider interim dividend for FY2025-26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ05idjRoWk9QZlpNUzZ0ci1xVWtTaTNJd2swSFAtSXVLZnVLMko5QnlrbWVRTTNlRmJfVVlVcUpEMEdHOENvR1IzT05ZOXV6Q2FjTmxubm84WFBRQm9yWF80NTFsWUREbmg5blVsWDZVZHlia2NTRE9FZ0tJYWI1Y3JINzBvdXdmY0VhdzVXZWszTjFrakhqeTRDWlBHUDhEZmpvNktJTU1qbFNoVzl5RFBDS0pmZVdaYVRmQ1J2bnF6b2RxNW9HSktBSEQxZzRuR0pTNnAwZ1NXOW1nUl9BVjNac3VtYnFKOWJxUUxUQ3JhbGlZdEc1dW01ZndaQQ?oc=5",
+      "title": "Flair Writing Industries Schedules Board Meeting for January 29, 2026 to Review Q3FY26 Results and Consider Interim Dividend - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcFhZMmM3c1lza3N0NXdfa3MyczFtc3R6YWVyb2RuemFRWlFscEppeE9nZ240aUMtcnVBU0p4YUlXS1hWQXNRbV9MR3dnRmZRU25jTlJxRF9lMGtoMlNNZDBfbmZEZ2hVYXB5QWZZTklwWWFPUmg4OFBWSFUtQU5Yck4tSTNDS1lsQVAwRW5GWHh2QVBpeXR2WXUzRFY2YjNyeHRucm9CWmV1N3RpLTlVaFc1djBxTV9WZ1piejRwYzBBRWZvaDBsSkNXb09oVnJwUjRaTlJ4bXNzMDBDaktkUkFBVTlYc1BUa09QYmluUHFrWjE0M3c4MTNYdkpBNjg0UHFaTEp1eEpuUlE?oc=5",
       "source": "Exchange News",
       "ts": 0,
       "type": "dividend"
@@ -590,13 +590,6 @@
     {
       "title": "Shreeji Shipping Global Reports Strong Q1 FY26 Results with 23.9% Revenue Growth - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbUw2bXJnQWx5d0M1NFc1UEgyQ3VQelhtYUNyb3FYV09WUG9HWkl3S25MaEJIcmtGWDY3VVpSbW9Tc1NKUW1lYXpSWS10bkYyR19heG5XYmRhbjJoeDhIM0NlMnBXSEFDZ2llSXpjNjVmbm1tdzVsYS1pbXp2cmxYS2VxYWdfUGRCTHZoSTEyQ0w4bDZiNU9ZWUlPM1pTbTNGY3pxNEl4V2xqTHFRY0dmYXJyT0pYTVJqZFRWUEhEWnlLWGVNWXhiT3kwb2dHTkEw?oc=5",
-      "source": "BSE/NSE Results",
-      "ts": 0,
-      "type": "results"
-    },
-    {
-      "title": "ONGC dividend announcement in Q2 results FY 2026; Quarterly earnings release date and time - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd0ZzNWVWbkxndnZncjlRNUthY2ZhZ2RVSlJ2YVZiNnpwWFJldUVWeEk1U2FiQXlMTmVXb0xOMnU1di01SzJhcmctTFg4YnlOYzlzYWE4V19FYWN2WUt6b1dyR2Y0ZkphRHduWEFtRW1xdjV2ZFhNdmJzVjIzUXBFdUZJVVZtMUJYaEo0cURpUWcyQ0duakF6ZXgtTzlkVFROdjRMeTczS3FsQkN3QmRHbkFUcy12bEtlaFdMQXY1c2c4eVFyWGlQNmVWSy1CbmZPeEp6blJFTU_SAd4BQVVfeXFMTnJ0S2FvYVZFcUZ6QzZyUTF0VEhwWXh6M3g0Q1J2M0ZTdktDU3dzYjN4MURqZ0ptcko2QUtVYUg3ajJfV2NJMFVnanNNNzZvaGp1UmZITnotSjhyRDNzYkRncVAybzJKREdnYmQ4Y014RldodDJ0cllESUpsOHlOTkhwYU5wcGdyQUotcHU1RmQ5NlBZc2RFcS0xZEItbktNdC01cEtFYTJSTF9mY1FGTi1Nb05KWTlxdHhNUEF2cGFzWTZQNTZ3Ql8xb09QLUY3YldpekJrZVVsVTdhaHJ3?oc=5",
       "source": "BSE/NSE Results",
       "ts": 0,
       "type": "results"
@@ -1227,6 +1220,13 @@
     {
       "title": "JohnsonCtrls Hitachi Share Price Today, JohnsonCtrls Hitachi Stock Price Live NSE/BSE Updates - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkZWNmFZbjJxT3otMVQ4OXQ1MEcxM0J6d1pXdWhGeEswcXBDbFdnTy15YjNKYXExWlhxMVMtMzMwTFVJN2M0ODMyVEo0RXctdnN2b2hERm85Q1lvUElLQlFjenBsdHJiYzFqcUZWSTEwRmJ4Q0duc0tudVZ0ZWxvNmNCS2Y0djB5ZGxBM2I4Z0xmQXEtbEVn?oc=5",
+      "source": "Board Meetings",
+      "ts": 0,
+      "type": "board"
+    },
+    {
+      "title": "Ibull Real Estate Share Price Today, Ibull Real Estate Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQelVxTEJTcVhzcDRyU3RyLVdZeEdOczg4T1c5ZGlHUHI0QkRrdUg0QzI4amtFQlFNbnE5djJSTXJyaFYtOEdHSDZXd2hGOEkyVGJsUU1VWlBfYWFKQmJzanAtdTVQRFMwU3B4X25Gb3lXOS1BV056MjUyUHBGMy1XeWpOdS1jZnNEQ3ZreUNnNE0zZw?oc=5",
       "source": "Board Meetings",
       "ts": 0,
       "type": "board"
