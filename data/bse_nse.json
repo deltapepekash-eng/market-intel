@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-06T06:19:00.869968+00:00",
-  "bse_count": 121,
+  "updated": "2026-04-06T06:21:00.592298+00:00",
+  "bse_count": 127,
   "news_count": 150,
   "log": [
-    "BSE NEWS_DT='2026-04-06T11:47:51.223' keys=['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
+    "BSE NEWS_DT='2026-04-06T11:49:44.447' keys=['NEWSID', 'SCRIP_CD', 'XML_NAME', 'NEWSSUB', 'DT_TM', 'NEWS_DT', 'CRITICALNEWS', 'ANNOUNCEMENT_TYPE']",
     "BSE p1: 50 rows, 50 new, 50 with ts",
-    "BSE p2: 50 rows, 49 new, 50 with ts",
-    "BSE p3: 22 rows, 22 new, 22 with ts",
+    "BSE p2: 50 rows, 48 new, 50 with ts",
+    "BSE p3: 29 rows, 29 new, 29 with ts",
     "BSE p4: empty — stopping pagination",
-    "BSE announcements total added: 121",
+    "BSE announcements total added: 127",
     "BSE actions: 15 fetched, 0 added",
     "BSE calendar: 26 fetched, 0 added",
     "NSE nse_get_corporate_announcements: module 'nsepython' has no attribute 'nse_get_corporate_announcements'",
@@ -20,13 +20,55 @@
     "Corp Actions: 41 in feed, 41 tried, 40 new",
     "Board Meetings: 44 in feed, 44 tried, 44 new",
     "Bulk/Block Deals: 27 in feed, 27 tried, 27 new",
-    "Trading Window: 72 in feed, 50 tried, 45 new",
+    "Trading Window: 72 in feed, 50 tried, 47 new",
     "Share Allotment: 43 in feed, 43 tried, 42 new",
     "M&A: 41 in feed, 41 tried, 40 new",
     "Ratings: 41 in feed, 41 tried, 41 new",
     "Orders Won: 67 in feed, 50 tried, 50 new"
   ],
   "bse_items": [
+    {
+      "title": "Intimation of change in management under Regulation 30 of (LODR)",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2a965ac7-a8e1-4323-a8b5-b016c8d6881e.pdf",
+      "source": "BSE",
+      "ts": 1775476184447,
+      "type": "filing"
+    },
+    {
+      "title": "Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended 31st March, 2026.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9912f720-6cbf-4d01-8759-5fd5ac7de17d.pdf",
+      "source": "BSE",
+      "ts": 1775476182753,
+      "type": "results"
+    },
+    {
+      "title": "Certificate under Regulation 74(5) of SEBI (DP) Regulation, 2018",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2ae3c46e-5d6b-4d16-adfb-013f771760c3.pdf",
+      "source": "BSE",
+      "ts": 1775476166573,
+      "type": "filing"
+    },
+    {
+      "title": "Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended March 31, 2026.",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d75782c2-3bcb-423a-bce6-8a13f831e421.pdf",
+      "source": "BSE",
+      "ts": 1775476156847,
+      "type": "results"
+    },
+    {
+      "title": "The Exchange has sought clarification from Sparc Electrex Ltd on April 06, 2026, with reference to Movement in Price. <BR><BR>The reply is awaited.",
+      "link": "https://www.bseindia.com/corporates/ann.html?scripcode=531370",
+      "source": "BSE",
+      "ts": 1775476155737,
+      "type": "filing"
+    },
+    {
+      "title": "We enclosed herewith a certificate issued by Integrated Registry Management Services Private limited , Registrar and Share Transfer Agent of the company confirming the above compliance.\r\n\r\nThis ....",
+      "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/aa55d90b-60f2-4030-84a7-4fa142a2fb64.pdf",
+      "source": "BSE",
+      "ts": 1775476117943,
+      "type": "filing"
+    },
     {
       "title": "Brand Concepts Limited has submitted to the exchange the intimation under Regulation 74 of SEBI (Depositories and Participants) Regulations, 2018 for the quarter and year ended 31st March,2026",
       "link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/91c40b3c-da46-4f2f-b2db-b6fc69d2fd2a.pdf",
