@@ -46,7 +46,6 @@ jobs:
         id: changes
         run: |
           git diff --quiet data/ && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
-
       - name: Commit and push data
         if: steps.changes.outputs.changed == 'true'
         run: |
