@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-22T12:03:11.320Z",
+  "updated_at": "2026-04-22T12:07:09.001Z",
   "terms": [
     "India",
     "Nifty",
@@ -11,7 +11,6 @@
     "War",
     "Vaxtex",
     "CG Power",
-    "Reliance Industries",
     "DCM Shriram",
     "E2E Networks",
     "Polymed",
@@ -27,10 +26,11 @@
     "Dow Jones",
     "Nasdaq",
     "Breakout",
-    "Breaking News",
     "Drone",
     "Balu Forge",
     "FIIs DIIs",
-    "Eternal"
+    "Eternal",
+    "Reliance",
+    "Breaking"
   ]
 }
